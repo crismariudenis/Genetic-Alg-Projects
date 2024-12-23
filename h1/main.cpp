@@ -203,13 +203,7 @@ public:
         }
         return {ans, t.getTime()};
     }
-    // Todo: abtract its own section but give number.
-    // Todo: dont talk aobut the algorithms that the class knows. maybe in the last paragraph
 
-    // Todo: find more tricks to not create bmore binary vectors
-    // Todo: for D=2 9.66000 [de unde l-am luat]
-    // Todo: add standard deviasion daca nu spatoiu remove min & max. Median,distante inte quartila. DO IT IN R. maybe add it to makefile
-    // Todo: change the title to numerical function
     std::pair<double, double> runFirstImprove(int epochs)
     {
         Timer t;
@@ -436,20 +430,23 @@ void main_schwefel()
 
         return ans;
     };
-
     HillClimb hc{-500, 500, 5, f};
 
-    std::cout << "Best Improvement:\n";
-    hc.benchmark(30, epochs);
     std::cout << "First Improvement:\n";
     hc.benchmark2(30, epochs);
-    std::cout << "Simulated Anealing:\n";
-    hc.benchmark3(30, epochs);
-    std::cout << '\n';
+    // std::cout << "Simulated Anealing:\n";
+    // hc.benchmark3(30, epochs);
+    // std::cout << "Best Improvement:\n";
+    // hc.benchmark(30, epochs);
+    // std::cout << '\n';
 }
-
+// Todo: Title
+// TODo: wrong dimensions
+/// Todo: Forgot wost improvement
+/// Todo:  abstract should not be a section
 int main()
 {
+    
     // main_rast();
     // main_micha();
     // main_dejong();

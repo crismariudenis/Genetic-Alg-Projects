@@ -1,0 +1,40 @@
+30 + sample
+Deyolg al dimension = 0
+s < -1000 OR <2500
+r<30
+m<-25 
+termination condition: poate varia
+mutatio_change 1/brain.size() or 4/L.... 
+
+// MAYBE DON'T DO THIS
+crossover generates 2 children probability = [0.3,0.8]
+index=-1;for(pos in pop){
+if( r[0,1)< ^){
+	if idx == -1 {
+		idx=pos;
+	}
+	else {
+		cx(indx,pos);
+		index = -1;
+	}
+}
+
+
+
+E = end(POP) F>=0
+
+F = 1/(E+eps) . eps to avoid 1/0
+
+max(E) - E for min && E - min(x) for max
+
+F = ((max(E)-E)/(max(E)-min(E)+ EPS) + 1)^n .
+
+some random n = choose the presure of selection
+
+F_n = F / sum(F)
+
+// make sure the last is 1 cause rouunding issue in the wheel of fortune
+
+
+
+Maybe gray code represantion for bits

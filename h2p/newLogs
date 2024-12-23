@@ -1,0 +1,36 @@
+make # 0.1 gray
+# p.fitness = std::pow(((maxFitness - p.fitness) / (maxFitness - minFitness + eps) + 1), 0.5);
+____________Rastrigin Function____________
+Dimensions: 5, Avg Error: 0.000, Standard Error: 0.000, Min Error: 0.000, Max Error: 0.000
+Dimensions: 10, Avg Error: 0.000, Standard Error: 0.000, Min Error: 0.000, Max Error: 0.000
+Dimensions: 30, Avg Error: 6.973, Standard Error: 3.993, Min Error: 2.069, Max Error: 15.921
+Dimensions: 5, Avg Time: 0.424, Standard Time: 0.006, Min Time: 0.420, Max Time: 0.452
+Dimensions: 10, Avg Time: 0.752, Standard Time: 0.017, Min Time: 0.741, Max Time: 0.825
+Dimensions: 30, Avg Time: 2.143, Standard Time: 0.026, Min Time: 2.128, Max Time: 2.250
+
+make # 0.5 gray
+____________Michalewics Function____________
+Dimensions: 5, Avg Error: 0.000, Standard Error: 0.057, Min Error: 0.000, Max Error: 0.150
+Dimensions: 10, Avg Error: 0.296, Standard Error: 0.193, Min Error: 0.000, Max Error: 0.770
+Dimensions: 30, Avg Error: 2.116, Standard Error: 0.511, Min Error: 1.175, Max Error: 3.351
+Dimensions: 5, Avg Time: 0.395, Standard Time: 0.002, Min Time: 0.394, Max Time: 0.403
+Dimensions: 10, Avg Time: 0.738, Standard Time: 0.002, Min Time: 0.735, Max Time: 0.743
+Dimensions: 30, Avg Time: 2.013, Standard Time: 0.010, Min Time: 1.993, Max Time: 2.039
+make # 0.5 gray
+____________De Jong 1 Function____________
+Dimensions: 5, Avg Error: 0.000, Standard Error: 0.000, Min Error: 0.000, Max Error: 0.000
+Dimensions: 10, Avg Error: 0.000, Standard Error: 0.000, Min Error: 0.000, Max Error: 0.000
+Dimensions: 30, Avg Error: 0.000, Standard Error: 0.000, Min Error: 0.000, Max Error: 0.000
+Dimensions: 5, Avg Time: 0.377, Standard Time: 0.003, Min Time: 0.376, Max Time: 0.388
+Dimensions: 10, Avg Time: 0.659, Standard Time: 0.011, Min Time: 0.653, Max Time: 0.712
+Dimensions: 30, Avg Time: 1.875, Standard Time: 0.021, Min Time: 1.850, Max Time: 1.935
+g++ main.cpp -O3 -std=c++20 -DPOWER=0.8 -DGEN=1 -o main && time stdbuf -oL ./main | tee -a logs
+____________Schwefel Function____________
+Dimensions: 5, Avg Error: 0.208, Standard Error: 0.126, Min Error: 0.000, Max Error: 0.518
+Dimensions: 10, Avg Error: 0.417, Standard Error: 0.161, Min Error: 0.311, Max Error: 0.830
+Dimensions: 30, Avg Error: 336.127, Standard Error: 181.053, Min Error: 104.295, Max Error: 891.062
+Dimensions: 5, Avg Time: 0.430, Standard Time: 0.001, Min Time: 0.429, Max Time: 0.433
+Dimensions: 10, Avg Time: 0.809, Standard Time: 0.006, Min Time: 0.808, Max Time: 0.842
+Dimensions: 30, Avg Time: 2.296, Standard Time: 0.022, Min Time: 2.285, Max Time: 2.381
+
+

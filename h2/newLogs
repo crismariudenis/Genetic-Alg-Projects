@@ -1,0 +1,30 @@
+____________Rastrigin Function____________
+Dimensions: 5, Avg Error: 0.00117, Standard Error: 0.00595, Min Error: 0.00018, Max Error: 0.03195
+Dimensions: 5, Avg Time: 0.20700, Standard Time: 0.00525, Min Time: 0.20500, Max Time: 0.23400
+Dimensions: 10, Avg Error: 3.93511, Standard Error: 2.14825, Min Error: 1.04031, Max Error: 9.41935
+Dimensions: 10, Avg Time: 0.35450, Standard Time: 0.00581, Min Time: 0.35100, Max Time: 0.36600
+Dimensions: 30, Avg Error: 31.98224, Standard Error: 6.75767, Min Error: 19.83794, Max Error: 46.04275
+Dimensions: 30, Avg Time: 1.01450, Standard Time: 0.02675, Min Time: 0.96700, Max Time: 1.04300
+____________Michalewics Function____________
+Dimensions: 5, Avg Error: 0.00736, Standard Error: 0.08610, Min Error: 0.00002, Max Error: 0.33175
+Dimensions: 10, Avg Error: 0.32586, Standard Error: 0.21356, Min Error: 0.01691, Max Error: 0.88423
+Dimensions: 30, Avg Error: 3.67506, Standard Error: 0.69209, Min Error: 2.86492, Max Error: 5.55923
+Dimensions: 5, Avg Time: 0.20350, Standard Time: 0.00259, Min Time: 0.19600, Max Time: 0.21100
+Dimensions: 10, Avg Time: 0.38400, Standard Time: 0.00489, Min Time: 0.36700, Max Time: 0.39900
+Dimensions: 30, Avg Time: 1.06700, Standard Time: 0.01062, Min Time: 1.03500, Max Time: 1.09800
+____________De Jong 1 Function____________
+Dimensions: 5, Avg Error: 0.00000, Standard Error: 0.00000, Min Error: 0.00000, Max Error: 0.00000
+Dimensions: 10, Avg Error: 0.00000, Standard Error: 0.00000, Min Error: 0.00000, Max Error: 0.00000
+Dimensions: 30, Avg Error: 0.00000, Standard Error: 0.00000, Min Error: 0.00000, Max Error: 0.00000
+Dimensions: 5, Avg Time: 0.19200, Standard Time: 0.00114, Min Time: 0.19200, Max Time: 0.19800
+Dimensions: 10, Avg Time: 0.33700, Standard Time: 0.00584, Min Time: 0.33600, Max Time: 0.36900
+Dimensions: 30, Avg Time: 0.96100, Standard Time: 0.00783, Min Time: 0.94100, Max Time: 0.97300
+____________Schwefel Function____________
+Dimensions: 5, Avg Error: 0.17764, Standard Error: 0.13171, Min Error: 0.00226, Max Error: 0.43951
+Dimensions: 10, Avg Error: 30.24984, Standard Error: 59.37014, Min Error: 0.48663, Max Error: 273.94105
+Dimensions: 30, Avg Error: 845.00020, Standard Error: 291.67720, Min Error: 455.44695, Max Error: 1952.87975
+Dimensions: 5, Avg Time: 0.26050, Standard Time: 0.01169, Min Time: 0.24900, Max Time: 0.29900
+Dimensions: 10, Avg Time: 0.47650, Standard Time: 0.01732, Min Time: 0.46000, Max Time: 0.52400
+Dimensions: 30, Avg Time: 1.35350, Standard Time: 0.05206, Min Time: 1.30300, Max Time: 1.51100
+
+

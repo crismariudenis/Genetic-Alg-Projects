@@ -1,0 +1,97 @@
+____________Rastrigin Function____________
+Best Improvement:
+Dimensions: 5, Avg Error: 0.00000, Standard Error: 0.49043, Min Error: 0.00000, Max Error: 1.23582
+Dimensions: 5, Avg Time: 0.69600, Standard Time: 0.01410, Min Time: 0.68700, Max Time: 0.73900
+Dimensions: 10, Avg Error: 3.84618, Standard Error: 0.96266, Min Error: 1.98992, Max Error: 5.45652
+Dimensions: 10, Avg Time: 4.90400, Standard Time: 0.14388, Min Time: 4.78000, Max Time: 5.37400
+Dimensions: 30, Avg Error: 27.62942, Standard Error: 2.15652, Min Error: 22.10839, Max Error: 31.56007
+Dimensions: 30, Avg Time: 119.08050, Standard Time: 9.41133, Min Time: 110.29900, Max Time: 139.34800
+
+First Improvement:
+Dimensions: 5, Avg Error: 1.00001, Standard Error: 0.52228, Min Error: 0.00000, Max Error: 2.23078
+Dimensions: 5, Avg Time: 0.50200, Standard Time: 0.00272, Min Time: 0.49500, Max Time: 0.50600
+Dimensions: 10, Avg Error: 5.94078, Standard Error: 1.21023, Min Error: 2.23583, Max Error: 7.93827
+Dimensions: 10, Avg Time: 3.33950, Standard Time: 0.02503, Min Time: 3.27900, Max Time: 3.37200
+Dimensions: 30, Avg Error: 36.10582, Standard Error: 3.29646, Min Error: 29.46706, Max Error: 40.98542
+Dimensions: 30, Avg Time: 76.16300, Standard Time: 224.27070, Min Time: 72.89200, Max Time: 1307.56800
+
+Simulated Anealing:
+Dimensions: 5, Avg Error: 0.99497, Standard Error: 0.51479, Min Error: 0.00002, Max Error: 1.23585
+Dimensions: 5, Avg Time: 4.82450, Standard Time: 0.06039, Min Time: 4.79500, Max Time: 5.14000
+Dimensions: 10, Avg Error: 4.22339, Standard Error: 0.87840, Min Error: 1.99005, Max Error: 5.69748
+Dimensions: 10, Avg Time: 16.08400, Standard Time: 0.43331, Min Time: 15.92600, Max Time: 17.90400
+____________Schwefel Function____________
+Result: 2.54557e-05
+Best Improvement:
+____________Schwefel Function____________
+First Improvement:
+D = 5 & Average error & 0.00000 & 0.00000 & 0.00000 \\
+     &   Standard error & 0.00000 & 0.00000 & 0.00000 \\
+     &   Min error & 0.00000 & 0.00000 & 0.00000 \\
+     &   Max error & 0.00000 & 0.00000 & 0.00000 \\
+
+D = 10 & Average error & 0.00000 & 0.00000 & 0.00000 \\
+     &   Standard error & 0.00000 & 0.00000 & 0.00000 \\
+     &   Min error & 0.00000 & 0.00000 & 0.00000 \\
+     &   Max error & 0.00000 & 0.00000 & 0.00000 \\
+
+D = 30 & Average error & 0.00000 & 0.00000 & 0.00000 \\
+     &   Standard error & 0.00000 & 0.00000 & 0.00000 \\
+     &   Min error & 0.00000 & 0.00000 & 0.00000 \\
+     &   Max error & 0.00000 & 0.00000 & 0.00000 \\
+
+D = 5 & Average time & 0.00000 & 0.00000 & 0.00000 \\
+     &   Standard time & 0.00000 & 0.00000 & 0.00000 \\
+     &   Min time & 0.00000 & 0.00000 & 0.00000 \\
+     &   Max time & 0.00000 & 0.00000 & 0.00000 \\
+
+D = 10 & Average time & 0.00000 & 0.00000 & 0.00000 \\
+     &   Standard time & 0.00000 & 0.00000 & 0.00000 \\
+     &   Min time & 0.00000 & 0.00000 & 0.00000 \\
+     &   Max time & 0.00000 & 0.00000 & 0.00000 \\
+
+D = 30 & Average time & 0.00000 & 0.00000 & 0.00000 \\
+     &   Standard time & 0.00000 & 0.00000 & 0.00000 \\
+     &   Min time & 0.00000 & 0.00000 & 0.00000 \\
+     &   Max time & 0.00000 & 0.00000 & 0.00000 \\
+
+D = 5 & Average time & 0.00000 & 0.00000 & 0.00000 \\
+     &   Standard time & 0.00000 & 0.00000 & 0.00000 \\
+     &   Min time & 0.00000 & 0.00000 & 0.00000 \\
+     &   Max time & 0.00000 & 0.00000 & 0.00000 \\
+
+D = 10 & Average time & 0.00000 & 0.00000 & 0.00000 \\
+     &   Standard time & 0.00000 & 0.00000 & 0.00000 \\
+     &   Min time & 0.00000 & 0.00000 & 0.00000 \\
+     &   Max time & 0.00000 & 0.00000 & 0.00000 \\
+
+____________Schwefel Function____________
+First Improvement:
+Dimensions: 5, Avg Error: 0.41536, Standard Error: 21.02122, Min Error: 0.10470, Max Error: 68.67847
+Dimensions: 5, Avg Time: 1.03350, Standard Time: 0.04483, Min Time: 0.94600, Max Time: 1.10500
+____________Schwefel Function____________
+Best Improvement:
+Dimensions: 5, Avg Error: 0.10468, Standard Error: 0.07436, Min Error: 0.00007, Max Error: 0.31107
+Dimensions: 5, Avg Time: 1.67950, Standard Time: 0.03101, Min Time: 1.64500, Max Time: 1.81100
+Dimensions: 10, Avg Error: 102.96710, Standard Error: 54.80653, Min Error: 34.44521, Max Error: 221.94435
+Dimensions: 10, Avg Time: 11.59900, Standard Time: 0.08828, Min Time: 11.50200, Max Time: 11.87900
+Dimensions: 30, Avg Error: 1249.58000, Standard Error: 145.97330, Min Error: 981.32867, Max Error: 1451.79134
+Dimensions: 30, Avg Time: 283.04450, Standard Time: 14.73118, Min Time: 279.55100, Max Time: 317.00000
+
+First Improvement:
+Dimensions: 5, Avg Error: 27.09073, Standard Error: 28.29316, Min Error: 0.10498, Max Error: 118.43980
+Dimensions: 5, Avg Time: 1.07000, Standard Time: 0.02340, Min Time: 1.03400, Max Time: 1.13100
+____________Schwefel Function____________
+First Improvement:
+Dimensions: 5, Avg Error: 34.28791, Standard Error: 29.01438, Min Error: 0.10437, Max Error: 102.81032
+Dimensions: 5, Avg Time: 1.01600, Standard Time: 0.03815, Min Time: 1.00000, Max Time: 1.15400
+____________Schwefel Function____________
+First Improvement:
+Dimensions: 5, Avg Error: 13.75319, Standard Error: 27.03667, Min Error: 0.00257, Max Error: 68.67847
+Dimensions: 5, Avg Time: 1.02600, Standard Time: 0.02882, Min Time: 0.97700, Max Time: 1.08800
+____________Schwefel Function____________
+First Improvement:
+Dimensions: 5, Avg Error: 0.31201, Standard Error: 24.62405, Min Error: 0.00131, Max Error: 68.57479
+Dimensions: 5, Avg Time: 1.05650, Standard Time: 0.04951, Min Time: 0.96300, Max Time: 1.15900
+Dimensions: 10, Avg Error: 301.42170, Standard Error: 50.27008, Min Error: 187.11969, Max Error: 389.86198
+Dimensions: 10, Avg Time: 7.12900, Standard Time: 0.18839, Min Time: 6.76600, Max Time: 7.54300
