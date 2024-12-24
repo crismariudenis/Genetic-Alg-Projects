@@ -64,7 +64,7 @@ class TSP
         std::string name;
         std::string comment;
         std::string type;
-        u_int32_t dimensions;
+        uint32_t dimensions;
         std::string edge_weight_type;
     } header;
 
