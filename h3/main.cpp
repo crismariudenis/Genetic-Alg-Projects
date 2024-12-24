@@ -22,7 +22,7 @@ void recursive()
         {
             std::string filePath = entry.path().string();
             GeneticMain g{filePath};
-            g.benchmark(30);
+            g.benchmark(100);
         }
     }
 }
@@ -31,8 +31,8 @@ int main()
 {
     // recursive();
     GeneticMain g{"./data/easy/rat99.tsp"};
-    g.benchmark(30);
-    g.benchmark(30);
-    g.benchmark(30);
-    g.benchmark(30);
+    g.benchmark(100);
+    // g.benchmark(30);
+    // g.benchmark(30);
+    // g.benchmark(30);
 }

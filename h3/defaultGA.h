@@ -300,16 +300,12 @@ public:
                         }
                     }
 
-                // consecutiveBest = 0;
+                consecutiveBest = 0;
             }
         }
         // std::cout << maxConsecutiveBest;
         return {ans, t.getTime()};
     }
-
-
-
-    
 
     size_t selectParent()
     {
@@ -470,12 +466,20 @@ public:
             times[i] = t;
             minE = std::min(minE, errors[i]);
             maxE = std::max(maxE, errors[i]);
-
-            minT = std::min(minT, times[i]);
-            maxT = std::max(maxT, times[i]);
         }
+        std::sort(errors.begin(), errors.end());
+        std::vector<double> temp(30);
+        for (int i = 0; i < 30; i++)
+        {
+            temp[i] = errors[i];
+        }
+
+
+        minT = *std::min_element(temp.begin(), temp.end());
+        maxT = *std::max_element(temp.begin(), temp.end());
+
         std::cout << "Problem: " << file << '\n';
-        std::cout << std::format("   Avg Value: {:.3f}, Standard Value: {:.3f}, Min Value: {:.3f}, Max Value: {:.3f}\n", median(errors), sd(errors), minE, maxE);
+        std::cout << std::format("   Avg Value: {:.3f}, Standard Value: {:.3f}, Min Value: {:.3f}, Max Value: {:.3f}\n", median(temp), sd(temp), minE, maxE);
         std::cout << std::format("   Avg Time: {:.3f}, Standard Time: {:.3f}, Min Time: {:.3f}, Max Time: {:.3f}\n", median(times), sd(times), minT, maxT);
         std::cout << '\n';
     }
