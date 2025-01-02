@@ -1,29 +1,24 @@
 Problem: ./data/easy/rat99.tsp
    Avg Value: 1372.000, Standard Value: 24.831, Min Value: 1332.000, Max Value: 1432.000
    Avg Time: 10.694, Standard Time: 0.734, Min Time: 8.781, Max Time: 12.431
-
-1386 1392 1395 1397 1398 1401 1404 1405 1405 1408 1408 1409 1409 1412 1414 1415 1416 1418 1418 1419 1424 1426 1427 1427 1427 1430 1434 1435 1437 1441 
-1386 1392 1395 1397 1398 1401 1404 1405 1405 1408 1408 1409 1409 1412 1414 1415 1416 1418 1418 1419 1424 1426 1427 1427 1427 1430 1434 1435 1437 1441 Problem: ./data/easy/rat99.tsp
+   
+Problem: ./data/easy/rat99.tsp
    Avg Value: 1414.500, Standard Value: 14.251, Min Value: 1386.000, Max Value: 1441.000
    Avg Time: 0.192, Standard Time: 0.004, Min Time: 1386.000, Max Time: 1441.000
 
-1380 1392 1393 1397 1400 1404 1408 1410 1411 1414 1414 1415 1416 1418 1418 1418 1420 1420 1422 1424 1426 1429 1430 1433 1433 1442 1444 1445 1446 1454 
-1380 1392 1393 1397 1400 1404 1408 1410 1411 1414 1414 1415 1416 1418 1418 1418 1420 1420 1422 1424 1426 1429 1430 1433 1433 1442 1444 1445 1446 1454 Problem: ./data/easy/rat99.tsp
+Problem: ./data/easy/rat99.tsp
    Avg Value: 1418.000, Standard Value: 17.440, Min Value: 1380.000, Max Value: 1454.000
    Avg Time: 0.192, Standard Time: 0.005, Min Time: 1380.000, Max Time: 1454.000
 
-1391 1391 1393 1394 1396 1397 1400 1400 1400 1402 1402 1407 1408 1409 1412 1413 1414 1415 1415 1419 1422 1427 1433 1434 1434 1436 1436 1440 1441 1444 
-1391 1391 1393 1394 1396 1397 1400 1400 1400 1402 1402 1407 1408 1409 1412 1413 1414 1415 1415 1419 1422 1427 1433 1434 1434 1436 1436 1440 1441 1444 Problem: ./data/easy/rat99.tsp
+Problem: ./data/easy/rat99.tsp
    Avg Value: 1412.500, Standard Value: 16.811, Min Value: 1391.000, Max Value: 1444.000
    Avg Time: 0.198, Standard Time: 0.013, Min Time: 1391.000, Max Time: 1444.000
 
-1388 1396 1397 1400 1401 1403 1407 1408 1409 1414 1415 1415 1415 1415 1416 1417 1418 1418 1418 1418 1418 1420 1423 1425 1427 1429 1435 1435 1445 1465 
-1388 1396 1397 1400 1401 1403 1407 1408 1409 1414 1415 1415 1415 1415 1416 1417 1418 1418 1418 1418 1418 1420 1423 1425 1427 1429 1435 1435 1445 1465 Problem: ./data/easy/rat99.tsp
+Problem: ./data/easy/rat99.tsp
    Avg Value: 1416.500, Standard Value: 15.299, Min Value: 1388.000, Max Value: 1465.000
    Avg Time: 0.209, Standard Time: 0.008, Min Time: 1388.000, Max Time: 1465.000
 
-1379 1384 1385 1385 1387 1389 1389 1392 1392 1392 1392 1393 1395 1395 1397 1399 1400 1401 1401 1401 1401 1401 1401 1402 1402 1402 1403 1403 1403 1404 1404 1404 1404 1404 1406 1407 1408 1408 1409 1409 1409 1410 1411 1411 1413 1413 1413 1414 1414 1414 1414 1414 1415 1415 1415 1415 1415 1415 1416 1417 1418 1418 1418 1418 1419 1419 1419 1419 1419 1420 1421 1421 1421 1422 1422 1422 1422 1423 1425 1426 1427 1428 1428 1428 1429 1429 1430 1430 1434 1435 1436 1436 1440 1440 1440 1441 1441 1448 1453 1473 
-1379 1384 1385 1385 1387 1389 1389 1392 1392 1392 1392 1393 1395 1395 1397 1399 1400 1401 1401 1401 1401 1401 1401 1402 1402 1402 1403 1403 1403 1404 Problem: ./data/easy/rat99.tsp
+Problem: ./data/easy/rat99.tsp
    Avg Value: 1398.000, Standard Value: 6.999, Min Value: 1379.000, Max Value: 1473.000
    Avg Time: 0.201, Standard Time: 0.004, Min Time: 1379.000, Max Time: 1404.000
 
@@ -38,4 +33,3533 @@ Problem: ./data/easy/rat99.tsp
 Problem: ./data/easy/rat99.tsp
    Avg Value: 1337.000, Standard Value: 5.502, Min Value: 1318.000, Max Value: 1396.000
    Avg Time: 2.055, Standard Time: 0.064, Min Time: 1318.000, Max Time: 1342.000
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6825.500, Standard Value: 127.962, Min Value: 6675.000, Max Value: 7117.000
+   Avg Time: 3.854, Standard Time: 0.218, Min Time: 3.277, Max Time: 4.293
+0.450631 0.397119
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6850.500, Standard Value: 107.581, Min Value: 6607.000, Max Value: 7120.000
+   Avg Time: 3.494, Standard Time: 0.141, Min Time: 3.081, Max Time: 3.752
+0.364574 0.280974
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6831.500, Standard Value: 116.109, Min Value: 6607.000, Max Value: 7126.000
+   Avg Time: 3.954, Standard Time: 0.278, Min Time: 3.198, Max Time: 4.373
+0.470441 0.329274
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6830.500, Standard Value: 66.105, Min Value: 6736.000, Max Value: 7023.000
+   Avg Time: 2.953, Standard Time: 0.044, Min Time: 2.795, Max Time: 3.021
+0.203998 0.457703
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6800.500, Standard Value: 63.392, Min Value: 6665.000, Max Value: 6924.000
+   Avg Time: 3.225, Standard Time: 0.224, Min Time: 2.523, Max Time: 3.582
+0.39459 0.0862552
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6848.000, Standard Value: 78.082, Min Value: 6721.000, Max Value: 7103.000
+   Avg Time: 3.080, Standard Time: 0.191, Min Time: 2.657, Max Time: 3.459
+0.35299 0.109651
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6826.500, Standard Value: 95.416, Min Value: 6678.000, Max Value: 7106.000
+   Avg Time: 4.014, Standard Time: 0.227, Min Time: 3.424, Max Time: 4.378
+0.473927 0.404308
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6852.000, Standard Value: 71.387, Min Value: 6675.000, Max Value: 6981.000
+   Avg Time: 2.881, Standard Time: 0.029, Min Time: 2.850, Max Time: 2.973
+0.0843206 0.0831277
+
+4 6 345 63 53 Problem: ./data/medium/a280.tsp
+   Avg Value: 2938.000, Standard Value: 40.332, Min Value: 2894.000, Max Value: 3019.000
+   Avg Time: 9.026, Standard Time: 0.546, Min Time: 7.936, Max Time: 10.079
+0.373386 0.0569131
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6865.000, Standard Value: 85.648, Min Value: 6753.000, Max Value: 7160.000
+   Avg Time: 3.030, Standard Time: 0.023, Min Time: 3.004, Max Time: 3.129
+0.0228796 0.275728
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6859.500, Standard Value: 84.746, Min Value: 6674.000, Max Value: 7105.000
+   Avg Time: 2.873, Standard Time: 0.030, Min Time: 2.831, Max Time: 2.962
+0.0900593 0.248777
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6866.000, Standard Value: 118.082, Min Value: 6705.000, Max Value: 7161.000
+   Avg Time: 2.973, Standard Time: 0.052, Min Time: 2.861, Max Time: 3.097
+0.0481853 0.169678
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6853.000, Standard Value: 90.016, Min Value: 6756.000, Max Value: 7114.000
+   Avg Time: 3.335, Standard Time: 0.169, Min Time: 2.843, Max Time: 3.503
+0.380995 0.0857279
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2906.000, Standard Value: 43.984, Min Value: 2863.000, Max Value: 2998.000
+   Avg Time: 7.623, Standard Time: 0.395, Min Time: 7.031, Max Time: 8.401
+0.258076 0.199779
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 131515.500, Standard Value: 3700.744, Min Value: 125163.000, Max Value: 136987.000
+   Avg Time: 2.538, Standard Time: 0.023, Min Time: 2.509, Max Time: 2.601
+0.0266873 0.0155663
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64451.000, Standard Value: 882.650, Min Value: 62621.000, Max Value: 67655.000
+   Avg Time: 3.880, Standard Time: 0.167, Min Time: 3.401, Max Time: 4.226
+0.482439 0.186033
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6841.000, Standard Value: 76.505, Min Value: 6710.000, Max Value: 7028.000
+   Avg Time: 2.925, Standard Time: 0.049, Min Time: 2.797, Max Time: 2.993
+0.0804379 0.106752
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2916.500, Standard Value: 36.221, Min Value: 2882.000, Max Value: 2987.000
+   Avg Time: 7.671, Standard Time: 0.285, Min Time: 7.209, Max Time: 8.291
+0.175964 0.192307
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 126123.000, Standard Value: 3275.691, Min Value: 123789.000, Max Value: 135111.000
+   Avg Time: 2.482, Standard Time: 0.035, Min Time: 2.460, Max Time: 2.621
+0.0562821 0.0371831
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64489.000, Standard Value: 694.185, Min Value: 62484.000, Max Value: 65690.000
+   Avg Time: 2.473, Standard Time: 0.066, Min Time: 2.356, Max Time: 2.590
+0.186413 0.333808
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6836.000, Standard Value: 110.479, Min Value: 6710.000, Max Value: 7133.000
+   Avg Time: 2.978, Standard Time: 0.058, Min Time: 2.834, Max Time: 3.100
+0.18066 0.328154
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2912.000, Standard Value: 37.056, Min Value: 2866.000, Max Value: 2986.000
+   Avg Time: 7.607, Standard Time: 0.211, Min Time: 7.287, Max Time: 8.144
+0.171324 0.199987
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 128375.500, Standard Value: 3332.588, Min Value: 123474.000, Max Value: 132685.000
+   Avg Time: 3.505, Standard Time: 0.313, Min Time: 2.907, Max Time: 4.019
+0.493052 0.482815
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64451.000, Standard Value: 395.854, Min Value: 62659.000, Max Value: 65380.000
+   Avg Time: 3.926, Standard Time: 0.185, Min Time: 3.440, Max Time: 4.200
+0.487901 0.274999
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6840.500, Standard Value: 112.995, Min Value: 6607.000, Max Value: 7107.000
+   Avg Time: 3.700, Standard Time: 0.303, Min Time: 2.805, Max Time: 4.307
+0.449319 0.332914
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2895.500, Standard Value: 33.250, Min Value: 2861.000, Max Value: 2977.000
+   Avg Time: 7.570, Standard Time: 0.234, Min Time: 7.243, Max Time: 8.040
+0.208013 0.395731
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 126829.000, Standard Value: 3295.106, Min Value: 123476.000, Max Value: 132655.000
+   Avg Time: 2.688, Standard Time: 0.156, Min Time: 2.322, Max Time: 3.020
+0.35827 0.0706725
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64489.000, Standard Value: 585.836, Min Value: 62446.000, Max Value: 66248.000
+   Avg Time: 2.405, Standard Time: 0.030, Min Time: 2.351, Max Time: 2.502
+0.14153 0.188534
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6843.500, Standard Value: 99.341, Min Value: 6618.000, Max Value: 7093.000
+   Avg Time: 2.929, Standard Time: 0.036, Min Time: 2.845, Max Time: 2.977
+0.102022 0.214592
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2933.000, Standard Value: 40.234, Min Value: 2859.000, Max Value: 2992.000
+   Avg Time: 7.705, Standard Time: 0.172, Min Time: 7.307, Max Time: 8.147
+0.202171 0.311595
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 129283.500, Standard Value: 3468.325, Min Value: 123476.000, Max Value: 134387.000
+   Avg Time: 2.518, Standard Time: 0.016, Min Time: 2.503, Max Time: 2.577
+0.0687574 0.449034
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64489.000, Standard Value: 244.202, Min Value: 64352.000, Max Value: 65380.000
+   Avg Time: 3.140, Standard Time: 0.113, Min Time: 2.811, Max Time: 3.351
+0.3889 0.103615
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6834.500, Standard Value: 98.719, Min Value: 6739.000, Max Value: 7143.000
+   Avg Time: 3.135, Standard Time: 0.098, Min Time: 2.894, Max Time: 3.366
+0.284524 0.302161
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2911.000, Standard Value: 35.043, Min Value: 2864.000, Max Value: 2992.000
+   Avg Time: 7.704, Standard Time: 0.178, Min Time: 7.449, Max Time: 8.045
+0.142769 0.280464
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 125891.000, Standard Value: 3419.251, Min Value: 123277.000, Max Value: 133761.000
+   Avg Time: 2.491, Standard Time: 0.020, Min Time: 2.441, Max Time: 2.535
+0.103156 0.456184
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64580.500, Standard Value: 529.223, Min Value: 63681.000, Max Value: 66392.000
+   Avg Time: 2.748, Standard Time: 0.099, Min Time: 2.456, Max Time: 2.874
+0.328055 0.0283977
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6863.500, Standard Value: 102.142, Min Value: 6675.000, Max Value: 7126.000
+   Avg Time: 4.146, Standard Time: 0.248, Min Time: 3.535, Max Time: 4.333
+0.482214 0.415066
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2917.000, Standard Value: 37.685, Min Value: 2894.000, Max Value: 3012.000
+   Avg Time: 7.631, Standard Time: 0.158, Min Time: 7.536, Max Time: 7.984
+0.105081 0.276055
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 128927.500, Standard Value: 3646.742, Min Value: 123518.000, Max Value: 134692.000
+   Avg Time: 3.286, Standard Time: 0.339, Min Time: 2.424, Max Time: 3.714
+0.486381 0.149635
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64805.000, Standard Value: 545.605, Min Value: 64438.000, Max Value: 66884.000
+   Avg Time: 2.438, Standard Time: 0.037, Min Time: 2.368, Max Time: 2.514
+0.180727 0.0172689
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6966.000, Standard Value: 85.953, Min Value: 6795.000, Max Value: 7166.000
+   Avg Time: 2.852, Standard Time: 0.045, Min Time: 2.741, Max Time: 2.976
+0.206019 0.012944
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2914.000, Standard Value: 42.328, Min Value: 2878.000, Max Value: 3038.000
+   Avg Time: 7.590, Standard Time: 0.191, Min Time: 7.332, Max Time: 7.906
+0.137745 0.217812
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 127157.000, Standard Value: 3470.910, Min Value: 123689.000, Max Value: 135598.000
+   Avg Time: 2.914, Standard Time: 0.246, Min Time: 2.311, Max Time: 3.318
+0.394001 0.184334
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64489.000, Standard Value: 661.020, Min Value: 62484.000, Max Value: 66464.000
+   Avg Time: 2.408, Standard Time: 0.025, Min Time: 2.359, Max Time: 2.475
+0.122157 0.473668
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6836.500, Standard Value: 89.341, Min Value: 6678.000, Max Value: 7114.000
+   Avg Time: 2.912, Standard Time: 0.138, Min Time: 2.847, Max Time: 3.452
+0.139008 0.41872
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2924.500, Standard Value: 41.665, Min Value: 2872.000, Max Value: 2992.000
+   Avg Time: 7.682, Standard Time: 0.142, Min Time: 7.464, Max Time: 7.937
+0.158024 0.371242
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 129804.000, Standard Value: 3123.774, Min Value: 124100.000, Max Value: 134218.000
+   Avg Time: 2.478, Standard Time: 0.015, Min Time: 2.449, Max Time: 2.506
+0.0740838 0.0952731
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64470.000, Standard Value: 494.805, Min Value: 62851.000, Max Value: 65565.000
+   Avg Time: 2.438, Standard Time: 0.048, Min Time: 2.353, Max Time: 2.554
+0.0430197 0.122669
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6782.500, Standard Value: 76.318, Min Value: 6661.000, Max Value: 6948.000
+   Avg Time: 3.292, Standard Time: 0.173, Min Time: 2.903, Max Time: 3.675
+0.335278 0.338696
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2913.500, Standard Value: 42.567, Min Value: 2852.000, Max Value: 2991.000
+   Avg Time: 8.836, Standard Time: 0.779, Min Time: 7.225, Max Time: 10.039
+0.438282 0.494294
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 128192.500, Standard Value: 2844.606, Min Value: 123540.000, Max Value: 133248.000
+   Avg Time: 2.841, Standard Time: 0.279, Min Time: 2.289, Max Time: 3.243
+0.440154 0.0361373
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64705.000, Standard Value: 397.836, Min Value: 62769.000, Max Value: 65129.000
+   Avg Time: 2.717, Standard Time: 0.068, Min Time: 2.533, Max Time: 2.833
+0.318434 0.0609345
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6826.500, Standard Value: 121.175, Min Value: 6620.000, Max Value: 7155.000
+   Avg Time: 2.894, Standard Time: 0.120, Min Time: 2.833, Max Time: 3.343
+0.127872 0.249981
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2925.500, Standard Value: 38.373, Min Value: 2890.000, Max Value: 3009.000
+   Avg Time: 7.787, Standard Time: 0.133, Min Time: 7.637, Max Time: 8.028
+0.0949211 0.32449
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 125756.000, Standard Value: 3447.437, Min Value: 123518.000, Max Value: 136114.000
+   Avg Time: 2.890, Standard Time: 0.121, Min Time: 2.628, Max Time: 3.050
+0.320167 0.46845
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64489.000, Standard Value: 472.720, Min Value: 62484.000, Max Value: 65478.000
+   Avg Time: 3.293, Standard Time: 0.096, Min Time: 3.017, Max Time: 3.412
+0.381675 0.387684
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6852.000, Standard Value: 79.569, Min Value: 6685.000, Max Value: 7081.000
+   Avg Time: 3.695, Standard Time: 0.336, Min Time: 2.735, Max Time: 4.390
+0.494837 0.090143
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2949.000, Standard Value: 39.456, Min Value: 2887.000, Max Value: 3029.000
+   Avg Time: 7.739, Standard Time: 0.215, Min Time: 7.384, Max Time: 8.310
+0.195368 0.0375946
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 127450.500, Standard Value: 3079.200, Min Value: 123877.000, Max Value: 133312.000
+   Avg Time: 3.199, Standard Time: 0.157, Min Time: 2.891, Max Time: 3.580
+0.424915 0.258091
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64489.000, Standard Value: 426.152, Min Value: 64314.000, Max Value: 66682.000
+   Avg Time: 2.610, Standard Time: 0.038, Min Time: 2.529, Max Time: 2.699
+0.233973 0.44622
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6850.000, Standard Value: 89.850, Min Value: 6717.000, Max Value: 7120.000
+   Avg Time: 3.063, Standard Time: 0.099, Min Time: 2.850, Max Time: 3.278
+0.301584 0.155022
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2902.000, Standard Value: 45.578, Min Value: 2883.000, Max Value: 3011.000
+   Avg Time: 7.753, Standard Time: 0.250, Min Time: 7.387, Max Time: 8.256
+0.263921 0.113624
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 127033.000, Standard Value: 3333.262, Min Value: 123303.000, Max Value: 134206.000
+   Avg Time: 2.919, Standard Time: 0.227, Min Time: 2.543, Max Time: 3.391
+0.388095 0.165051
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64550.000, Standard Value: 613.918, Min Value: 62769.000, Max Value: 66481.000
+   Avg Time: 2.429, Standard Time: 0.024, Min Time: 2.388, Max Time: 2.499
+0.0640041 0.254446
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6851.500, Standard Value: 90.027, Min Value: 6723.000, Max Value: 7169.000
+   Avg Time: 3.812, Standard Time: 0.205, Min Time: 3.033, Max Time: 4.111
+0.461619 0.266524
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2982.500, Standard Value: 38.156, Min Value: 2961.000, Max Value: 3080.000
+   Avg Time: 9.185, Standard Time: 0.242, Min Time: 8.780, Max Time: 9.690
+0.30319 0.00401052
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 127033.500, Standard Value: 2837.217, Min Value: 123715.000, Max Value: 133421.000
+   Avg Time: 3.624, Standard Time: 0.381, Min Time: 2.786, Max Time: 4.400
+0.498075 0.424625
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64470.000, Standard Value: 799.871, Min Value: 62446.000, Max Value: 66690.000
+   Avg Time: 2.473, Standard Time: 0.035, Min Time: 2.355, Max Time: 2.514
+0.185174 0.368231
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6800.000, Standard Value: 63.297, Min Value: 6678.000, Max Value: 6915.000
+   Avg Time: 2.880, Standard Time: 0.021, Min Time: 2.842, Max Time: 2.947
+0.11676 0.278347
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2923.000, Standard Value: 36.931, Min Value: 2894.000, Max Value: 3044.000
+   Avg Time: 9.794, Standard Time: 0.692, Min Time: 8.620, Max Time: 11.290
+0.490648 0.0778755
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 128259.000, Standard Value: 2880.673, Min Value: 124444.000, Max Value: 134588.000
+   Avg Time: 2.393, Standard Time: 0.046, Min Time: 2.275, Max Time: 2.487
+0.182019 0.017027
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64489.000, Standard Value: 666.343, Min Value: 62446.000, Max Value: 66071.000
+   Avg Time: 3.926, Standard Time: 0.119, Min Time: 3.587, Max Time: 4.134
+0.478747 0.463739
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6853.000, Standard Value: 83.874, Min Value: 6694.000, Max Value: 7084.000
+   Avg Time: 2.977, Standard Time: 0.121, Min Time: 2.736, Max Time: 3.211
+0.31785 0.0895351
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2943.000, Standard Value: 35.126, Min Value: 2855.000, Max Value: 2967.000
+   Avg Time: 7.929, Standard Time: 0.281, Min Time: 7.394, Max Time: 8.369
+0.260273 0.455978
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 127820.500, Standard Value: 3374.225, Min Value: 124087.000, Max Value: 134208.000
+   Avg Time: 2.744, Standard Time: 0.253, Min Time: 2.303, Max Time: 3.330
+0.410186 0.0817639
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64489.000, Standard Value: 430.988, Min Value: 64314.000, Max Value: 66469.000
+   Avg Time: 2.425, Standard Time: 0.024, Min Time: 2.382, Max Time: 2.483
+0.0842805 0.287365
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 7197.000, Standard Value: 82.236, Min Value: 7048.000, Max Value: 7341.000
+   Avg Time: 3.739, Standard Time: 0.094, Min Time: 3.574, Max Time: 3.942
+0.391535 0.00161727
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2898.000, Standard Value: 42.625, Min Value: 2859.000, Max Value: 2990.000
+   Avg Time: 8.511, Standard Time: 0.537, Min Time: 7.442, Max Time: 9.545
+0.41535 0.374648
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 124976.500, Standard Value: 2953.752, Min Value: 123277.000, Max Value: 133524.000
+   Avg Time: 2.506, Standard Time: 0.018, Min Time: 2.478, Max Time: 2.553
+0.0817166 0.285541
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64489.000, Standard Value: 344.053, Min Value: 64352.000, Max Value: 66071.000
+   Avg Time: 2.493, Standard Time: 0.028, Min Time: 2.442, Max Time: 2.555
+0.204124 0.305724
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6856.000, Standard Value: 81.283, Min Value: 6728.000, Max Value: 7096.000
+   Avg Time: 2.932, Standard Time: 0.157, Min Time: 2.903, Max Time: 3.509
+0.0851977 0.204337
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2924.500, Standard Value: 39.903, Min Value: 2895.000, Max Value: 3017.000
+   Avg Time: 7.476, Standard Time: 0.172, Min Time: 7.294, Max Time: 7.847
+0.129033 0.0747831
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 124562.500, Standard Value: 2793.732, Min Value: 123544.000, Max Value: 132068.000
+   Avg Time: 2.569, Standard Time: 0.067, Min Time: 2.453, Max Time: 2.679
+0.23542 0.489394
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64489.000, Standard Value: 702.893, Min Value: 62621.000, Max Value: 66875.000
+   Avg Time: 2.816, Standard Time: 0.058, Min Time: 2.688, Max Time: 2.938
+0.295071 0.466585
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6836.500, Standard Value: 70.793, Min Value: 6740.000, Max Value: 7067.000
+   Avg Time: 2.985, Standard Time: 0.161, Min Time: 2.957, Max Time: 3.554
+0.0635913 0.267067
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2924.000, Standard Value: 35.662, Min Value: 2895.000, Max Value: 3028.000
+   Avg Time: 7.572, Standard Time: 0.168, Min Time: 7.231, Max Time: 7.965
+0.154066 0.0821198
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 127852.500, Standard Value: 3084.775, Min Value: 123518.000, Max Value: 132521.000
+   Avg Time: 3.295, Standard Time: 0.184, Min Time: 2.891, Max Time: 3.681
+0.416112 0.405487
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64489.000, Standard Value: 524.997, Min Value: 62484.000, Max Value: 65313.000
+   Avg Time: 3.140, Standard Time: 0.080, Min Time: 2.903, Max Time: 3.231
+0.359038 0.489103
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6853.000, Standard Value: 92.365, Min Value: 6616.000, Max Value: 7104.000
+   Avg Time: 3.305, Standard Time: 0.177, Min Time: 3.019, Max Time: 3.691
+0.354146 0.227773
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2907.000, Standard Value: 43.194, Min Value: 2848.000, Max Value: 2985.000
+   Avg Time: 8.004, Standard Time: 0.363, Min Time: 7.316, Max Time: 8.830
+0.312505 0.410756
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 128356.500, Standard Value: 3735.362, Min Value: 123535.000, Max Value: 135419.000
+   Avg Time: 2.527, Standard Time: 0.054, Min Time: 2.422, Max Time: 2.677
+0.191293 0.259358
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64489.000, Standard Value: 648.482, Min Value: 62809.000, Max Value: 67264.000
+   Avg Time: 2.406, Standard Time: 0.025, Min Time: 2.336, Max Time: 2.468
+0.186461 0.173318
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6852.000, Standard Value: 94.815, Min Value: 6693.000, Max Value: 7110.000
+   Avg Time: 2.916, Standard Time: 0.152, Min Time: 2.847, Max Time: 3.437
+0.193127 0.173811
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2917.000, Standard Value: 41.921, Min Value: 2869.000, Max Value: 2993.000
+   Avg Time: 7.693, Standard Time: 0.200, Min Time: 7.328, Max Time: 8.001
+0.168434 0.471891
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 128411.000, Standard Value: 2838.668, Min Value: 123535.000, Max Value: 132391.000
+   Avg Time: 2.829, Standard Time: 0.163, Min Time: 2.566, Max Time: 3.143
+0.345954 0.257487
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64512.000, Standard Value: 948.585, Min Value: 62628.000, Max Value: 68427.000
+   Avg Time: 2.466, Standard Time: 0.036, Min Time: 2.366, Max Time: 2.506
+0.180552 0.174125
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 7199.000, Standard Value: 86.872, Min Value: 7094.000, Max Value: 7363.000
+   Avg Time: 4.835, Standard Time: 0.020, Min Time: 4.799, Max Time: 4.903
+0.00391776 0.0625381
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2965.000, Standard Value: 36.908, Min Value: 2922.000, Max Value: 3040.000
+   Avg Time: 8.267, Standard Time: 0.182, Min Time: 7.973, Max Time: 8.613
+0.0160425 0.248614
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 127679.500, Standard Value: 3066.246, Min Value: 121265.000, Max Value: 132992.000
+   Avg Time: 2.529, Standard Time: 0.051, Min Time: 2.361, Max Time: 2.607
+0.18571 0.305383
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64451.000, Standard Value: 510.857, Min Value: 62484.000, Max Value: 65059.000
+   Avg Time: 2.743, Standard Time: 0.068, Min Time: 2.580, Max Time: 2.840
+0.275517 0.492472
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6826.500, Standard Value: 79.611, Min Value: 6607.000, Max Value: 6984.000
+   Avg Time: 3.249, Standard Time: 0.145, Min Time: 3.009, Max Time: 3.622
+0.314165 0.421628
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2928.500, Standard Value: 35.953, Min Value: 2886.000, Max Value: 3009.000
+   Avg Time: 7.843, Standard Time: 0.174, Min Time: 7.558, Max Time: 8.340
+0.083073 0.29271
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 125401.000, Standard Value: 3261.545, Min Value: 123535.000, Max Value: 133646.000
+   Avg Time: 3.344, Standard Time: 0.280, Min Time: 2.883, Max Time: 4.038
+0.460782 0.311139
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64477.500, Standard Value: 686.191, Min Value: 63043.000, Max Value: 67840.000
+   Avg Time: 2.414, Standard Time: 0.021, Min Time: 2.375, Max Time: 2.479
+0.062067 0.104352
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6881.500, Standard Value: 104.200, Min Value: 6725.000, Max Value: 7184.000
+   Avg Time: 3.067, Standard Time: 0.025, Min Time: 3.014, Max Time: 3.126
+0.0233816 0.434198
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2917.000, Standard Value: 43.841, Min Value: 2878.000, Max Value: 3010.000
+   Avg Time: 7.617, Standard Time: 0.232, Min Time: 7.209, Max Time: 8.079
+0.245122 0.123302
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 129350.500, Standard Value: 3401.849, Min Value: 123544.000, Max Value: 139497.000
+   Avg Time: 2.407, Standard Time: 0.054, Min Time: 2.308, Max Time: 2.517
+0.189965 0.0717356
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64500.500, Standard Value: 359.500, Min Value: 62920.000, Max Value: 64850.000
+   Avg Time: 2.466, Standard Time: 0.031, Min Time: 2.417, Max Time: 2.552
+0.0366002 0.374708
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6852.500, Standard Value: 87.944, Min Value: 6679.000, Max Value: 7104.000
+   Avg Time: 3.428, Standard Time: 0.186, Min Time: 2.760, Max Time: 3.666
+0.397719 0.146679
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2944.000, Standard Value: 38.066, Min Value: 2884.000, Max Value: 3040.000
+   Avg Time: 7.883, Standard Time: 0.167, Min Time: 7.570, Max Time: 8.214
+0.10288 0.196248
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 124780.000, Standard Value: 2744.389, Min Value: 123277.000, Max Value: 131538.000
+   Avg Time: 2.642, Standard Time: 0.068, Min Time: 2.485, Max Time: 2.791
+0.274682 0.259101
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64500.500, Standard Value: 579.224, Min Value: 64314.000, Max Value: 66325.000
+   Avg Time: 3.833, Standard Time: 0.137, Min Time: 3.620, Max Time: 4.143
+0.477294 0.26723
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6871.000, Standard Value: 64.787, Min Value: 6720.000, Max Value: 6991.000
+   Avg Time: 3.138, Standard Time: 0.088, Min Time: 3.106, Max Time: 3.600
+0.0232613 0.0593246
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2928.500, Standard Value: 31.613, Min Value: 2902.000, Max Value: 3013.000
+   Avg Time: 7.819, Standard Time: 0.154, Min Time: 7.740, Max Time: 8.155
+0.0463997 0.297242
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 126381.500, Standard Value: 2835.717, Min Value: 123795.000, Max Value: 132242.000
+   Avg Time: 2.848, Standard Time: 0.122, Min Time: 2.522, Max Time: 3.047
+0.320722 0.420081
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64519.500, Standard Value: 582.463, Min Value: 62769.000, Max Value: 66325.000
+   Avg Time: 2.520, Standard Time: 0.044, Min Time: 2.422, Max Time: 2.606
+0.208212 0.23398
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6836.000, Standard Value: 112.469, Min Value: 6651.000, Max Value: 7155.000
+   Avg Time: 2.904, Standard Time: 0.124, Min Time: 2.820, Max Time: 3.240
+0.159988 0.267565
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2912.500, Standard Value: 37.171, Min Value: 2850.000, Max Value: 2985.000
+   Avg Time: 8.796, Standard Time: 0.661, Min Time: 6.916, Max Time: 9.522
+0.439064 0.264716
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 129563.500, Standard Value: 3250.763, Min Value: 123804.000, Max Value: 133748.000
+   Avg Time: 2.551, Standard Time: 0.023, Min Time: 2.516, Max Time: 2.610
+0.0434753 0.331625
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64451.000, Standard Value: 735.436, Min Value: 64314.000, Max Value: 67665.000
+   Avg Time: 3.671, Standard Time: 0.135, Min Time: 3.410, Max Time: 3.882
+0.427432 0.472696
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6836.500, Standard Value: 107.972, Min Value: 6694.000, Max Value: 7131.000
+   Avg Time: 3.183, Standard Time: 0.182, Min Time: 2.839, Max Time: 3.596
+0.336006 0.170807
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2958.500, Standard Value: 41.736, Min Value: 2905.000, Max Value: 3048.000
+   Avg Time: 7.822, Standard Time: 0.209, Min Time: 7.401, Max Time: 8.076
+0.180703 0.0358491
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 124495.500, Standard Value: 3060.094, Min Value: 123303.000, Max Value: 131457.000
+   Avg Time: 2.978, Standard Time: 0.156, Min Time: 2.535, Max Time: 3.191
+0.356556 0.489179
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64489.000, Standard Value: 596.737, Min Value: 62659.000, Max Value: 66071.000
+   Avg Time: 2.436, Standard Time: 0.032, Min Time: 2.348, Max Time: 2.499
+0.183204 0.110762
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6860.000, Standard Value: 107.844, Min Value: 6737.000, Max Value: 7152.000
+   Avg Time: 3.473, Standard Time: 0.253, Min Time: 3.098, Max Time: 4.212
+0.472987 0.0930472
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2944.500, Standard Value: 37.348, Min Value: 2916.000, Max Value: 3042.000
+   Avg Time: 10.949, Standard Time: 0.708, Min Time: 9.295, Max Time: 12.347
+0.497774 0.0471977
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 125312.500, Standard Value: 3064.854, Min Value: 123277.000, Max Value: 133543.000
+   Avg Time: 2.782, Standard Time: 0.121, Min Time: 2.368, Max Time: 2.969
+0.304154 0.399217
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64489.000, Standard Value: 480.819, Min Value: 62731.000, Max Value: 65566.000
+   Avg Time: 2.759, Standard Time: 0.068, Min Time: 2.586, Max Time: 2.926
+0.28345 0.271205
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6834.500, Standard Value: 72.369, Min Value: 6668.000, Max Value: 7058.000
+   Avg Time: 3.119, Standard Time: 0.100, Min Time: 2.840, Max Time: 3.281
+0.307047 0.196631
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2910.000, Standard Value: 37.875, Min Value: 2872.000, Max Value: 3005.000
+   Avg Time: 7.555, Standard Time: 0.174, Min Time: 7.356, Max Time: 7.986
+0.157661 0.205167
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 125754.500, Standard Value: 2990.583, Min Value: 123535.000, Max Value: 132094.000
+   Avg Time: 2.521, Standard Time: 0.034, Min Time: 2.452, Max Time: 2.578
+0.197015 0.273015
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64489.000, Standard Value: 519.526, Min Value: 62809.000, Max Value: 66519.000
+   Avg Time: 4.059, Standard Time: 0.175, Min Time: 3.548, Max Time: 4.391
+0.485481 0.39536
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6848.500, Standard Value: 84.869, Min Value: 6615.000, Max Value: 7111.000
+   Avg Time: 3.292, Standard Time: 0.129, Min Time: 2.909, Max Time: 3.468
+0.345186 0.268263
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2933.500, Standard Value: 36.527, Min Value: 2894.000, Max Value: 3022.000
+   Avg Time: 8.909, Standard Time: 0.476, Min Time: 7.743, Max Time: 9.960
+0.383677 0.0472343
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 129095.000, Standard Value: 2654.314, Min Value: 123518.000, Max Value: 133392.000
+   Avg Time: 2.502, Standard Time: 0.011, Min Time: 2.490, Max Time: 2.535
+0.0447215 0.287968
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64519.500, Standard Value: 590.174, Min Value: 62910.000, Max Value: 66071.000
+   Avg Time: 2.434, Standard Time: 0.026, Min Time: 2.386, Max Time: 2.495
+0.047932 0.241161
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6836.000, Standard Value: 68.887, Min Value: 6722.000, Max Value: 6988.000
+   Avg Time: 3.793, Standard Time: 0.132, Min Time: 3.436, Max Time: 3.957
+0.431525 0.451156
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2909.500, Standard Value: 35.700, Min Value: 2880.000, Max Value: 2999.000
+   Avg Time: 7.621, Standard Time: 0.162, Min Time: 7.455, Max Time: 8.025
+0.110691 0.439259
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 127125.500, Standard Value: 3256.154, Min Value: 123476.000, Max Value: 135097.000
+   Avg Time: 2.480, Standard Time: 0.017, Min Time: 2.439, Max Time: 2.519
+0.0928764 0.338911
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64489.000, Standard Value: 708.063, Min Value: 64352.000, Max Value: 67566.000
+   Avg Time: 2.405, Standard Time: 0.021, Min Time: 2.375, Max Time: 2.458
+0.0865902 0.352051
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6856.500, Standard Value: 65.484, Min Value: 6677.000, Max Value: 7036.000
+   Avg Time: 2.920, Standard Time: 0.117, Min Time: 2.824, Max Time: 3.345
+0.152652 0.340904
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2949.000, Standard Value: 42.313, Min Value: 2910.000, Max Value: 3060.000
+   Avg Time: 8.762, Standard Time: 0.332, Min Time: 8.236, Max Time: 9.411
+0.348132 0.033795
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 129346.000, Standard Value: 3660.227, Min Value: 123518.000, Max Value: 135783.000
+   Avg Time: 3.198, Standard Time: 0.228, Min Time: 2.509, Max Time: 3.478
+0.3987 0.347782
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64489.000, Standard Value: 363.827, Min Value: 64314.000, Max Value: 65907.000
+   Avg Time: 3.157, Standard Time: 0.093, Min Time: 2.942, Max Time: 3.304
+0.357079 0.317714
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6874.500, Standard Value: 108.632, Min Value: 6692.000, Max Value: 7136.000
+   Avg Time: 3.099, Standard Time: 0.026, Min Time: 3.074, Max Time: 3.176
+0.0415959 0.348512
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2909.500, Standard Value: 35.818, Min Value: 2872.000, Max Value: 3003.000
+   Avg Time: 8.539, Standard Time: 0.583, Min Time: 7.658, Max Time: 9.618
+0.418966 0.13184
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 136489.000, Standard Value: 2589.928, Min Value: 133945.000, Max Value: 143775.000
+   Avg Time: 2.635, Standard Time: 0.031, Min Time: 2.612, Max Time: 2.721
+0.00439414 0.404478
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64519.500, Standard Value: 570.795, Min Value: 62446.000, Max Value: 65478.000
+   Avg Time: 2.414, Standard Time: 0.039, Min Time: 2.365, Max Time: 2.520
+0.0677981 0.307465
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6855.000, Standard Value: 104.623, Min Value: 6582.000, Max Value: 7126.000
+   Avg Time: 4.001, Standard Time: 0.376, Min Time: 2.789, Max Time: 4.681
+0.493582 0.492094
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2912.000, Standard Value: 38.375, Min Value: 2876.000, Max Value: 3004.000
+   Avg Time: 7.994, Standard Time: 0.417, Min Time: 7.266, Max Time: 8.733
+0.305762 0.09968
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 128455.500, Standard Value: 3188.752, Min Value: 123544.000, Max Value: 133900.000
+   Avg Time: 3.127, Standard Time: 0.206, Min Time: 2.619, Max Time: 3.505
+0.398515 0.393171
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64531.000, Standard Value: 511.389, Min Value: 64352.000, Max Value: 66585.000
+   Avg Time: 3.338, Standard Time: 0.110, Min Time: 3.101, Max Time: 3.494
+0.427783 0.0892167
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6851.000, Standard Value: 84.926, Min Value: 6717.000, Max Value: 7107.000
+   Avg Time: 3.096, Standard Time: 0.174, Min Time: 2.942, Max Time: 3.509
+0.275231 0.333945
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2977.500, Standard Value: 44.409, Min Value: 2931.000, Max Value: 3083.000
+   Avg Time: 8.303, Standard Time: 0.198, Min Time: 7.864, Max Time: 8.673
+0.264879 0.0150096
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 128673.000, Standard Value: 3739.012, Min Value: 123535.000, Max Value: 134298.000
+   Avg Time: 2.499, Standard Time: 0.049, Min Time: 2.401, Max Time: 2.603
+0.174132 0.162376
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64470.000, Standard Value: 551.672, Min Value: 63682.000, Max Value: 66690.000
+   Avg Time: 2.433, Standard Time: 0.022, Min Time: 2.386, Max Time: 2.505
+0.0789886 0.422591
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6836.000, Standard Value: 55.581, Min Value: 6745.000, Max Value: 6957.000
+   Avg Time: 3.028, Standard Time: 0.135, Min Time: 2.942, Max Time: 3.487
+0.233645 0.476859
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2906.500, Standard Value: 39.383, Min Value: 2875.000, Max Value: 3024.000
+   Avg Time: 9.303, Standard Time: 0.827, Min Time: 7.423, Max Time: 10.630
+0.489319 0.117127
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 125779.000, Standard Value: 3084.609, Min Value: 123303.000, Max Value: 135208.000
+   Avg Time: 3.135, Standard Time: 0.235, Min Time: 2.744, Max Time: 3.642
+0.432157 0.156769
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64841.000, Standard Value: 456.119, Min Value: 64451.000, Max Value: 66857.000
+   Avg Time: 2.433, Standard Time: 0.019, Min Time: 2.388, Max Time: 2.479
+0.153428 0.018067
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6825.000, Standard Value: 89.708, Min Value: 6607.000, Max Value: 6936.000
+   Avg Time: 3.699, Standard Time: 0.219, Min Time: 2.966, Max Time: 3.995
+0.456525 0.175262
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2922.000, Standard Value: 35.962, Min Value: 2891.000, Max Value: 3011.000
+   Avg Time: 8.084, Standard Time: 0.330, Min Time: 7.217, Max Time: 8.691
+0.307718 0.0741071
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 128328.000, Standard Value: 3141.539, Min Value: 123277.000, Max Value: 132549.000
+   Avg Time: 3.066, Standard Time: 0.196, Min Time: 2.707, Max Time: 3.443
+0.396427 0.191669
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64489.000, Standard Value: 630.604, Min Value: 62769.000, Max Value: 65676.000
+   Avg Time: 2.378, Standard Time: 0.043, Min Time: 2.296, Max Time: 2.528
+0.14598 0.24699
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6836.000, Standard Value: 115.390, Min Value: 6616.000, Max Value: 7135.000
+   Avg Time: 3.042, Standard Time: 0.155, Min Time: 2.819, Max Time: 3.429
+0.24599 0.322533
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2916.000, Standard Value: 37.898, Min Value: 2872.000, Max Value: 2992.000
+   Avg Time: 8.674, Standard Time: 0.580, Min Time: 7.537, Max Time: 10.176
+0.432944 0.163572
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 126653.500, Standard Value: 3352.364, Min Value: 123535.000, Max Value: 134792.000
+   Avg Time: 2.890, Standard Time: 0.126, Min Time: 2.461, Max Time: 3.026
+0.320158 0.312904
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64451.000, Standard Value: 674.477, Min Value: 62621.000, Max Value: 66325.000
+   Avg Time: 2.681, Standard Time: 0.054, Min Time: 2.586, Max Time: 2.822
+0.278078 0.149072
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6850.500, Standard Value: 107.312, Min Value: 6693.000, Max Value: 7137.000
+   Avg Time: 3.174, Standard Time: 0.184, Min Time: 2.949, Max Time: 3.604
+0.299092 0.369166
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2948.000, Standard Value: 36.672, Min Value: 2905.000, Max Value: 3024.000
+   Avg Time: 8.184, Standard Time: 0.179, Min Time: 7.859, Max Time: 8.387
+0.0409738 0.4426
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 128860.500, Standard Value: 3309.516, Min Value: 123474.000, Max Value: 135054.000
+   Avg Time: 2.539, Standard Time: 0.013, Min Time: 2.522, Max Time: 2.569
+0.0489796 0.298665
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64489.000, Standard Value: 410.041, Min Value: 64314.000, Max Value: 65885.000
+   Avg Time: 3.457, Standard Time: 0.111, Min Time: 3.271, Max Time: 3.645
+0.424135 0.245163
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6856.000, Standard Value: 116.763, Min Value: 6678.000, Max Value: 7147.000
+   Avg Time: 2.834, Standard Time: 0.115, Min Time: 2.741, Max Time: 3.242
+0.182998 0.0440413
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2935.500, Standard Value: 42.548, Min Value: 2894.000, Max Value: 3035.000
+   Avg Time: 7.984, Standard Time: 0.177, Min Time: 7.758, Max Time: 8.405
+0.0629509 0.185468
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 127351.000, Standard Value: 3048.859, Min Value: 123535.000, Max Value: 133035.000
+   Avg Time: 2.397, Standard Time: 0.039, Min Time: 2.322, Max Time: 2.488
+0.203993 0.0335047
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64747.000, Standard Value: 616.062, Min Value: 63319.000, Max Value: 66700.000
+   Avg Time: 2.558, Standard Time: 0.034, Min Time: 2.486, Max Time: 2.613
+0.016942 0.395277
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6844.000, Standard Value: 126.372, Min Value: 6590.000, Max Value: 7132.000
+   Avg Time: 3.662, Standard Time: 0.243, Min Time: 3.067, Max Time: 4.128
+0.438529 0.154265
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2898.500, Standard Value: 42.911, Min Value: 2844.000, Max Value: 3009.000
+   Avg Time: 8.514, Standard Time: 0.729, Min Time: 7.204, Max Time: 9.978
+0.429656 0.265207
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 124546.000, Standard Value: 2597.704, Min Value: 123277.000, Max Value: 131003.000
+   Avg Time: 3.074, Standard Time: 0.104, Min Time: 2.879, Max Time: 3.259
+0.366537 0.416634
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64489.000, Standard Value: 689.894, Min Value: 62659.000, Max Value: 66578.000
+   Avg Time: 2.479, Standard Time: 0.027, Min Time: 2.427, Max Time: 2.549
+0.124971 0.495486
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6839.000, Standard Value: 106.311, Min Value: 6697.000, Max Value: 7109.000
+   Avg Time: 3.694, Standard Time: 0.356, Min Time: 2.863, Max Time: 4.384
+0.47364 0.101502
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2934.000, Standard Value: 41.366, Min Value: 2890.000, Max Value: 3022.000
+   Avg Time: 7.779, Standard Time: 0.196, Min Time: 7.335, Max Time: 8.138
+0.105503 0.223659
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 128918.500, Standard Value: 3329.737, Min Value: 124154.000, Max Value: 135649.000
+   Avg Time: 2.672, Standard Time: 0.094, Min Time: 2.423, Max Time: 2.830
+0.268545 0.419864
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 65936.000, Standard Value: 564.645, Min Value: 64889.000, Max Value: 67698.000
+   Avg Time: 3.078, Standard Time: 0.094, Min Time: 2.858, Max Time: 3.256
+0.363085 0.00599782
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7895.000, Standard Value: 114.531, Min Value: 7604.000, Max Value: 7904.000
+   Avg Time: 3.133, Standard Time: 0.534, Min Time: 3.097, Max Time: 5.987
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1334.000, Standard Value: 6.703, Min Value: 1311.000, Max Value: 1342.000
+   Avg Time: 6.553, Standard Time: 0.685, Min Time: 5.899, Max Time: 12.736
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 743.000, Standard Value: 6.574, Min Value: 727.000, Max Value: 748.000
+   Avg Time: 4.735, Standard Time: 0.127, Min Time: 4.585, Max Time: 5.189
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7895.000, Standard Value: 117.820, Min Value: 7542.000, Max Value: 7904.000
+   Avg Time: 3.431, Standard Time: 0.048, Min Time: 3.313, Max Time: 3.577
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1330.000, Standard Value: 8.838, Min Value: 1294.000, Max Value: 1341.000
+   Avg Time: 6.056, Standard Time: 0.268, Min Time: 5.884, Max Time: 6.878
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 732.500, Standard Value: 5.191, Min Value: 726.000, Max Value: 742.000
+   Avg Time: 4.723, Standard Time: 0.073, Min Time: 4.587, Max Time: 5.145
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7895.000, Standard Value: 138.647, Min Value: 7542.000, Max Value: 7904.000
+   Avg Time: 3.159, Standard Time: 0.120, Min Time: 3.115, Max Time: 3.762
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1335.000, Standard Value: 6.673, Min Value: 1323.000, Max Value: 1343.000
+   Avg Time: 5.930, Standard Time: 0.055, Min Time: 5.862, Max Time: 6.248
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 735.500, Standard Value: 7.789, Min Value: 722.000, Max Value: 748.000
+   Avg Time: 4.353, Standard Time: 0.027, Min Time: 4.299, Max Time: 4.422
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7904.000, Standard Value: 117.073, Min Value: 7604.000, Max Value: 7904.000
+   Avg Time: 3.156, Standard Time: 0.018, Min Time: 3.128, Max Time: 3.212
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1334.000, Standard Value: 4.930, Min Value: 1324.000, Max Value: 1342.000
+   Avg Time: 5.935, Standard Time: 0.032, Min Time: 5.874, Max Time: 6.058
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 733.000, Standard Value: 6.189, Min Value: 721.000, Max Value: 744.000
+   Avg Time: 4.348, Standard Time: 0.062, Min Time: 4.292, Max Time: 4.759
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7895.000, Standard Value: 115.415, Min Value: 7604.000, Max Value: 7904.000
+   Avg Time: 3.160, Standard Time: 0.015, Min Time: 3.133, Max Time: 3.205
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1329.000, Standard Value: 3.728, Min Value: 1317.000, Max Value: 1336.000
+   Avg Time: 5.932, Standard Time: 0.031, Min Time: 5.882, Max Time: 6.036
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 737.000, Standard Value: 6.458, Min Value: 727.000, Max Value: 747.000
+   Avg Time: 4.354, Standard Time: 0.027, Min Time: 4.299, Max Time: 4.446
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7898.000, Standard Value: 101.671, Min Value: 7604.000, Max Value: 7904.000
+   Avg Time: 3.157, Standard Time: 0.026, Min Time: 3.126, Max Time: 3.314
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1333.000, Standard Value: 5.420, Min Value: 1324.000, Max Value: 1342.000
+   Avg Time: 5.929, Standard Time: 0.253, Min Time: 5.856, Max Time: 7.090
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 732.000, Standard Value: 5.639, Min Value: 718.000, Max Value: 743.000
+   Avg Time: 4.354, Standard Time: 0.025, Min Time: 4.302, Max Time: 4.420
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7898.000, Standard Value: 98.690, Min Value: 7604.000, Max Value: 7904.000
+   Avg Time: 3.157, Standard Time: 0.019, Min Time: 3.131, Max Time: 3.254
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1333.000, Standard Value: 5.410, Min Value: 1325.000, Max Value: 1342.000
+   Avg Time: 5.931, Standard Time: 0.058, Min Time: 5.855, Max Time: 6.248
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 740.500, Standard Value: 6.819, Min Value: 725.000, Max Value: 748.000
+   Avg Time: 4.345, Standard Time: 0.029, Min Time: 4.297, Max Time: 4.440
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7895.000, Standard Value: 90.640, Min Value: 7542.000, Max Value: 7904.000
+   Avg Time: 3.155, Standard Time: 0.016, Min Time: 3.127, Max Time: 3.220
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1335.000, Standard Value: 6.061, Min Value: 1318.000, Max Value: 1342.000
+   Avg Time: 5.921, Standard Time: 0.036, Min Time: 5.873, Max Time: 6.130
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 740.000, Standard Value: 7.721, Min Value: 726.000, Max Value: 748.000
+   Avg Time: 4.351, Standard Time: 0.028, Min Time: 4.301, Max Time: 4.484
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7901.000, Standard Value: 93.985, Min Value: 7542.000, Max Value: 7904.000
+   Avg Time: 3.160, Standard Time: 0.023, Min Time: 3.126, Max Time: 3.325
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1335.000, Standard Value: 4.278, Min Value: 1327.000, Max Value: 1340.000
+   Avg Time: 5.928, Standard Time: 0.028, Min Time: 5.874, Max Time: 6.034
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 734.500, Standard Value: 7.748, Min Value: 725.000, Max Value: 748.000
+   Avg Time: 4.350, Standard Time: 0.038, Min Time: 4.293, Max Time: 4.585
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7895.000, Standard Value: 119.086, Min Value: 7542.000, Max Value: 7904.000
+   Avg Time: 3.165, Standard Time: 0.023, Min Time: 3.125, Max Time: 3.276
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1330.000, Standard Value: 5.380, Min Value: 1319.000, Max Value: 1343.000
+   Avg Time: 5.932, Standard Time: 0.061, Min Time: 5.873, Max Time: 6.402
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 732.000, Standard Value: 6.600, Min Value: 724.000, Max Value: 746.000
+   Avg Time: 4.346, Standard Time: 0.027, Min Time: 4.281, Max Time: 4.416
+
+Finished the easy problems
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2890.000, Standard Value: 3.316, Min Value: 2881.000, Max Value: 2894.000
+   Avg Time: 17.540, Standard Time: 0.246, Min Time: 17.236, Max Time: 23.949
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2889.500, Standard Value: 5.671, Min Value: 2875.000, Max Value: 2895.000
+   Avg Time: 17.311, Standard Time: 0.315, Min Time: 17.015, Max Time: 22.995
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 123518.000, Standard Value: 104.924, Min Value: 123277.000, Max Value: 123549.000
+   Avg Time: 7.453, Standard Time: 0.203, Min Time: 7.299, Max Time: 13.653
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6678.000, Standard Value: 22.177, Min Value: 6615.000, Max Value: 6696.000
+   Avg Time: 8.321, Standard Time: 0.202, Min Time: 8.181, Max Time: 14.454
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 62627.500, Standard Value: 104.644, Min Value: 62446.000, Max Value: 62769.000
+   Avg Time: 7.361, Standard Time: 0.055, Min Time: 7.229, Max Time: 7.992
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2920.500, Standard Value: 37.273, Min Value: 2870.000, Max Value: 3000.000
+   Avg Time: 17.584, Standard Time: 0.990, Min Time: 15.497, Max Time: 19.489
+0.39341 0.12524
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 128315.500, Standard Value: 3266.370, Min Value: 123689.000, Max Value: 135542.000
+   Avg Time: 7.957, Standard Time: 0.601, Min Time: 6.547, Max Time: 8.755
+0.39341 0.12524
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6857.500, Standard Value: 67.452, Min Value: 6740.000, Max Value: 7033.000
+   Avg Time: 8.753, Standard Time: 1.009, Min Time: 7.861, Max Time: 13.382
+0.39341 0.12524
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64500.500, Standard Value: 549.839, Min Value: 62731.000, Max Value: 66063.000
+   Avg Time: 8.576, Standard Time: 0.242, Min Time: 7.935, Max Time: 9.320
+0.39341 0.12524
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2913.000, Standard Value: 33.539, Min Value: 2877.000, Max Value: 2987.000
+   Avg Time: 17.593, Standard Time: 0.900, Min Time: 14.554, Max Time: 18.873
+0.39341 0.12524
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 125258.000, Standard Value: 2924.582, Min Value: 123518.000, Max Value: 132394.000
+   Avg Time: 7.833, Standard Time: 0.497, Min Time: 6.610, Max Time: 8.644
+0.39341 0.12524
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6858.500, Standard Value: 101.545, Min Value: 6612.000, Max Value: 7133.000
+   Avg Time: 8.841, Standard Time: 0.385, Min Time: 7.838, Max Time: 9.647
+0.39341 0.12524
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64451.000, Standard Value: 591.540, Min Value: 62627.000, Max Value: 66682.000
+   Avg Time: 8.541, Standard Time: 0.259, Min Time: 7.953, Max Time: 9.045
+0.39341 0.12524
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2905.000, Standard Value: 33.573, Min Value: 2874.000, Max Value: 2986.000
+   Avg Time: 17.534, Standard Time: 0.827, Min Time: 15.881, Max Time: 18.781
+0.39341 0.12524
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 129006.500, Standard Value: 2916.031, Min Value: 123277.000, Max Value: 132723.000
+   Avg Time: 7.600, Standard Time: 0.627, Min Time: 6.235, Max Time: 8.704
+0.39341 0.12524
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6838.000, Standard Value: 92.262, Min Value: 6607.000, Max Value: 7048.000
+   Avg Time: 8.649, Standard Time: 0.420, Min Time: 7.635, Max Time: 9.379
+0.39341 0.12524
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64489.000, Standard Value: 324.377, Min Value: 64314.000, Max Value: 66083.000
+   Avg Time: 8.565, Standard Time: 0.210, Min Time: 8.111, Max Time: 8.949
+0.39341 0.12524
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2936.000, Standard Value: 39.212, Min Value: 2856.000, Max Value: 3012.000
+   Avg Time: 17.410, Standard Time: 1.025, Min Time: 15.422, Max Time: 19.483
+0.39341 0.12524
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 129695.000, Standard Value: 3202.570, Min Value: 123518.000, Max Value: 135717.000
+   Avg Time: 7.957, Standard Time: 0.673, Min Time: 6.453, Max Time: 9.126
+0.39341 0.12524
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6828.500, Standard Value: 76.398, Min Value: 6737.000, Max Value: 7108.000
+   Avg Time: 8.825, Standard Time: 0.438, Min Time: 7.258, Max Time: 9.412
+0.39341 0.12524
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64489.000, Standard Value: 711.585, Min Value: 62621.000, Max Value: 66097.000
+   Avg Time: 8.623, Standard Time: 0.248, Min Time: 8.025, Max Time: 9.094
+0.39341 0.12524
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2920.500, Standard Value: 48.128, Min Value: 2878.000, Max Value: 3016.000
+   Avg Time: 16.720, Standard Time: 0.987, Min Time: 15.422, Max Time: 19.206
+0.39341 0.12524
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 125467.500, Standard Value: 3399.034, Min Value: 123535.000, Max Value: 134048.000
+   Avg Time: 7.998, Standard Time: 0.752, Min Time: 6.066, Max Time: 9.845
+0.39341 0.12524
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6853.000, Standard Value: 100.266, Min Value: 6675.000, Max Value: 7185.000
+   Avg Time: 9.280, Standard Time: 0.442, Min Time: 8.355, Max Time: 10.219
+0.39341 0.12524
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64434.500, Standard Value: 896.777, Min Value: 62446.000, Max Value: 66325.000
+   Avg Time: 9.387, Standard Time: 0.611, Min Time: 8.224, Max Time: 10.622
+0.39341 0.12524
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2921.000, Standard Value: 42.216, Min Value: 2879.000, Max Value: 3003.000
+   Avg Time: 18.486, Standard Time: 0.952, Min Time: 16.564, Max Time: 20.669
+0.39341 0.12524
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 125510.500, Standard Value: 2881.990, Min Value: 123544.000, Max Value: 131800.000
+   Avg Time: 8.088, Standard Time: 0.567, Min Time: 6.583, Max Time: 9.109
+0.39341 0.12524
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6856.500, Standard Value: 86.255, Min Value: 6730.000, Max Value: 7148.000
+   Avg Time: 9.226, Standard Time: 0.438, Min Time: 8.207, Max Time: 10.059
+0.39341 0.12524
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64434.500, Standard Value: 752.853, Min Value: 62484.000, Max Value: 67391.000
+   Avg Time: 9.005, Standard Time: 0.326, Min Time: 8.174, Max Time: 9.639
+0.39341 0.12524
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2913.500, Standard Value: 37.185, Min Value: 2879.000, Max Value: 3025.000
+   Avg Time: 17.849, Standard Time: 0.955, Min Time: 16.370, Max Time: 20.095
+0.39341 0.12524
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 128779.500, Standard Value: 3503.477, Min Value: 123535.000, Max Value: 135117.000
+   Avg Time: 8.445, Standard Time: 0.603, Min Time: 7.336, Max Time: 9.385
+0.39341 0.12524
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6841.500, Standard Value: 83.576, Min Value: 6696.000, Max Value: 7117.000
+   Avg Time: 9.278, Standard Time: 1.291, Min Time: 7.850, Max Time: 15.949
+0.39341 0.12524
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64451.000, Standard Value: 547.360, Min Value: 62446.000, Max Value: 64844.000
+   Avg Time: 9.079, Standard Time: 0.382, Min Time: 8.362, Max Time: 9.949
+0.39341 0.12524
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2907.500, Standard Value: 37.498, Min Value: 2876.000, Max Value: 3017.000
+   Avg Time: 18.067, Standard Time: 0.975, Min Time: 16.156, Max Time: 20.450
+0.39341 0.12524
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 128341.000, Standard Value: 3286.686, Min Value: 123476.000, Max Value: 133643.000
+   Avg Time: 8.236, Standard Time: 0.600, Min Time: 6.738, Max Time: 8.999
+0.39341 0.12524
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6850.000, Standard Value: 79.703, Min Value: 6722.000, Max Value: 7130.000
+   Avg Time: 9.166, Standard Time: 0.511, Min Time: 7.180, Max Time: 9.890
+0.39341 0.12524
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64450.000, Standard Value: 498.015, Min Value: 62665.000, Max Value: 65885.000
+   Avg Time: 9.002, Standard Time: 0.311, Min Time: 8.211, Max Time: 9.670
+0.39341 0.12524
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2934.500, Standard Value: 33.733, Min Value: 2886.000, Max Value: 2990.000
+   Avg Time: 18.295, Standard Time: 1.174, Min Time: 16.053, Max Time: 20.234
+0.39341 0.12524
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 129214.500, Standard Value: 3374.907, Min Value: 122717.000, Max Value: 132523.000
+   Avg Time: 8.407, Standard Time: 0.604, Min Time: 7.196, Max Time: 9.037
+0.39341 0.12524
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6862.500, Standard Value: 105.123, Min Value: 6723.000, Max Value: 7167.000
+   Avg Time: 9.241, Standard Time: 0.492, Min Time: 8.163, Max Time: 9.953
+0.39341 0.12524
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 64489.000, Standard Value: 726.235, Min Value: 62446.000, Max Value: 66481.000
+   Avg Time: 8.873, Standard Time: 0.272, Min Time: 8.245, Max Time: 9.417
+0.39341 0.12524
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2933.500, Standard Value: 39.779, Min Value: 2864.000, Max Value: 3015.000
+   Avg Time: 18.449, Standard Time: 0.941, Min Time: 16.109, Max Time: 20.446
+0.39341 0.12524
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 126407.500, Standard Value: 3510.515, Min Value: 123308.000, Max Value: 136715.000
+   Avg Time: 8.194, Standard Time: 0.431, Min Time: 6.962, Max Time: 8.899
+0.39341 0.12524
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7917.500, Standard Value: 251.753, Min Value: 7640.000, Max Value: 8431.000
+   Avg Time: 3.724, Standard Time: 0.071, Min Time: 3.627, Max Time: 3.918
+0.365382 0.475008
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8071.500, Standard Value: 271.445, Min Value: 7604.000, Max Value: 8609.000
+   Avg Time: 3.526, Standard Time: 0.127, Min Time: 3.313, Max Time: 3.773
+0.385685 0.0295357
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8190.500, Standard Value: 259.713, Min Value: 7895.000, Max Value: 8715.000
+   Avg Time: 3.398, Standard Time: 0.022, Min Time: 3.375, Max Time: 3.478
+0.0267399 0.10989
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7946.000, Standard Value: 263.917, Min Value: 7604.000, Max Value: 8460.000
+   Avg Time: 3.244, Standard Time: 0.066, Min Time: 3.159, Max Time: 3.534
+0.221996 0.111185
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8050.000, Standard Value: 245.308, Min Value: 7655.000, Max Value: 8471.000
+   Avg Time: 3.631, Standard Time: 0.058, Min Time: 3.510, Max Time: 3.758
+0.342352 0.312251
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8269.000, Standard Value: 259.749, Min Value: 7640.000, Max Value: 8509.000
+   Avg Time: 3.243, Standard Time: 0.026, Min Time: 3.160, Max Time: 3.279
+0.171104 0.252267
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7904.000, Standard Value: 276.758, Min Value: 7542.000, Max Value: 8554.000
+   Avg Time: 3.260, Standard Time: 0.030, Min Time: 3.185, Max Time: 3.320
+0.20124 0.430743
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7904.000, Standard Value: 270.323, Min Value: 7542.000, Max Value: 8423.000
+   Avg Time: 3.221, Standard Time: 0.026, Min Time: 3.174, Max Time: 3.270
+0.173018 0.185194
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7907.000, Standard Value: 266.244, Min Value: 7566.000, Max Value: 8509.000
+   Avg Time: 3.224, Standard Time: 0.020, Min Time: 3.191, Max Time: 3.258
+0.14157 0.19556
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8498.500, Standard Value: 349.375, Min Value: 8137.000, Max Value: 9003.000
+   Avg Time: 3.486, Standard Time: 0.023, Min Time: 3.445, Max Time: 3.561
+0.00169837 0.121522
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7904.000, Standard Value: 265.171, Min Value: 7542.000, Max Value: 8432.000
+   Avg Time: 3.960, Standard Time: 0.107, Min Time: 3.832, Max Time: 4.378
+0.418767 0.493256
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7938.500, Standard Value: 220.000, Min Value: 7895.000, Max Value: 8450.000
+   Avg Time: 3.886, Standard Time: 0.082, Min Time: 3.727, Max Time: 4.074
+0.424186 0.170488
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8368.500, Standard Value: 242.421, Min Value: 7604.000, Max Value: 8458.000
+   Avg Time: 3.206, Standard Time: 0.022, Min Time: 3.149, Max Time: 3.261
+0.160882 0.12168
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8109.000, Standard Value: 258.560, Min Value: 7629.000, Max Value: 8545.000
+   Avg Time: 3.438, Standard Time: 0.021, Min Time: 3.403, Max Time: 3.492
+0.0151958 0.463235
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7912.000, Standard Value: 283.966, Min Value: 7542.000, Max Value: 8460.000
+   Avg Time: 3.478, Standard Time: 0.051, Min Time: 3.333, Max Time: 3.559
+0.307498 0.31203
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7952.000, Standard Value: 241.115, Min Value: 7542.000, Max Value: 8432.000
+   Avg Time: 3.204, Standard Time: 0.022, Min Time: 3.169, Max Time: 3.244
+0.154776 0.131354
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8257.000, Standard Value: 234.954, Min Value: 7895.000, Max Value: 8516.000
+   Avg Time: 3.644, Standard Time: 0.088, Min Time: 3.291, Max Time: 3.760
+0.38403 0.0874223
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7904.000, Standard Value: 260.450, Min Value: 7839.000, Max Value: 8509.000
+   Avg Time: 3.160, Standard Time: 0.032, Min Time: 3.095, Max Time: 3.233
+0.227063 0.0349648
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7904.000, Standard Value: 283.483, Min Value: 7604.000, Max Value: 8535.000
+   Avg Time: 3.580, Standard Time: 0.115, Min Time: 3.345, Max Time: 3.830
+0.412124 0.020386
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8085.500, Standard Value: 264.241, Min Value: 7640.000, Max Value: 8488.000
+   Avg Time: 3.229, Standard Time: 0.019, Min Time: 3.196, Max Time: 3.263
+0.119765 0.181912
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7952.000, Standard Value: 248.418, Min Value: 7604.000, Max Value: 8431.000
+   Avg Time: 3.773, Standard Time: 0.061, Min Time: 3.647, Max Time: 3.932
+0.389267 0.317251
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7918.000, Standard Value: 255.711, Min Value: 7640.000, Max Value: 8458.000
+   Avg Time: 3.278, Standard Time: 0.021, Min Time: 3.249, Max Time: 3.344
+0.0727009 0.0425105
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7905.500, Standard Value: 251.441, Min Value: 7655.000, Max Value: 8484.000
+   Avg Time: 3.282, Standard Time: 0.028, Min Time: 3.254, Max Time: 3.372
+0.0770092 0.361801
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8275.500, Standard Value: 257.888, Min Value: 7655.000, Max Value: 8516.000
+   Avg Time: 4.046, Standard Time: 0.088, Min Time: 3.860, Max Time: 4.209
+0.435658 0.475814
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8253.000, Standard Value: 262.366, Min Value: 7895.000, Max Value: 8570.000
+   Avg Time: 3.146, Standard Time: 0.037, Min Time: 3.053, Max Time: 3.219
+0.215723 0.0283444
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7921.000, Standard Value: 231.571, Min Value: 7655.000, Max Value: 8431.000
+   Avg Time: 3.282, Standard Time: 0.018, Min Time: 3.246, Max Time: 3.319
+0.0764305 0.201867
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8108.500, Standard Value: 261.434, Min Value: 7542.000, Max Value: 8489.000
+   Avg Time: 3.204, Standard Time: 0.050, Min Time: 3.171, Max Time: 3.446
+0.168324 0.281577
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7934.000, Standard Value: 278.717, Min Value: 7629.000, Max Value: 8484.000
+   Avg Time: 3.444, Standard Time: 0.024, Min Time: 3.406, Max Time: 3.485
+0.0225289 0.243281
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7915.000, Standard Value: 244.807, Min Value: 7604.000, Max Value: 8422.000
+   Avg Time: 3.229, Standard Time: 0.022, Min Time: 3.191, Max Time: 3.269
+0.183833 0.309795
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8353.000, Standard Value: 284.411, Min Value: 7604.000, Max Value: 8535.000
+   Avg Time: 3.310, Standard Time: 0.037, Min Time: 3.233, Max Time: 3.440
+0.257395 0.218382
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8063.500, Standard Value: 255.794, Min Value: 7640.000, Max Value: 8535.000
+   Avg Time: 3.394, Standard Time: 0.046, Min Time: 3.309, Max Time: 3.507
+0.27409 0.369576
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7928.000, Standard Value: 278.129, Min Value: 7604.000, Max Value: 8564.000
+   Avg Time: 3.237, Standard Time: 0.027, Min Time: 3.186, Max Time: 3.298
+0.161834 0.429676
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7952.000, Standard Value: 254.783, Min Value: 7604.000, Max Value: 8509.000
+   Avg Time: 3.247, Standard Time: 0.028, Min Time: 3.204, Max Time: 3.341
+0.102594 0.0895622
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8047.000, Standard Value: 287.219, Min Value: 7655.000, Max Value: 8658.000
+   Avg Time: 3.274, Standard Time: 0.033, Min Time: 3.195, Max Time: 3.344
+0.229253 0.284148
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8103.000, Standard Value: 231.496, Min Value: 7655.000, Max Value: 8458.000
+   Avg Time: 3.461, Standard Time: 0.027, Min Time: 3.430, Max Time: 3.546
+0.012186 0.235582
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8128.500, Standard Value: 240.858, Min Value: 7640.000, Max Value: 8458.000
+   Avg Time: 3.574, Standard Time: 0.088, Min Time: 3.286, Max Time: 3.679
+0.353749 0.11276
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8250.000, Standard Value: 264.033, Min Value: 7640.000, Max Value: 8609.000
+   Avg Time: 3.471, Standard Time: 0.054, Min Time: 3.327, Max Time: 3.545
+0.315114 0.172507
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8181.500, Standard Value: 233.105, Min Value: 7895.000, Max Value: 8509.000
+   Avg Time: 3.911, Standard Time: 0.082, Min Time: 3.792, Max Time: 4.106
+0.420324 0.185148
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7931.000, Standard Value: 265.392, Min Value: 7604.000, Max Value: 8471.000
+   Avg Time: 3.301, Standard Time: 0.041, Min Time: 3.267, Max Time: 3.489
+0.0699138 0.477745
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8182.000, Standard Value: 282.252, Min Value: 7604.000, Max Value: 8554.000
+   Avg Time: 4.002, Standard Time: 0.124, Min Time: 3.818, Max Time: 4.329
+0.466687 0.0579923
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7904.000, Standard Value: 297.710, Min Value: 7542.000, Max Value: 8497.000
+   Avg Time: 3.354, Standard Time: 0.020, Min Time: 3.320, Max Time: 3.395
+0.0524434 0.43467
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8284.000, Standard Value: 263.386, Min Value: 7604.000, Max Value: 8535.000
+   Avg Time: 3.462, Standard Time: 0.046, Min Time: 3.388, Max Time: 3.568
+0.309459 0.334557
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7934.000, Standard Value: 258.234, Min Value: 7655.000, Max Value: 8458.000
+   Avg Time: 4.350, Standard Time: 0.119, Min Time: 4.150, Max Time: 4.563
+0.481125 0.252064
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7904.000, Standard Value: 278.261, Min Value: 7542.000, Max Value: 8431.000
+   Avg Time: 3.239, Standard Time: 0.029, Min Time: 3.189, Max Time: 3.335
+0.194038 0.368591
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7904.000, Standard Value: 212.392, Min Value: 7679.000, Max Value: 8422.000
+   Avg Time: 3.263, Standard Time: 0.034, Min Time: 3.223, Max Time: 3.379
+0.0933538 0.180238
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7952.000, Standard Value: 237.276, Min Value: 7895.000, Max Value: 8570.000
+   Avg Time: 3.804, Standard Time: 0.123, Min Time: 3.671, Max Time: 4.364
+0.383873 0.402296
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8029.500, Standard Value: 260.593, Min Value: 7655.000, Max Value: 8537.000
+   Avg Time: 3.488, Standard Time: 0.118, Min Time: 3.338, Max Time: 3.826
+0.422335 0.00725305
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7907.000, Standard Value: 252.106, Min Value: 7604.000, Max Value: 8560.000
+   Avg Time: 3.215, Standard Time: 0.016, Min Time: 3.175, Max Time: 3.244
+0.106142 0.107291
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7938.500, Standard Value: 221.411, Min Value: 7895.000, Max Value: 8443.000
+   Avg Time: 3.250, Standard Time: 0.022, Min Time: 3.215, Max Time: 3.295
+0.201303 0.323129
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8213.500, Standard Value: 264.231, Min Value: 7604.000, Max Value: 8494.000
+   Avg Time: 3.925, Standard Time: 0.128, Min Time: 3.681, Max Time: 4.216
+0.425035 0.113379
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8150.000, Standard Value: 234.256, Min Value: 7895.000, Max Value: 8545.000
+   Avg Time: 4.091, Standard Time: 0.097, Min Time: 3.843, Max Time: 4.223
+0.438063 0.414588
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7925.000, Standard Value: 274.598, Min Value: 7604.000, Max Value: 8432.000
+   Avg Time: 4.248, Standard Time: 0.138, Min Time: 3.827, Max Time: 4.473
+0.479276 0.202233
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8101.500, Standard Value: 223.053, Min Value: 7640.000, Max Value: 8431.000
+   Avg Time: 3.231, Standard Time: 0.030, Min Time: 3.182, Max Time: 3.322
+0.189409 0.478783
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8246.500, Standard Value: 281.085, Min Value: 7604.000, Max Value: 8470.000
+   Avg Time: 3.245, Standard Time: 0.013, Min Time: 3.221, Max Time: 3.270
+0.121979 0.399459
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8235.500, Standard Value: 267.104, Min Value: 7628.000, Max Value: 8519.000
+   Avg Time: 3.452, Standard Time: 0.016, Min Time: 3.426, Max Time: 3.493
+0.0127456 0.180491
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8005.000, Standard Value: 273.650, Min Value: 7655.000, Max Value: 8570.000
+   Avg Time: 3.338, Standard Time: 0.021, Min Time: 3.298, Max Time: 3.397
+0.0491849 0.197849
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7907.500, Standard Value: 274.155, Min Value: 7604.000, Max Value: 8542.000
+   Avg Time: 3.218, Standard Time: 0.042, Min Time: 3.113, Max Time: 3.286
+0.237905 0.0983245
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8190.500, Standard Value: 237.789, Min Value: 7542.000, Max Value: 8448.000
+   Avg Time: 3.226, Standard Time: 0.037, Min Time: 3.164, Max Time: 3.373
+0.187294 0.466609
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7904.000, Standard Value: 267.999, Min Value: 7604.000, Max Value: 8484.000
+   Avg Time: 3.844, Standard Time: 0.087, Min Time: 3.642, Max Time: 3.952
+0.414947 0.127641
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7921.500, Standard Value: 234.022, Min Value: 7895.000, Max Value: 8471.000
+   Avg Time: 3.234, Standard Time: 0.020, Min Time: 3.199, Max Time: 3.283
+0.116479 0.316889
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7994.500, Standard Value: 262.364, Min Value: 7629.000, Max Value: 8471.000
+   Avg Time: 3.161, Standard Time: 0.034, Min Time: 3.052, Max Time: 3.257
+0.199534 0.0475763
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8325.500, Standard Value: 265.194, Min Value: 7655.000, Max Value: 8448.000
+   Avg Time: 3.378, Standard Time: 0.019, Min Time: 3.350, Max Time: 3.431
+0.0304537 0.0498722
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8241.000, Standard Value: 260.343, Min Value: 7604.000, Max Value: 8535.000
+   Avg Time: 3.467, Standard Time: 0.020, Min Time: 3.439, Max Time: 3.519
+0.00841698 0.441841
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8067.000, Standard Value: 286.178, Min Value: 7604.000, Max Value: 8497.000
+   Avg Time: 3.229, Standard Time: 0.962, Min Time: 3.197, Max Time: 8.441
+0.107747 0.237364
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7978.500, Standard Value: 251.616, Min Value: 7604.000, Max Value: 8450.000
+   Avg Time: 3.255, Standard Time: 0.014, Min Time: 3.230, Max Time: 3.280
+0.103842 0.210993
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8150.000, Standard Value: 311.493, Min Value: 7604.000, Max Value: 8570.000
+   Avg Time: 3.376, Standard Time: 0.083, Min Time: 3.238, Max Time: 3.588
+0.318695 0.0734968
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7938.500, Standard Value: 251.664, Min Value: 7604.000, Max Value: 8422.000
+   Avg Time: 4.173, Standard Time: 0.091, Min Time: 3.934, Max Time: 4.345
+0.45194 0.498875
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7904.000, Standard Value: 275.896, Min Value: 7604.000, Max Value: 8432.000
+   Avg Time: 3.376, Standard Time: 0.054, Min Time: 3.260, Max Time: 3.512
+0.273296 0.264755
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7944.500, Standard Value: 249.354, Min Value: 7655.000, Max Value: 8554.000
+   Avg Time: 3.805, Standard Time: 0.072, Min Time: 3.646, Max Time: 3.950
+0.39788 0.181482
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7904.000, Standard Value: 279.972, Min Value: 7542.000, Max Value: 8471.000
+   Avg Time: 3.218, Standard Time: 0.021, Min Time: 3.188, Max Time: 3.287
+0.108883 0.163977
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7904.000, Standard Value: 270.778, Min Value: 7604.000, Max Value: 8466.000
+   Avg Time: 3.249, Standard Time: 0.030, Min Time: 3.183, Max Time: 3.319
+0.225745 0.205108
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8249.500, Standard Value: 264.531, Min Value: 7679.000, Max Value: 8545.000
+   Avg Time: 3.161, Standard Time: 0.074, Min Time: 3.024, Max Time: 3.289
+0.274225 0.00806401
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7916.000, Standard Value: 300.297, Min Value: 7542.000, Max Value: 8431.000
+   Avg Time: 3.337, Standard Time: 0.039, Min Time: 3.227, Max Time: 3.396
+0.26617 0.235951
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8049.000, Standard Value: 264.998, Min Value: 7640.000, Max Value: 8509.000
+   Avg Time: 4.079, Standard Time: 0.113, Min Time: 3.787, Max Time: 4.263
+0.441138 0.309518
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8005.500, Standard Value: 257.512, Min Value: 7895.000, Max Value: 8570.000
+   Avg Time: 4.025, Standard Time: 0.191, Min Time: 3.444, Max Time: 4.375
+0.489597 0.0406073
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7928.000, Standard Value: 268.660, Min Value: 7604.000, Max Value: 8516.000
+   Avg Time: 3.298, Standard Time: 0.020, Min Time: 3.277, Max Time: 3.380
+0.0673454 0.308201
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8233.000, Standard Value: 256.115, Min Value: 7604.000, Max Value: 8448.000
+   Avg Time: 3.697, Standard Time: 0.061, Min Time: 3.528, Max Time: 3.832
+0.368484 0.367107
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8269.000, Standard Value: 275.971, Min Value: 7604.000, Max Value: 8458.000
+   Avg Time: 3.261, Standard Time: 0.026, Min Time: 3.206, Max Time: 3.298
+0.201936 0.278896
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8331.000, Standard Value: 246.145, Min Value: 7604.000, Max Value: 8535.000
+   Avg Time: 3.358, Standard Time: 0.020, Min Time: 3.308, Max Time: 3.404
+0.049823 0.473885
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8190.500, Standard Value: 274.986, Min Value: 7640.000, Max Value: 8535.000
+   Avg Time: 3.703, Standard Time: 0.113, Min Time: 3.554, Max Time: 4.190
+0.361838 0.270597
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7905.000, Standard Value: 247.968, Min Value: 7604.000, Max Value: 8509.000
+   Avg Time: 3.732, Standard Time: 0.145, Min Time: 3.346, Max Time: 4.232
+0.411603 0.0530488
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8241.000, Standard Value: 251.567, Min Value: 7604.000, Max Value: 8431.000
+   Avg Time: 4.088, Standard Time: 0.188, Min Time: 3.724, Max Time: 4.539
+0.434628 0.230239
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7931.000, Standard Value: 251.067, Min Value: 7604.000, Max Value: 8471.000
+   Avg Time: 4.181, Standard Time: 0.121, Min Time: 3.905, Max Time: 4.559
+0.453837 0.437923
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7904.000, Standard Value: 243.699, Min Value: 7655.000, Max Value: 8458.000
+   Avg Time: 3.192, Standard Time: 0.022, Min Time: 3.143, Max Time: 3.268
+0.176502 0.11179
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8286.500, Standard Value: 275.764, Min Value: 7542.000, Max Value: 8560.000
+   Avg Time: 3.364, Standard Time: 0.038, Min Time: 3.310, Max Time: 3.445
+0.264759 0.254076
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8172.500, Standard Value: 268.166, Min Value: 7604.000, Max Value: 8460.000
+   Avg Time: 3.357, Standard Time: 0.023, Min Time: 3.321, Max Time: 3.404
+0.0418442 0.0902784
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8834.000, Standard Value: 337.423, Min Value: 8137.000, Max Value: 9013.000
+   Avg Time: 3.490, Standard Time: 0.023, Min Time: 3.452, Max Time: 3.552
+0.000602561 0.137592
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8263.500, Standard Value: 282.492, Min Value: 7640.000, Max Value: 8494.000
+   Avg Time: 3.457, Standard Time: 0.037, Min Time: 3.350, Max Time: 3.512
+0.295886 0.44754
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8169.000, Standard Value: 248.614, Min Value: 7604.000, Max Value: 8431.000
+   Avg Time: 4.151, Standard Time: 0.112, Min Time: 3.864, Max Time: 4.310
+0.443387 0.477088
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7938.000, Standard Value: 303.869, Min Value: 7542.000, Max Value: 8431.000
+   Avg Time: 3.242, Standard Time: 0.025, Min Time: 3.196, Max Time: 3.308
+0.124046 0.283354
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7904.000, Standard Value: 282.012, Min Value: 7604.000, Max Value: 8470.000
+   Avg Time: 4.253, Standard Time: 0.112, Min Time: 3.919, Max Time: 4.436
+0.478636 0.334455
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7910.500, Standard Value: 273.439, Min Value: 7604.000, Max Value: 8497.000
+   Avg Time: 3.407, Standard Time: 0.078, Min Time: 3.245, Max Time: 3.671
+0.29544 0.252454
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8263.500, Standard Value: 236.742, Min Value: 7839.000, Max Value: 8570.000
+   Avg Time: 4.230, Standard Time: 0.092, Min Time: 4.031, Max Time: 4.429
+0.46344 0.383066
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8305.500, Standard Value: 292.832, Min Value: 7604.000, Max Value: 8484.000
+   Avg Time: 3.256, Standard Time: 0.031, Min Time: 3.192, Max Time: 3.318
+0.217003 0.294242
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8265.000, Standard Value: 260.887, Min Value: 7604.000, Max Value: 8527.000
+   Avg Time: 3.720, Standard Time: 0.122, Min Time: 3.425, Max Time: 3.926
+0.401318 0.0677593
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7904.000, Standard Value: 237.479, Min Value: 7604.000, Max Value: 8570.000
+   Avg Time: 3.164, Standard Time: 0.028, Min Time: 3.136, Max Time: 3.269
+0.159771 0.0377125
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7904.000, Standard Value: 256.765, Min Value: 7604.000, Max Value: 8448.000
+   Avg Time: 4.382, Standard Time: 0.111, Min Time: 4.109, Max Time: 4.523
+0.484965 0.487939
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7935.500, Standard Value: 249.632, Min Value: 7604.000, Max Value: 8471.000
+   Avg Time: 3.242, Standard Time: 0.029, Min Time: 3.200, Max Time: 3.306
+0.183475 0.335429
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8264.000, Standard Value: 254.548, Min Value: 7604.000, Max Value: 8609.000
+   Avg Time: 3.217, Standard Time: 0.024, Min Time: 3.178, Max Time: 3.280
+0.138072 0.445628
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8383.000, Standard Value: 280.362, Min Value: 7604.000, Max Value: 8545.000
+   Avg Time: 3.248, Standard Time: 0.021, Min Time: 3.203, Max Time: 3.294
+0.114382 0.22531
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 8273.000, Standard Value: 235.748, Min Value: 7655.000, Max Value: 8458.000
+   Avg Time: 3.929, Standard Time: 0.110, Min Time: 3.647, Max Time: 4.110
+0.425498 0.142131
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1343.500, Standard Value: 17.386, Min Value: 1327.000, Max Value: 1391.000
+   Avg Time: 5.995, Standard Time: 0.058, Min Time: 5.910, Max Time: 6.097
+0.199623 0.0979568
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1343.000, Standard Value: 13.110, Min Value: 1318.000, Max Value: 1376.000
+   Avg Time: 6.508, Standard Time: 0.097, Min Time: 6.314, Max Time: 6.686
+0.301372 0.399698
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1343.500, Standard Value: 20.312, Min Value: 1319.000, Max Value: 1404.000
+   Avg Time: 6.161, Standard Time: 0.072, Min Time: 6.018, Max Time: 6.270
+0.225115 0.372409
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1344.000, Standard Value: 11.562, Min Value: 1318.000, Max Value: 1371.000
+   Avg Time: 6.246, Standard Time: 0.064, Min Time: 6.132, Max Time: 6.365
+0.251262 0.270883
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1346.500, Standard Value: 19.487, Min Value: 1318.000, Max Value: 1388.000
+   Avg Time: 6.178, Standard Time: 0.041, Min Time: 6.130, Max Time: 6.350
+0.103684 0.473719
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1348.500, Standard Value: 17.959, Min Value: 1327.000, Max Value: 1394.000
+   Avg Time: 6.035, Standard Time: 0.077, Min Time: 5.819, Max Time: 6.138
+0.20649 0.0968895
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1344.000, Standard Value: 16.292, Min Value: 1327.000, Max Value: 1386.000
+   Avg Time: 7.690, Standard Time: 0.179, Min Time: 7.345, Max Time: 8.030
+0.441456 0.425858
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1343.500, Standard Value: 15.447, Min Value: 1327.000, Max Value: 1376.000
+   Avg Time: 6.562, Standard Time: 0.170, Min Time: 6.245, Max Time: 6.871
+0.357689 0.136987
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1345.500, Standard Value: 18.942, Min Value: 1328.000, Max Value: 1396.000
+   Avg Time: 6.051, Standard Time: 0.071, Min Time: 5.881, Max Time: 6.197
+0.214403 0.096711
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1350.000, Standard Value: 20.342, Min Value: 1317.000, Max Value: 1395.000
+   Avg Time: 6.079, Standard Time: 0.051, Min Time: 5.973, Max Time: 6.174
+0.167092 0.396058
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1346.000, Standard Value: 16.910, Min Value: 1327.000, Max Value: 1391.000
+   Avg Time: 6.076, Standard Time: 0.032, Min Time: 6.005, Max Time: 6.143
+0.136098 0.469442
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1350.000, Standard Value: 21.349, Min Value: 1326.000, Max Value: 1398.000
+   Avg Time: 7.857, Standard Time: 0.321, Min Time: 7.018, Max Time: 8.324
+0.489602 0.188655
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1344.000, Standard Value: 14.483, Min Value: 1327.000, Max Value: 1378.000
+   Avg Time: 6.091, Standard Time: 0.055, Min Time: 6.022, Max Time: 6.264
+0.197795 0.293992
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1344.000, Standard Value: 15.113, Min Value: 1327.000, Max Value: 1379.000
+   Avg Time: 6.135, Standard Time: 0.046, Min Time: 6.025, Max Time: 6.230
+0.203868 0.426177
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1346.000, Standard Value: 16.632, Min Value: 1326.000, Max Value: 1388.000
+   Avg Time: 6.569, Standard Time: 0.114, Min Time: 6.298, Max Time: 6.744
+0.31627 0.324406
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1356.500, Standard Value: 19.336, Min Value: 1330.000, Max Value: 1410.000
+   Avg Time: 6.325, Standard Time: 0.252, Min Time: 5.626, Max Time: 6.970
+0.372126 0.0134786
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1381.000, Standard Value: 19.501, Min Value: 1338.000, Max Value: 1415.000
+   Avg Time: 6.578, Standard Time: 0.033, Min Time: 6.513, Max Time: 6.638
+0.00904736 0.442363
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1348.500, Standard Value: 18.593, Min Value: 1328.000, Max Value: 1395.000
+   Avg Time: 6.150, Standard Time: 0.258, Min Time: 6.107, Max Time: 7.126
+0.0779476 0.053023
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1345.500, Standard Value: 20.025, Min Value: 1327.000, Max Value: 1411.000
+   Avg Time: 6.152, Standard Time: 0.142, Min Time: 6.041, Max Time: 6.603
+0.216564 0.303171
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1345.000, Standard Value: 18.911, Min Value: 1316.000, Max Value: 1407.000
+   Avg Time: 6.345, Standard Time: 0.061, Min Time: 6.264, Max Time: 6.631
+0.0498332 0.437467
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1347.000, Standard Value: 17.767, Min Value: 1319.000, Max Value: 1387.000
+   Avg Time: 6.377, Standard Time: 0.028, Min Time: 6.349, Max Time: 6.451
+0.0391477 0.472075
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1344.000, Standard Value: 19.025, Min Value: 1319.000, Max Value: 1392.000
+   Avg Time: 6.088, Standard Time: 0.046, Min Time: 6.043, Max Time: 6.270
+0.140922 0.292402
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1345.000, Standard Value: 18.354, Min Value: 1319.000, Max Value: 1394.000
+   Avg Time: 6.117, Standard Time: 0.078, Min Time: 5.961, Max Time: 6.261
+0.232832 0.139483
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1343.000, Standard Value: 15.565, Min Value: 1327.000, Max Value: 1406.000
+   Avg Time: 6.094, Standard Time: 0.032, Min Time: 6.047, Max Time: 6.180
+0.142808 0.241178
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1343.500, Standard Value: 19.093, Min Value: 1329.000, Max Value: 1396.000
+   Avg Time: 6.072, Standard Time: 0.081, Min Time: 6.028, Max Time: 6.428
+0.105093 0.0676045
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1349.000, Standard Value: 15.685, Min Value: 1323.000, Max Value: 1387.000
+   Avg Time: 6.213, Standard Time: 0.033, Min Time: 6.148, Max Time: 6.299
+0.0814007 0.258102
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1344.000, Standard Value: 18.194, Min Value: 1318.000, Max Value: 1397.000
+   Avg Time: 7.331, Standard Time: 0.213, Min Time: 6.901, Max Time: 7.704
+0.422832 0.353151
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1344.000, Standard Value: 17.153, Min Value: 1325.000, Max Value: 1402.000
+   Avg Time: 7.657, Standard Time: 0.235, Min Time: 6.983, Max Time: 8.089
+0.446349 0.485126
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1345.500, Standard Value: 25.278, Min Value: 1327.000, Max Value: 1431.000
+   Avg Time: 6.628, Standard Time: 0.142, Min Time: 6.200, Max Time: 6.883
+0.344608 0.188118
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1347.500, Standard Value: 18.474, Min Value: 1319.000, Max Value: 1386.000
+   Avg Time: 6.096, Standard Time: 0.043, Min Time: 6.003, Max Time: 6.198
+0.173366 0.388252
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1343.000, Standard Value: 17.969, Min Value: 1327.000, Max Value: 1406.000
+   Avg Time: 7.328, Standard Time: 0.253, Min Time: 6.530, Max Time: 7.781
+0.422867 0.263954
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1344.000, Standard Value: 15.650, Min Value: 1326.000, Max Value: 1401.000
+   Avg Time: 6.016, Standard Time: 0.059, Min Time: 5.881, Max Time: 6.166
+0.209228 0.127721
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1346.000, Standard Value: 14.638, Min Value: 1327.000, Max Value: 1387.000
+   Avg Time: 6.376, Standard Time: 1.042, Min Time: 6.226, Max Time: 12.055
+0.277588 0.482682
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1345.500, Standard Value: 18.060, Min Value: 1318.000, Max Value: 1393.000
+   Avg Time: 6.109, Standard Time: 0.056, Min Time: 6.034, Max Time: 6.339
+0.171897 0.492011
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1344.000, Standard Value: 14.136, Min Value: 1327.000, Max Value: 1381.000
+   Avg Time: 6.020, Standard Time: 0.031, Min Time: 5.969, Max Time: 6.093
+0.148651 0.113857
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1347.000, Standard Value: 15.642, Min Value: 1320.000, Max Value: 1380.000
+   Avg Time: 6.264, Standard Time: 0.028, Min Time: 6.228, Max Time: 6.333
+0.0564233 0.154243
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1345.000, Standard Value: 22.201, Min Value: 1327.000, Max Value: 1411.000
+   Avg Time: 6.126, Standard Time: 0.051, Min Time: 6.040, Max Time: 6.267
+0.191514 0.364801
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1346.000, Standard Value: 13.539, Min Value: 1327.000, Max Value: 1393.000
+   Avg Time: 6.231, Standard Time: 0.101, Min Time: 6.022, Max Time: 6.422
+0.284927 0.123076
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1344.500, Standard Value: 20.757, Min Value: 1321.000, Max Value: 1421.000
+   Avg Time: 7.493, Standard Time: 0.238, Min Time: 6.873, Max Time: 7.735
+0.457335 0.134217
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1345.500, Standard Value: 16.533, Min Value: 1327.000, Max Value: 1392.000
+   Avg Time: 6.652, Standard Time: 0.133, Min Time: 6.342, Max Time: 7.005
+0.341911 0.255343
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1345.500, Standard Value: 18.018, Min Value: 1327.000, Max Value: 1407.000
+   Avg Time: 6.796, Standard Time: 0.141, Min Time: 6.535, Max Time: 7.101
+0.362042 0.267275
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1344.000, Standard Value: 24.683, Min Value: 1317.000, Max Value: 1427.000
+   Avg Time: 6.144, Standard Time: 0.028, Min Time: 6.089, Max Time: 6.214
+0.088974 0.133517
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1348.500, Standard Value: 18.389, Min Value: 1327.000, Max Value: 1388.000
+   Avg Time: 5.995, Standard Time: 0.190, Min Time: 5.916, Max Time: 6.636
+0.174008 0.0635776
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1348.000, Standard Value: 15.453, Min Value: 1327.000, Max Value: 1391.000
+   Avg Time: 6.620, Standard Time: 0.111, Min Time: 6.455, Max Time: 6.896
+0.34184 0.184376
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1344.000, Standard Value: 18.122, Min Value: 1328.000, Max Value: 1412.000
+   Avg Time: 6.319, Standard Time: 0.080, Min Time: 6.196, Max Time: 6.539
+0.28677 0.339243
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1347.000, Standard Value: 16.775, Min Value: 1327.000, Max Value: 1401.000
+   Avg Time: 6.247, Standard Time: 0.130, Min Time: 5.937, Max Time: 6.522
+0.298918 0.144335
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1342.500, Standard Value: 17.057, Min Value: 1318.000, Max Value: 1386.000
+   Avg Time: 6.754, Standard Time: 0.260, Min Time: 6.133, Max Time: 7.380
+0.380601 0.153355
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1356.000, Standard Value: 16.017, Min Value: 1331.000, Max Value: 1389.000
+   Avg Time: 6.341, Standard Time: 0.020, Min Time: 6.312, Max Time: 6.390
+0.0106697 0.282961
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1347.500, Standard Value: 21.509, Min Value: 1328.000, Max Value: 1421.000
+   Avg Time: 7.465, Standard Time: 0.227, Min Time: 6.990, Max Time: 7.929
+0.483596 0.194147
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1350.000, Standard Value: 17.397, Min Value: 1330.000, Max Value: 1388.000
+   Avg Time: 5.992, Standard Time: 0.028, Min Time: 5.944, Max Time: 6.078
+0.0782756 0.277791
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1341.500, Standard Value: 16.190, Min Value: 1325.000, Max Value: 1385.000
+   Avg Time: 5.957, Standard Time: 0.025, Min Time: 5.883, Max Time: 5.999
+0.101641 0.477943
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1344.500, Standard Value: 14.787, Min Value: 1326.000, Max Value: 1391.000
+   Avg Time: 6.022, Standard Time: 0.019, Min Time: 5.982, Max Time: 6.068
+0.0810555 0.499485
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1345.500, Standard Value: 16.847, Min Value: 1326.000, Max Value: 1391.000
+   Avg Time: 6.079, Standard Time: 0.030, Min Time: 6.047, Max Time: 6.159
+0.0563352 0.322187
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1343.000, Standard Value: 16.828, Min Value: 1327.000, Max Value: 1389.000
+   Avg Time: 6.774, Standard Time: 0.142, Min Time: 6.415, Max Time: 6.964
+0.375664 0.395714
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1345.500, Standard Value: 18.057, Min Value: 1327.000, Max Value: 1392.000
+   Avg Time: 7.622, Standard Time: 0.222, Min Time: 7.066, Max Time: 7.965
+0.470798 0.279396
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1344.500, Standard Value: 17.412, Min Value: 1329.000, Max Value: 1397.000
+   Avg Time: 5.935, Standard Time: 0.025, Min Time: 5.863, Max Time: 5.987
+0.0893713 0.0956831
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1347.500, Standard Value: 16.672, Min Value: 1329.000, Max Value: 1393.000
+   Avg Time: 6.226, Standard Time: 0.173, Min Time: 5.700, Max Time: 6.511
+0.34115 0.0948746
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1348.000, Standard Value: 16.648, Min Value: 1327.000, Max Value: 1394.000
+   Avg Time: 7.348, Standard Time: 0.310, Min Time: 6.535, Max Time: 7.952
+0.484561 0.106945
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1343.500, Standard Value: 18.594, Min Value: 1326.000, Max Value: 1395.000
+   Avg Time: 7.548, Standard Time: 0.247, Min Time: 6.755, Max Time: 7.838
+0.459946 0.483302
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1354.000, Standard Value: 16.724, Min Value: 1329.000, Max Value: 1396.000
+   Avg Time: 6.339, Standard Time: 0.270, Min Time: 5.516, Max Time: 6.795
+0.426099 0.0250557
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1348.000, Standard Value: 21.460, Min Value: 1327.000, Max Value: 1396.000
+   Avg Time: 6.089, Standard Time: 0.079, Min Time: 5.873, Max Time: 6.249
+0.269377 0.411484
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1351.500, Standard Value: 17.444, Min Value: 1335.000, Max Value: 1403.000
+   Avg Time: 5.745, Standard Time: 0.045, Min Time: 5.665, Max Time: 5.849
+0.174 0.0320497
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1345.000, Standard Value: 16.909, Min Value: 1325.000, Max Value: 1386.000
+   Avg Time: 5.902, Standard Time: 0.078, Min Time: 5.832, Max Time: 6.248
+0.122415 0.131746
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1393.000, Standard Value: 22.332, Min Value: 1339.000, Max Value: 1448.000
+   Avg Time: 7.116, Standard Time: 0.285, Min Time: 6.405, Max Time: 7.565
+0.47434 0.00809421
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1345.000, Standard Value: 17.145, Min Value: 1318.000, Max Value: 1386.000
+   Avg Time: 5.888, Standard Time: 0.040, Min Time: 5.818, Max Time: 6.027
+0.150364 0.46479
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1354.500, Standard Value: 19.152, Min Value: 1330.000, Max Value: 1405.000
+   Avg Time: 6.173, Standard Time: 0.095, Min Time: 6.132, Max Time: 6.580
+0.0352736 0.39886
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1348.000, Standard Value: 18.016, Min Value: 1325.000, Max Value: 1405.000
+   Avg Time: 6.575, Standard Time: 0.189, Min Time: 6.068, Max Time: 7.246
+0.344384 0.468281
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1346.000, Standard Value: 19.491, Min Value: 1320.000, Max Value: 1403.000
+   Avg Time: 5.813, Standard Time: 0.078, Min Time: 5.646, Max Time: 6.038
+0.221634 0.0591489
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1343.500, Standard Value: 19.135, Min Value: 1327.000, Max Value: 1409.000
+   Avg Time: 6.562, Standard Time: 0.117, Min Time: 6.353, Max Time: 6.785
+0.344439 0.315774
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1345.000, Standard Value: 16.670, Min Value: 1318.000, Max Value: 1387.000
+   Avg Time: 5.925, Standard Time: 0.043, Min Time: 5.855, Max Time: 6.007
+0.209076 0.405996
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1363.000, Standard Value: 21.702, Min Value: 1330.000, Max Value: 1407.000
+   Avg Time: 6.244, Standard Time: 0.022, Min Time: 6.187, Max Time: 6.315
+0.0205438 0.0310937
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1347.500, Standard Value: 16.713, Min Value: 1328.000, Max Value: 1394.000
+   Avg Time: 6.251, Standard Time: 0.022, Min Time: 6.194, Max Time: 6.298
+0.0284953 0.368256
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1346.000, Standard Value: 21.292, Min Value: 1317.000, Max Value: 1406.000
+   Avg Time: 5.941, Standard Time: 0.028, Min Time: 5.886, Max Time: 6.000
+0.111472 0.18239
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1346.000, Standard Value: 13.694, Min Value: 1321.000, Max Value: 1378.000
+   Avg Time: 5.872, Standard Time: 0.168, Min Time: 5.485, Max Time: 6.268
+0.33922 0.0298285
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1347.000, Standard Value: 21.294, Min Value: 1318.000, Max Value: 1414.000
+   Avg Time: 7.583, Standard Time: 0.275, Min Time: 6.565, Max Time: 8.125
+0.46785 0.380408
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1350.500, Standard Value: 18.745, Min Value: 1329.000, Max Value: 1419.000
+   Avg Time: 5.985, Standard Time: 0.208, Min Time: 5.622, Max Time: 6.415
+0.36705 0.0229795
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1345.000, Standard Value: 20.173, Min Value: 1321.000, Max Value: 1410.000
+   Avg Time: 6.363, Standard Time: 0.112, Min Time: 6.121, Max Time: 6.631
+0.311096 0.369297
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1343.500, Standard Value: 14.419, Min Value: 1327.000, Max Value: 1373.000
+   Avg Time: 6.575, Standard Time: 0.274, Min Time: 6.008, Max Time: 7.252
+0.462101 0.034625
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1350.000, Standard Value: 18.743, Min Value: 1329.000, Max Value: 1397.000
+   Avg Time: 5.846, Standard Time: 0.033, Min Time: 5.780, Max Time: 5.928
+0.126334 0.0879486
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1348.500, Standard Value: 19.205, Min Value: 1319.000, Max Value: 1383.000
+   Avg Time: 5.910, Standard Time: 0.040, Min Time: 5.816, Max Time: 6.002
+0.189234 0.470658
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1344.000, Standard Value: 13.846, Min Value: 1327.000, Max Value: 1383.000
+   Avg Time: 7.580, Standard Time: 0.249, Min Time: 7.145, Max Time: 8.114
+0.467917 0.432241
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1350.500, Standard Value: 17.509, Min Value: 1329.000, Max Value: 1403.000
+   Avg Time: 5.965, Standard Time: 0.105, Min Time: 5.842, Max Time: 6.430
+0.201353 0.340154
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1346.500, Standard Value: 17.554, Min Value: 1325.000, Max Value: 1392.000
+   Avg Time: 6.101, Standard Time: 0.024, Min Time: 6.025, Max Time: 6.173
+0.0610274 0.350285
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1347.000, Standard Value: 16.288, Min Value: 1313.000, Max Value: 1387.000
+   Avg Time: 6.548, Standard Time: 0.289, Min Time: 5.567, Max Time: 6.937
+0.393033 0.0905391
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1345.500, Standard Value: 13.996, Min Value: 1318.000, Max Value: 1377.000
+   Avg Time: 6.157, Standard Time: 0.027, Min Time: 6.122, Max Time: 6.218
+0.0424708 0.0906574
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1345.000, Standard Value: 14.558, Min Value: 1327.000, Max Value: 1380.000
+   Avg Time: 6.396, Standard Time: 0.205, Min Time: 5.933, Max Time: 6.715
+0.416796 0.0432004
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1345.500, Standard Value: 16.008, Min Value: 1327.000, Max Value: 1412.000
+   Avg Time: 6.054, Standard Time: 0.258, Min Time: 5.867, Max Time: 7.250
+0.247844 0.448477
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1349.000, Standard Value: 17.801, Min Value: 1317.000, Max Value: 1393.000
+   Avg Time: 6.130, Standard Time: 0.026, Min Time: 6.092, Max Time: 6.219
+0.0454357 0.194908
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1344.000, Standard Value: 20.092, Min Value: 1318.000, Max Value: 1401.000
+   Avg Time: 7.309, Standard Time: 0.165, Min Time: 7.066, Max Time: 7.696
+0.442552 0.466604
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1349.000, Standard Value: 24.017, Min Value: 1327.000, Max Value: 1436.000
+   Avg Time: 5.822, Standard Time: 0.067, Min Time: 5.728, Max Time: 6.001
+0.238275 0.107473
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1344.500, Standard Value: 16.766, Min Value: 1319.000, Max Value: 1383.000
+   Avg Time: 7.198, Standard Time: 0.197, Min Time: 6.626, Max Time: 7.443
+0.422759 0.36201
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1345.500, Standard Value: 21.327, Min Value: 1327.000, Max Value: 1427.000
+   Avg Time: 5.873, Standard Time: 0.025, Min Time: 5.847, Max Time: 5.934
+0.105684 0.102275
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1347.000, Standard Value: 18.254, Min Value: 1321.000, Max Value: 1393.000
+   Avg Time: 5.883, Standard Time: 0.045, Min Time: 5.771, Max Time: 5.962
+0.195217 0.317277
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1343.000, Standard Value: 15.946, Min Value: 1327.000, Max Value: 1386.000
+   Avg Time: 5.884, Standard Time: 0.032, Min Time: 5.847, Max Time: 6.007
+0.106836 0.120349
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1344.000, Standard Value: 14.718, Min Value: 1327.000, Max Value: 1386.000
+   Avg Time: 6.475, Standard Time: 0.175, Min Time: 6.136, Max Time: 6.947
+0.36774 0.197636
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1344.500, Standard Value: 15.431, Min Value: 1325.000, Max Value: 1383.000
+   Avg Time: 5.890, Standard Time: 0.035, Min Time: 5.832, Max Time: 6.019
+0.142546 0.364112
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1345.000, Standard Value: 18.983, Min Value: 1327.000, Max Value: 1392.000
+   Avg Time: 6.146, Standard Time: 0.050, Min Time: 6.108, Max Time: 6.380
+0.0368989 0.114461
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1344.000, Standard Value: 12.327, Min Value: 1327.000, Max Value: 1384.000
+   Avg Time: 5.928, Standard Time: 0.061, Min Time: 5.863, Max Time: 6.065
+0.223645 0.326209
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1348.000, Standard Value: 13.313, Min Value: 1328.000, Max Value: 1391.000
+   Avg Time: 7.059, Standard Time: 0.369, Min Time: 6.374, Max Time: 7.651
+0.49612 0.051806
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1343.500, Standard Value: 18.199, Min Value: 1326.000, Max Value: 1403.000
+   Avg Time: 7.159, Standard Time: 0.179, Min Time: 6.734, Max Time: 7.481
+0.429151 0.488409
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 748.000, Standard Value: 13.997, Min Value: 725.000, Max Value: 788.000
+   Avg Time: 4.699, Standard Time: 0.095, Min Time: 4.523, Max Time: 4.863
+0.330949 0.210067
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 751.500, Standard Value: 17.085, Min Value: 731.000, Max Value: 793.000
+   Avg Time: 4.340, Standard Time: 0.034, Min Time: 4.297, Max Time: 4.477
+0.0947602 0.061753
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 748.500, Standard Value: 18.452, Min Value: 723.000, Max Value: 795.000
+   Avg Time: 5.099, Standard Time: 0.136, Min Time: 4.754, Max Time: 5.343
+0.386806 0.415978
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 754.000, Standard Value: 17.810, Min Value: 728.000, Max Value: 792.000
+   Avg Time: 5.559, Standard Time: 0.245, Min Time: 4.938, Max Time: 5.835
+0.479644 0.11016
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 760.500, Standard Value: 15.637, Min Value: 727.000, Max Value: 790.000
+   Avg Time: 5.295, Standard Time: 0.210, Min Time: 4.706, Max Time: 5.659
+0.440862 0.0621979
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 749.500, Standard Value: 14.713, Min Value: 729.000, Max Value: 778.000
+   Avg Time: 4.328, Standard Time: 0.025, Min Time: 4.279, Max Time: 4.398
+0.117246 0.319778
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 764.000, Standard Value: 18.239, Min Value: 728.000, Max Value: 789.000
+   Avg Time: 4.594, Standard Time: 0.021, Min Time: 4.558, Max Time: 4.658
+0.0192667 0.44831
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 748.000, Standard Value: 17.791, Min Value: 726.000, Max Value: 792.000
+   Avg Time: 5.752, Standard Time: 0.202, Min Time: 5.250, Max Time: 6.012
+0.497698 0.146071
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 743.500, Standard Value: 16.458, Min Value: 723.000, Max Value: 778.000
+   Avg Time: 4.559, Standard Time: 0.048, Min Time: 4.414, Max Time: 4.645
+0.289401 0.466693
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 754.000, Standard Value: 13.831, Min Value: 726.000, Max Value: 776.000
+   Avg Time: 4.846, Standard Time: 0.116, Min Time: 4.614, Max Time: 5.097
+0.362634 0.192384
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 749.500, Standard Value: 18.030, Min Value: 726.000, Max Value: 788.000
+   Avg Time: 4.444, Standard Time: 0.024, Min Time: 4.414, Max Time: 4.507
+0.0566673 0.3354
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 755.500, Standard Value: 17.842, Min Value: 728.000, Max Value: 789.000
+   Avg Time: 4.467, Standard Time: 0.070, Min Time: 4.307, Max Time: 4.561
+0.26576 0.27457
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 746.000, Standard Value: 20.250, Min Value: 724.000, Max Value: 799.000
+   Avg Time: 4.652, Standard Time: 0.101, Min Time: 4.406, Max Time: 4.825
+0.315078 0.34998
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 754.000, Standard Value: 17.286, Min Value: 727.000, Max Value: 787.000
+   Avg Time: 4.387, Standard Time: 0.045, Min Time: 4.356, Max Time: 4.596
+0.0761574 0.145617
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 748.000, Standard Value: 18.080, Min Value: 723.000, Max Value: 778.000
+   Avg Time: 4.348, Standard Time: 0.029, Min Time: 4.258, Max Time: 4.403
+0.183315 0.478615
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 751.000, Standard Value: 16.107, Min Value: 729.000, Max Value: 791.000
+   Avg Time: 4.279, Standard Time: 0.046, Min Time: 4.222, Max Time: 4.467
+0.138682 0.0861695
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 747.000, Standard Value: 18.723, Min Value: 726.000, Max Value: 788.000
+   Avg Time: 4.312, Standard Time: 0.026, Min Time: 4.260, Max Time: 4.349
+0.151913 0.340054
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 747.500, Standard Value: 14.486, Min Value: 728.000, Max Value: 790.000
+   Avg Time: 5.711, Standard Time: 0.167, Min Time: 5.437, Max Time: 5.984
+0.47682 0.446249
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 752.000, Standard Value: 17.113, Min Value: 723.000, Max Value: 787.000
+   Avg Time: 4.305, Standard Time: 0.033, Min Time: 4.219, Max Time: 4.369
+0.199888 0.248725
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 748.000, Standard Value: 18.612, Min Value: 725.000, Max Value: 790.000
+   Avg Time: 4.508, Standard Time: 0.156, Min Time: 4.274, Max Time: 4.865
+0.137187 0.232444
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 757.500, Standard Value: 19.634, Min Value: 725.000, Max Value: 788.000
+   Avg Time: 4.364, Standard Time: 0.106, Min Time: 4.290, Max Time: 4.699
+0.196821 0.454826
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 752.500, Standard Value: 19.326, Min Value: 721.000, Max Value: 802.000
+   Avg Time: 4.778, Standard Time: 0.201, Min Time: 4.522, Max Time: 5.223
+0.316915 0.481468
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 749.000, Standard Value: 14.954, Min Value: 725.000, Max Value: 774.000
+   Avg Time: 5.399, Standard Time: 0.257, Min Time: 4.948, Max Time: 6.093
+0.40655 0.481991
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 748.000, Standard Value: 18.074, Min Value: 721.000, Max Value: 788.000
+   Avg Time: 4.998, Standard Time: 1.460, Min Time: 4.642, Max Time: 12.875
+0.315793 0.281346
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 757.000, Standard Value: 15.256, Min Value: 729.000, Max Value: 790.000
+   Avg Time: 4.444, Standard Time: 0.173, Min Time: 4.271, Max Time: 4.999
+0.150571 0.151674
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 760.500, Standard Value: 18.148, Min Value: 727.000, Max Value: 793.000
+   Avg Time: 4.612, Standard Time: 0.185, Min Time: 4.321, Max Time: 5.106
+0.329515 0.0304871
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 748.000, Standard Value: 17.768, Min Value: 725.000, Max Value: 788.000
+   Avg Time: 4.530, Standard Time: 0.198, Min Time: 4.336, Max Time: 5.158
+0.102807 0.177767
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 750.000, Standard Value: 16.838, Min Value: 727.000, Max Value: 798.000
+   Avg Time: 5.389, Standard Time: 0.303, Min Time: 4.720, Max Time: 6.022
+0.386209 0.244978
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 756.000, Standard Value: 18.441, Min Value: 730.000, Max Value: 789.000
+   Avg Time: 4.870, Standard Time: 0.301, Min Time: 4.644, Max Time: 5.868
+0.0137188 0.0374014
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 748.500, Standard Value: 17.483, Min Value: 725.000, Max Value: 791.000
+   Avg Time: 4.583, Standard Time: 0.188, Min Time: 4.436, Max Time: 5.260
+0.0929917 0.437215
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 756.000, Standard Value: 17.514, Min Value: 725.000, Max Value: 789.000
+   Avg Time: 4.732, Standard Time: 0.246, Min Time: 4.462, Max Time: 5.249
+0.0685384 0.240039
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 748.500, Standard Value: 18.342, Min Value: 725.000, Max Value: 799.000
+   Avg Time: 4.532, Standard Time: 0.128, Min Time: 4.306, Max Time: 4.813
+0.220822 0.199576
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 752.500, Standard Value: 15.454, Min Value: 724.000, Max Value: 776.000
+   Avg Time: 4.506, Standard Time: 0.137, Min Time: 4.340, Max Time: 4.806
+0.201622 0.470475
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 753.500, Standard Value: 16.046, Min Value: 728.000, Max Value: 791.000
+   Avg Time: 5.054, Standard Time: 0.144, Min Time: 4.710, Max Time: 5.320
+0.370557 0.48214
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 753.500, Standard Value: 15.987, Min Value: 728.000, Max Value: 789.000
+   Avg Time: 4.975, Standard Time: 0.182, Min Time: 4.670, Max Time: 5.477
+0.347217 0.241127
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 749.000, Standard Value: 16.092, Min Value: 728.000, Max Value: 790.000
+   Avg Time: 6.713, Standard Time: 0.559, Min Time: 6.086, Max Time: 8.142
+0.478387 0.421485
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 756.500, Standard Value: 15.729, Min Value: 728.000, Max Value: 787.000
+   Avg Time: 7.769, Standard Time: 0.263, Min Time: 7.208, Max Time: 8.389
+0.476247 0.467268
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 747.500, Standard Value: 22.022, Min Value: 726.000, Max Value: 797.000
+   Avg Time: 7.037, Standard Time: 0.289, Min Time: 6.588, Max Time: 7.668
+0.435324 0.287989
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 749.000, Standard Value: 14.399, Min Value: 728.000, Max Value: 789.000
+   Avg Time: 6.995, Standard Time: 0.267, Min Time: 6.528, Max Time: 7.660
+0.430198 0.207991
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 749.500, Standard Value: 19.387, Min Value: 729.000, Max Value: 791.000
+   Avg Time: 5.798, Standard Time: 0.222, Min Time: 5.546, Max Time: 6.548
+0.26375 0.118651
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 750.000, Standard Value: 20.784, Min Value: 723.000, Max Value: 789.000
+   Avg Time: 5.661, Standard Time: 0.114, Min Time: 5.482, Max Time: 5.935
+0.160165 0.464136
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 751.500, Standard Value: 17.378, Min Value: 730.000, Max Value: 807.000
+   Avg Time: 5.723, Standard Time: 0.167, Min Time: 5.526, Max Time: 6.267
+0.0726986 0.0305651
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 749.500, Standard Value: 18.908, Min Value: 726.000, Max Value: 790.000
+   Avg Time: 6.830, Standard Time: 0.206, Min Time: 6.468, Max Time: 7.201
+0.395124 0.46588
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 755.000, Standard Value: 16.937, Min Value: 726.000, Max Value: 789.000
+   Avg Time: 5.739, Standard Time: 0.129, Min Time: 5.538, Max Time: 6.064
+0.231977 0.347747
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 747.500, Standard Value: 21.478, Min Value: 728.000, Max Value: 796.000
+   Avg Time: 5.692, Standard Time: 0.118, Min Time: 5.458, Max Time: 5.952
+0.190759 0.486158
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 749.000, Standard Value: 15.984, Min Value: 726.000, Max Value: 789.000
+   Avg Time: 5.631, Standard Time: 0.158, Min Time: 5.269, Max Time: 6.054
+0.183298 0.450045
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 757.500, Standard Value: 18.651, Min Value: 725.000, Max Value: 790.000
+   Avg Time: 5.634, Standard Time: 0.109, Min Time: 5.456, Max Time: 5.868
+0.126753 0.487787
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 758.000, Standard Value: 17.350, Min Value: 732.000, Max Value: 791.000
+   Avg Time: 6.790, Standard Time: 0.390, Min Time: 5.931, Max Time: 7.707
+0.448507 0.0352555
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 753.500, Standard Value: 16.201, Min Value: 727.000, Max Value: 788.000
+   Avg Time: 6.056, Standard Time: 0.159, Min Time: 5.665, Max Time: 6.260
+0.302967 0.301168
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 750.000, Standard Value: 14.190, Min Value: 722.000, Max Value: 776.000
+   Avg Time: 5.678, Standard Time: 0.130, Min Time: 5.482, Max Time: 6.017
+0.218662 0.344604
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 750.000, Standard Value: 15.864, Min Value: 726.000, Max Value: 788.000
+   Avg Time: 6.026, Standard Time: 0.208, Min Time: 5.582, Max Time: 6.561
+0.312365 0.175712
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 748.500, Standard Value: 19.296, Min Value: 728.000, Max Value: 790.000
+   Avg Time: 5.877, Standard Time: 0.325, Min Time: 5.605, Max Time: 6.723
+0.0498545 0.324164
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 745.000, Standard Value: 20.036, Min Value: 723.000, Max Value: 789.000
+   Avg Time: 6.124, Standard Time: 0.261, Min Time: 5.794, Max Time: 7.045
+0.313089 0.348431
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 748.000, Standard Value: 17.011, Min Value: 728.000, Max Value: 788.000
+   Avg Time: 6.034, Standard Time: 0.146, Min Time: 5.649, Max Time: 6.344
+0.300181 0.234991
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 751.000, Standard Value: 18.677, Min Value: 726.000, Max Value: 791.000
+   Avg Time: 5.731, Standard Time: 0.128, Min Time: 5.458, Max Time: 6.048
+0.225054 0.187375
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 757.500, Standard Value: 17.151, Min Value: 725.000, Max Value: 789.000
+   Avg Time: 6.782, Standard Time: 0.244, Min Time: 6.186, Max Time: 7.288
+0.404343 0.258017
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 750.000, Standard Value: 16.273, Min Value: 724.000, Max Value: 790.000
+   Avg Time: 5.692, Standard Time: 0.154, Min Time: 5.454, Max Time: 6.091
+0.226778 0.306813
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 748.000, Standard Value: 18.805, Min Value: 726.000, Max Value: 788.000
+   Avg Time: 7.594, Standard Time: 0.348, Min Time: 6.903, Max Time: 8.159
+0.482494 0.351362
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 749.500, Standard Value: 20.957, Min Value: 725.000, Max Value: 789.000
+   Avg Time: 5.773, Standard Time: 0.165, Min Time: 5.548, Max Time: 6.287
+0.246793 0.43782
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 749.000, Standard Value: 15.249, Min Value: 725.000, Max Value: 789.000
+   Avg Time: 5.937, Standard Time: 0.200, Min Time: 5.574, Max Time: 6.423
+0.279011 0.41259
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 749.000, Standard Value: 18.745, Min Value: 728.000, Max Value: 790.000
+   Avg Time: 7.013, Standard Time: 0.352, Min Time: 6.418, Max Time: 7.744
+0.449212 0.201502
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 753.500, Standard Value: 18.149, Min Value: 729.000, Max Value: 790.000
+   Avg Time: 5.678, Standard Time: 0.163, Min Time: 5.415, Max Time: 6.099
+0.248915 0.0687525
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 747.500, Standard Value: 12.877, Min Value: 728.000, Max Value: 775.000
+   Avg Time: 7.053, Standard Time: 0.319, Min Time: 6.461, Max Time: 7.790
+0.430927 0.391863
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 753.000, Standard Value: 15.575, Min Value: 727.000, Max Value: 791.000
+   Avg Time: 5.935, Standard Time: 0.124, Min Time: 5.624, Max Time: 6.302
+0.0259333 0.166164
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 751.000, Standard Value: 18.565, Min Value: 726.000, Max Value: 788.000
+   Avg Time: 6.223, Standard Time: 0.141, Min Time: 5.960, Max Time: 6.549
+0.326339 0.324777
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 749.000, Standard Value: 16.030, Min Value: 725.000, Max Value: 789.000
+   Avg Time: 5.681, Standard Time: 0.225, Min Time: 5.415, Max Time: 6.498
+0.174475 0.288295
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 748.000, Standard Value: 16.588, Min Value: 726.000, Max Value: 787.000
+   Avg Time: 6.322, Standard Time: 0.221, Min Time: 6.076, Max Time: 6.872
+0.348377 0.45047
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 757.500, Standard Value: 16.296, Min Value: 729.000, Max Value: 790.000
+   Avg Time: 5.806, Standard Time: 0.151, Min Time: 5.493, Max Time: 6.176
+0.050894 0.140788
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 755.000, Standard Value: 14.033, Min Value: 729.000, Max Value: 789.000
+   Avg Time: 5.982, Standard Time: 0.132, Min Time: 5.771, Max Time: 6.413
+0.0150668 0.277612
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 758.500, Standard Value: 16.548, Min Value: 728.000, Max Value: 788.000
+   Avg Time: 5.549, Standard Time: 0.158, Min Time: 5.164, Max Time: 5.822
+0.168634 0.149818
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 748.000, Standard Value: 16.072, Min Value: 725.000, Max Value: 787.000
+   Avg Time: 5.540, Standard Time: 0.157, Min Time: 5.394, Max Time: 6.075
+0.149002 0.476631
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 755.500, Standard Value: 17.995, Min Value: 728.000, Max Value: 791.000
+   Avg Time: 5.868, Standard Time: 0.164, Min Time: 5.513, Max Time: 6.209
+0.273334 0.166437
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 757.000, Standard Value: 14.185, Min Value: 731.000, Max Value: 789.000
+   Avg Time: 6.672, Standard Time: 0.265, Min Time: 6.174, Max Time: 7.135
+0.423123 0.0547321
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 748.000, Standard Value: 14.610, Min Value: 725.000, Max Value: 787.000
+   Avg Time: 5.610, Standard Time: 0.134, Min Time: 5.361, Max Time: 5.947
+0.120601 0.218802
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 756.000, Standard Value: 18.286, Min Value: 728.000, Max Value: 789.000
+   Avg Time: 5.704, Standard Time: 0.205, Min Time: 5.391, Max Time: 6.373
+0.26666 0.0602928
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 748.500, Standard Value: 17.324, Min Value: 725.000, Max Value: 782.000
+   Avg Time: 5.889, Standard Time: 0.163, Min Time: 5.564, Max Time: 6.241
+0.262506 0.460364
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 748.000, Standard Value: 17.797, Min Value: 724.000, Max Value: 788.000
+   Avg Time: 6.466, Standard Time: 0.186, Min Time: 5.975, Max Time: 6.821
+0.365798 0.444125
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 751.500, Standard Value: 19.724, Min Value: 726.000, Max Value: 790.000
+   Avg Time: 5.598, Standard Time: 0.175, Min Time: 5.271, Max Time: 6.063
+0.17076 0.077967
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 748.500, Standard Value: 17.784, Min Value: 726.000, Max Value: 791.000
+   Avg Time: 5.776, Standard Time: 0.151, Min Time: 5.470, Max Time: 6.114
+0.253757 0.100504
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 748.500, Standard Value: 15.679, Min Value: 726.000, Max Value: 791.000
+   Avg Time: 5.943, Standard Time: 0.152, Min Time: 5.625, Max Time: 6.382
+0.280762 0.201059
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 754.000, Standard Value: 19.580, Min Value: 726.000, Max Value: 791.000
+   Avg Time: 5.598, Standard Time: 0.165, Min Time: 5.300, Max Time: 6.045
+0.221428 0.0189617
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 749.000, Standard Value: 17.989, Min Value: 726.000, Max Value: 789.000
+   Avg Time: 5.801, Standard Time: 0.135, Min Time: 5.549, Max Time: 6.159
+0.063971 0.346105
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 756.000, Standard Value: 16.537, Min Value: 728.000, Max Value: 795.000
+   Avg Time: 5.652, Standard Time: 0.164, Min Time: 5.408, Max Time: 6.063
+0.10834 0.0404134
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 748.500, Standard Value: 20.965, Min Value: 724.000, Max Value: 788.000
+   Avg Time: 6.033, Standard Time: 0.177, Min Time: 5.773, Max Time: 6.397
+0.307336 0.337667
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 771.500, Standard Value: 12.971, Min Value: 748.000, Max Value: 798.000
+   Avg Time: 6.980, Standard Time: 0.341, Min Time: 6.186, Max Time: 7.557
+0.481838 0.00404093
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 748.000, Standard Value: 17.475, Min Value: 723.000, Max Value: 791.000
+   Avg Time: 5.648, Standard Time: 0.153, Min Time: 5.382, Max Time: 6.089
+0.205562 0.355271
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 749.000, Standard Value: 16.277, Min Value: 728.000, Max Value: 801.000
+   Avg Time: 5.559, Standard Time: 0.220, Min Time: 5.341, Max Time: 6.207
+0.135578 0.0743281
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 749.000, Standard Value: 13.027, Min Value: 726.000, Max Value: 773.000
+   Avg Time: 5.620, Standard Time: 0.141, Min Time: 5.382, Max Time: 5.892
+0.1159 0.130411
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 750.500, Standard Value: 19.910, Min Value: 723.000, Max Value: 786.000
+   Avg Time: 5.616, Standard Time: 0.147, Min Time: 5.348, Max Time: 5.945
+0.145429 0.406815
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 750.500, Standard Value: 18.947, Min Value: 726.000, Max Value: 789.000
+   Avg Time: 7.288, Standard Time: 0.215, Min Time: 6.850, Max Time: 7.763
+0.4544 0.46444
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 746.500, Standard Value: 18.116, Min Value: 724.000, Max Value: 788.000
+   Avg Time: 5.783, Standard Time: 0.110, Min Time: 5.593, Max Time: 6.082
+0.240897 0.402646
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 748.000, Standard Value: 13.741, Min Value: 725.000, Max Value: 775.000
+   Avg Time: 5.644, Standard Time: 0.107, Min Time: 5.477, Max Time: 5.925
+0.118548 0.402776
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 752.500, Standard Value: 18.688, Min Value: 729.000, Max Value: 790.000
+   Avg Time: 5.613, Standard Time: 0.138, Min Time: 5.324, Max Time: 5.952
+0.135798 0.0922046
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 751.500, Standard Value: 17.170, Min Value: 724.000, Max Value: 789.000
+   Avg Time: 5.619, Standard Time: 0.117, Min Time: 5.541, Max Time: 5.912
+0.115843 0.454771
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 743.500, Standard Value: 12.005, Min Value: 725.000, Max Value: 772.000
+   Avg Time: 7.585, Standard Time: 0.373, Min Time: 6.981, Max Time: 8.458
+0.487532 0.45324
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 756.000, Standard Value: 14.856, Min Value: 727.000, Max Value: 789.000
+   Avg Time: 6.115, Standard Time: 0.219, Min Time: 5.679, Max Time: 6.673
+0.340364 0.0899082
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 749.000, Standard Value: 13.581, Min Value: 728.000, Max Value: 788.000
+   Avg Time: 6.240, Standard Time: 0.175, Min Time: 5.886, Max Time: 6.612
+0.339238 0.378737
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 760.000, Standard Value: 19.246, Min Value: 727.000, Max Value: 788.000
+   Avg Time: 5.779, Standard Time: 0.147, Min Time: 5.521, Max Time: 6.304
+0.0623005 0.186642
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 759.000, Standard Value: 15.533, Min Value: 732.000, Max Value: 790.000
+   Avg Time: 6.084, Standard Time: 0.172, Min Time: 5.680, Max Time: 6.453
+0.333439 0.0617232
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 748.000, Standard Value: 15.217, Min Value: 726.000, Max Value: 786.000
+   Avg Time: 5.708, Standard Time: 0.197, Min Time: 5.366, Max Time: 6.287
+0.228391 0.220336
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7998.500, Standard Value: 237.576, Min Value: 7895.000, Max Value: 8545.000
+   Avg Time: 1.329, Standard Time: 0.030, Min Time: 1.264, Max Time: 1.391
+0.272249 0.406993
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1327.500, Standard Value: 39.828, Min Value: 1258.000, Max Value: 1415.000
+   Avg Time: 2.462, Standard Time: 0.082, Min Time: 2.307, Max Time: 2.676
+0.0898911 0.268637
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1326.000, Standard Value: 34.897, Min Value: 1265.000, Max Value: 1421.000
+   Avg Time: 10.585, Standard Time: 1.082, Min Time: 8.257, Max Time: 12.742
+0.101785 0.33746
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1327.500, Standard Value: 37.687, Min Value: 1269.000, Max Value: 1410.000
+   Avg Time: 5.260, Standard Time: 0.349, Min Time: 4.619, Max Time: 6.213
+0.426939 0.227465
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1341.000, Standard Value: 37.785, Min Value: 1278.000, Max Value: 1406.000
+   Avg Time: 2.229, Standard Time: 0.046, Min Time: 2.116, Max Time: 2.298
+0.073262 0.360458
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1337.000, Standard Value: 35.044, Min Value: 1278.000, Max Value: 1420.000
+   Avg Time: 5.240, Standard Time: 0.368, Min Time: 4.367, Max Time: 5.950
+0.182402 0.49288
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1329.000, Standard Value: 36.699, Min Value: 1260.000, Max Value: 1413.000
+   Avg Time: 5.038, Standard Time: 0.395, Min Time: 4.485, Max Time: 5.929
+0.414568 0.147862
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1334.500, Standard Value: 36.559, Min Value: 1294.000, Max Value: 1413.000
+   Avg Time: 5.013, Standard Time: 0.347, Min Time: 4.230, Max Time: 5.820
+0.140483 0.224896
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1328.000, Standard Value: 32.530, Min Value: 1271.000, Max Value: 1408.000
+   Avg Time: 4.513, Standard Time: 0.310, Min Time: 3.941, Max Time: 5.081
+0.392062 0.437136
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1315.000, Standard Value: 37.829, Min Value: 1263.000, Max Value: 1448.000
+   Avg Time: 4.383, Standard Time: 0.245, Min Time: 3.896, Max Time: 5.042
+0.283602 0.44486
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1286.500, Standard Value: 27.019, Min Value: 1253.000, Max Value: 1386.000
+   Avg Time: 11.968, Standard Time: 0.767, Min Time: 10.613, Max Time: 13.837
+0.211401 0.250392
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1276.000, Standard Value: 24.867, Min Value: 1253.000, Max Value: 1343.000
+   Avg Time: 15.717, Standard Time: 1.342, Min Time: 12.284, Max Time: 18.215
+0.235598 0.373209
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1291.000, Standard Value: 21.174, Min Value: 1253.000, Max Value: 1341.000
+   Avg Time: 37.002, Standard Time: 4.084, Min Time: 28.012, Max Time: 43.029
+0.414933 0.109414
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1279.500, Standard Value: 21.139, Min Value: 1242.000, Max Value: 1329.000
+   Avg Time: 30.585, Standard Time: 2.135, Min Time: 25.659, Max Time: 34.921
+0.359678 0.429647
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1283.500, Standard Value: 23.533, Min Value: 1254.000, Max Value: 1340.000
+   Avg Time: 27.940, Standard Time: 1.970, Min Time: 24.352, Max Time: 31.917
+0.344881 0.370813
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1282.000, Standard Value: 21.972, Min Value: 1246.000, Max Value: 1355.000
+   Avg Time: 22.381, Standard Time: 1.557, Min Time: 18.703, Max Time: 24.957
+0.305284 0.26026
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1281.500, Standard Value: 13.537, Min Value: 1256.000, Max Value: 1314.000
+   Avg Time: 12.963, Standard Time: 0.695, Min Time: 12.177, Max Time: 14.914
+0.22003 0.478252
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1288.500, Standard Value: 20.057, Min Value: 1257.000, Max Value: 1340.000
+   Avg Time: 4.822, Standard Time: 0.231, Min Time: 4.351, Max Time: 5.282
+0.113522 0.490004
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1319.500, Standard Value: 33.509, Min Value: 1261.000, Max Value: 1416.000
+   Avg Time: 2.885, Standard Time: 0.074, Min Time: 2.701, Max Time: 3.028
+0.058353 0.487552
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1422.500, Standard Value: 26.742, Min Value: 1360.000, Max Value: 1468.000
+   Avg Time: 6.920, Standard Time: 0.261, Min Time: 6.055, Max Time: 7.225
+0.141208 0.00748444
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1286.500, Standard Value: 18.088, Min Value: 1253.000, Max Value: 1327.000
+   Avg Time: 16.376, Standard Time: 1.016, Min Time: 14.521, Max Time: 17.993
+0.252734 0.323687
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1312.000, Standard Value: 32.602, Min Value: 1256.000, Max Value: 1387.000
+   Avg Time: 46.706, Standard Time: 6.593, Min Time: 33.767, Max Time: 61.293
+0.48373 0.0971337
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1314.000, Standard Value: 33.519, Min Value: 1263.000, Max Value: 1389.000
+   Avg Time: 8.301, Standard Time: 0.650, Min Time: 6.962, Max Time: 9.312
+0.176057 0.0490784
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1333.000, Standard Value: 40.208, Min Value: 1276.000, Max Value: 1458.000
+   Avg Time: 6.625, Standard Time: 0.515, Min Time: 5.606, Max Time: 7.559
+0.148399 0.0421548
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1291.000, Standard Value: 16.902, Min Value: 1258.000, Max Value: 1326.000
+   Avg Time: 10.258, Standard Time: 0.618, Min Time: 9.021, Max Time: 11.127
+0.188776 0.43229
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1273.500, Standard Value: 15.391, Min Value: 1253.000, Max Value: 1308.000
+   Avg Time: 46.891, Standard Time: 3.425, Min Time: 36.629, Max Time: 52.607
+0.458062 0.391439
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1298.500, Standard Value: 22.774, Min Value: 1263.000, Max Value: 1355.000
+   Avg Time: 3.788, Standard Time: 0.140, Min Time: 3.410, Max Time: 4.136
+0.086382 0.348062
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1317.000, Standard Value: 46.232, Min Value: 1273.000, Max Value: 1424.000
+   Avg Time: 6.348, Standard Time: 0.563, Min Time: 5.152, Max Time: 7.326
+0.143203 0.0574166
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1312.000, Standard Value: 43.227, Min Value: 1261.000, Max Value: 1450.000
+   Avg Time: 2.824, Standard Time: 0.065, Min Time: 2.688, Max Time: 2.986
+0.0520529 0.390728
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1277.500, Standard Value: 17.136, Min Value: 1256.000, Max Value: 1331.000
+   Avg Time: 25.513, Standard Time: 1.264, Min Time: 21.552, Max Time: 27.290
+0.324996 0.409702
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1318.500, Standard Value: 29.925, Min Value: 1270.000, Max Value: 1384.000
+   Avg Time: 26.126, Standard Time: 2.895, Min Time: 19.201, Max Time: 30.911
+0.339028 0.0552301
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1313.000, Standard Value: 24.624, Min Value: 1272.000, Max Value: 1372.000
+   Avg Time: 4.003, Standard Time: 0.173, Min Time: 3.749, Max Time: 4.341
+0.0933433 0.206568
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1300.500, Standard Value: 34.524, Min Value: 1252.000, Max Value: 1397.000
+   Avg Time: 4.640, Standard Time: 0.227, Min Time: 4.221, Max Time: 5.092
+0.108382 0.254655
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1276.500, Standard Value: 26.794, Min Value: 1245.000, Max Value: 1378.000
+   Avg Time: 20.017, Standard Time: 1.291, Min Time: 17.524, Max Time: 22.351
+0.28968 0.259718
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1271.000, Standard Value: 14.092, Min Value: 1251.000, Max Value: 1310.000
+   Avg Time: 40.250, Standard Time: 2.398, Min Time: 35.188, Max Time: 44.923
+0.42162 0.375504
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1291.500, Standard Value: 27.347, Min Value: 1231.000, Max Value: 1364.000
+   Avg Time: 10.486, Standard Time: 0.584, Min Time: 8.913, Max Time: 11.454
+0.19445 0.30146
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1302.000, Standard Value: 29.434, Min Value: 1258.000, Max Value: 1390.000
+   Avg Time: 3.466, Standard Time: 0.134, Min Time: 3.193, Max Time: 3.716
+0.0766191 0.388291
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1306.500, Standard Value: 22.883, Min Value: 1255.000, Max Value: 1342.000
+   Avg Time: 5.474, Standard Time: 0.424, Min Time: 4.229, Max Time: 6.039
+0.126077 0.112597
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1276.500, Standard Value: 18.646, Min Value: 1234.000, Max Value: 1313.000
+   Avg Time: 30.293, Standard Time: 1.984, Min Time: 25.914, Max Time: 33.617
+0.35541 0.442856
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1272.000, Standard Value: 18.384, Min Value: 1252.000, Max Value: 1339.000
+   Avg Time: 53.850, Standard Time: 4.872, Min Time: 40.029, Max Time: 60.641
+0.489648 0.331656
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1356.500, Standard Value: 44.573, Min Value: 1283.000, Max Value: 1468.000
+   Avg Time: 50.291, Standard Time: 6.827, Min Time: 33.357, Max Time: 61.446
+0.466592 0.0391153
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1431.000, Standard Value: 29.431, Min Value: 1349.000, Max Value: 1471.000
+   Avg Time: 2.312, Standard Time: 0.016, Min Time: 2.263, Max Time: 2.329
+0.0133183 0.226022
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1306.000, Standard Value: 28.585, Min Value: 1268.000, Max Value: 1383.000
+   Avg Time: 5.492, Standard Time: 0.340, Min Time: 4.946, Max Time: 6.306
+0.127052 0.143643
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1277.000, Standard Value: 15.601, Min Value: 1254.000, Max Value: 1322.000
+   Avg Time: 22.961, Standard Time: 1.266, Min Time: 19.939, Max Time: 24.496
+0.302054 0.494768
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1339.000, Standard Value: 34.996, Min Value: 1282.000, Max Value: 1442.000
+   Avg Time: 54.019, Standard Time: 7.022, Min Time: 37.801, Max Time: 65.160
+0.489239 0.0423107
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1282.000, Standard Value: 25.760, Min Value: 1248.000, Max Value: 1349.000
+   Avg Time: 48.307, Standard Time: 3.586, Min Time: 40.871, Max Time: 56.318
+0.45994 0.285446
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1284.000, Standard Value: 21.961, Min Value: 1254.000, Max Value: 1339.000
+   Avg Time: 54.897, Standard Time: 3.863, Min Time: 45.806, Max Time: 61.610
+0.493626 0.470521
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1313.000, Standard Value: 31.086, Min Value: 1244.000, Max Value: 1411.000
+   Avg Time: 2.936, Standard Time: 0.066, Min Time: 2.791, Max Time: 3.047
+0.0570062 0.456306
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1310.000, Standard Value: 27.735, Min Value: 1269.000, Max Value: 1378.000
+   Avg Time: 40.136, Standard Time: 4.161, Min Time: 31.725, Max Time: 47.030
+0.432977 0.0749381
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1279.000, Standard Value: 20.022, Min Value: 1251.000, Max Value: 1331.000
+   Avg Time: 20.338, Standard Time: 1.103, Min Time: 17.460, Max Time: 22.383
+0.284946 0.491001
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1285.000, Standard Value: 17.547, Min Value: 1258.000, Max Value: 1329.000
+   Avg Time: 42.972, Standard Time: 3.558, Min Time: 36.062, Max Time: 52.534
+0.44152 0.23186
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1307.000, Standard Value: 32.121, Min Value: 1268.000, Max Value: 1390.000
+   Avg Time: 3.432, Standard Time: 0.142, Min Time: 3.053, Max Time: 3.630
+0.0766401 0.189766
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1302.000, Standard Value: 27.003, Min Value: 1258.000, Max Value: 1367.000
+   Avg Time: 9.757, Standard Time: 0.848, Min Time: 7.855, Max Time: 11.029
+0.19077 0.115498
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1284.500, Standard Value: 27.959, Min Value: 1246.000, Max Value: 1365.000
+   Avg Time: 17.544, Standard Time: 1.354, Min Time: 13.796, Max Time: 21.078
+0.268897 0.199361
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1275.000, Standard Value: 24.323, Min Value: 1223.000, Max Value: 1326.000
+   Avg Time: 42.249, Standard Time: 3.070, Min Time: 35.870, Max Time: 48.502
+0.427129 0.393706
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 727.000, Standard Value: 23.449, Min Value: 684.000, Max Value: 754.000
+   Avg Time: 26.101, Standard Time: 1.221, Min Time: 23.439, Max Time: 28.307
+0.383999 0.402411
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 725.500, Standard Value: 16.025, Min Value: 683.000, Max Value: 745.000
+   Avg Time: 26.883, Standard Time: 1.303, Min Time: 24.157, Max Time: 29.514
+0.394833 0.226683
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 753.500, Standard Value: 23.263, Min Value: 706.000, Max Value: 791.000
+   Avg Time: 3.652, Standard Time: 0.231, Min Time: 2.951, Max Time: 3.997
+0.119219 0.018236
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 728.500, Standard Value: 23.716, Min Value: 684.000, Max Value: 751.000
+   Avg Time: 30.600, Standard Time: 1.286, Min Time: 27.508, Max Time: 32.714
+0.415346 0.340763
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 713.000, Standard Value: 17.820, Min Value: 684.000, Max Value: 755.000
+   Avg Time: 7.526, Standard Time: 0.371, Min Time: 6.786, Max Time: 8.245
+0.19428 0.189536
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 728.500, Standard Value: 16.625, Min Value: 693.000, Max Value: 754.000
+   Avg Time: 8.646, Standard Time: 0.409, Min Time: 7.498, Max Time: 9.214
+0.203545 0.139976
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 734.000, Standard Value: 19.719, Min Value: 687.000, Max Value: 764.000
+   Avg Time: 2.295, Standard Time: 0.037, Min Time: 2.185, Max Time: 2.349
+0.0501325 0.213974
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 720.500, Standard Value: 19.671, Min Value: 681.000, Max Value: 750.000
+   Avg Time: 5.386, Standard Time: 0.220, Min Time: 4.915, Max Time: 5.869
+0.148038 0.316346
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 732.500, Standard Value: 21.858, Min Value: 689.000, Max Value: 763.000
+   Avg Time: 1.966, Standard Time: 0.022, Min Time: 1.899, Max Time: 2.008
+0.0385671 0.459817
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 727.500, Standard Value: 20.238, Min Value: 686.000, Max Value: 768.000
+   Avg Time: 16.398, Standard Time: 0.874, Min Time: 14.312, Max Time: 17.983
+0.297728 0.178553
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 729.500, Standard Value: 22.309, Min Value: 690.000, Max Value: 769.000
+   Avg Time: 8.889, Standard Time: 0.585, Min Time: 7.918, Max Time: 9.985
+0.217121 0.0705084
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 727.000, Standard Value: 19.732, Min Value: 684.000, Max Value: 749.000
+   Avg Time: 20.340, Standard Time: 0.944, Min Time: 17.537, Max Time: 21.968
+0.338017 0.198912
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 732.000, Standard Value: 22.363, Min Value: 701.000, Max Value: 792.000
+   Avg Time: 7.567, Standard Time: 0.530, Min Time: 6.668, Max Time: 8.955
+0.198171 0.041063
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 744.000, Standard Value: 21.922, Min Value: 702.000, Max Value: 783.000
+   Avg Time: 4.973, Standard Time: 0.364, Min Time: 4.097, Max Time: 5.574
+0.149469 0.0284579
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 726.000, Standard Value: 14.882, Min Value: 696.000, Max Value: 755.000
+   Avg Time: 34.459, Standard Time: 2.471, Min Time: 24.934, Max Time: 38.059
+0.453193 0.182725
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 721.000, Standard Value: 19.096, Min Value: 685.000, Max Value: 751.000
+   Avg Time: 23.680, Standard Time: 0.703, Min Time: 22.286, Max Time: 25.464
+0.364096 0.378442
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 722.500, Standard Value: 22.921, Min Value: 683.000, Max Value: 761.000
+   Avg Time: 33.915, Standard Time: 1.550, Min Time: 31.242, Max Time: 37.297
+0.442267 0.476782
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 725.000, Standard Value: 16.725, Min Value: 689.000, Max Value: 759.000
+   Avg Time: 12.204, Standard Time: 0.591, Min Time: 10.688, Max Time: 13.153
+0.253923 0.177908
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 724.000, Standard Value: 18.638, Min Value: 689.000, Max Value: 755.000
+   Avg Time: 10.802, Standard Time: 0.627, Min Time: 9.541, Max Time: 12.233
+0.244599 0.0946722
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 740.000, Standard Value: 23.681, Min Value: 685.000, Max Value: 771.000
+   Avg Time: 2.012, Standard Time: 0.021, Min Time: 1.960, Max Time: 2.060
+0.0343022 0.0553228
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 714.500, Standard Value: 22.005, Min Value: 685.000, Max Value: 753.000
+   Avg Time: 17.796, Standard Time: 0.878, Min Time: 15.776, Max Time: 19.079
+0.305609 0.467926
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 728.500, Standard Value: 22.031, Min Value: 686.000, Max Value: 765.000
+   Avg Time: 3.304, Standard Time: 0.088, Min Time: 3.071, Max Time: 3.442
+0.0975757 0.132735
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 720.500, Standard Value: 21.281, Min Value: 684.000, Max Value: 761.000
+   Avg Time: 11.062, Standard Time: 0.476, Min Time: 9.973, Max Time: 11.652
+0.234401 0.33812
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 708.500, Standard Value: 21.141, Min Value: 685.000, Max Value: 773.000
+   Avg Time: 11.080, Standard Time: 0.579, Min Time: 9.660, Max Time: 12.283
+0.235633 0.474796
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 725.000, Standard Value: 20.312, Min Value: 684.000, Max Value: 751.000
+   Avg Time: 8.571, Standard Time: 0.412, Min Time: 7.357, Max Time: 9.177
+0.201272 0.373336
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 728.500, Standard Value: 21.298, Min Value: 684.000, Max Value: 755.000
+   Avg Time: 4.473, Standard Time: 0.193, Min Time: 3.916, Max Time: 4.737
+0.125093 0.242379
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 745.000, Standard Value: 22.243, Min Value: 691.000, Max Value: 786.000
+   Avg Time: 2.027, Standard Time: 0.026, Min Time: 1.965, Max Time: 2.077
+0.0390176 0.285379
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 730.000, Standard Value: 21.665, Min Value: 684.000, Max Value: 750.000
+   Avg Time: 32.206, Standard Time: 1.425, Min Time: 28.814, Max Time: 34.469
+0.42748 0.485281
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 723.000, Standard Value: 18.305, Min Value: 691.000, Max Value: 765.000
+   Avg Time: 2.538, Standard Time: 0.062, Min Time: 2.429, Max Time: 2.675
+0.0738795 0.122735
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 720.500, Standard Value: 19.538, Min Value: 683.000, Max Value: 755.000
+   Avg Time: 37.303, Standard Time: 1.654, Min Time: 34.839, Max Time: 41.279
+0.46886 0.364623
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 724.500, Standard Value: 20.219, Min Value: 684.000, Max Value: 745.000
+   Avg Time: 12.052, Standard Time: 0.501, Min Time: 10.936, Max Time: 12.867
+0.245518 0.477542
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 719.000, Standard Value: 19.139, Min Value: 686.000, Max Value: 750.000
+   Avg Time: 27.404, Standard Time: 1.335, Min Time: 24.251, Max Time: 29.565
+0.393677 0.458
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 732.000, Standard Value: 24.988, Min Value: 684.000, Max Value: 779.000
+   Avg Time: 3.566, Standard Time: 0.159, Min Time: 3.213, Max Time: 3.919
+0.110395 0.0554259
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 719.000, Standard Value: 18.216, Min Value: 684.000, Max Value: 750.000
+   Avg Time: 11.963, Standard Time: 0.675, Min Time: 10.338, Max Time: 12.903
+0.251098 0.18721
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 727.500, Standard Value: 24.726, Min Value: 684.000, Max Value: 753.000
+   Avg Time: 13.925, Standard Time: 0.547, Min Time: 12.875, Max Time: 15.104
+0.267962 0.444413
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 722.000, Standard Value: 22.348, Min Value: 684.000, Max Value: 753.000
+   Avg Time: 17.920, Standard Time: 0.870, Min Time: 14.863, Max Time: 19.474
+0.306815 0.437623
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 717.500, Standard Value: 17.582, Min Value: 682.000, Max Value: 749.000
+   Avg Time: 14.597, Standard Time: 0.805, Min Time: 12.416, Max Time: 16.261
+0.280444 0.227332
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 724.500, Standard Value: 21.630, Min Value: 685.000, Max Value: 757.000
+   Avg Time: 21.649, Standard Time: 1.418, Min Time: 18.902, Max Time: 24.248
+0.356687 0.113121
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 734.000, Standard Value: 22.272, Min Value: 686.000, Max Value: 765.000
+   Avg Time: 2.515, Standard Time: 0.045, Min Time: 2.378, Max Time: 2.592
+0.0687985 0.371806
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 725.500, Standard Value: 16.724, Min Value: 690.000, Max Value: 765.000
+   Avg Time: 38.922, Standard Time: 2.162, Min Time: 32.142, Max Time: 42.231
+0.477217 0.239412
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 727.000, Standard Value: 21.569, Min Value: 685.000, Max Value: 757.000
+   Avg Time: 25.293, Standard Time: 1.581, Min Time: 21.869, Max Time: 27.404
+0.383498 0.150959
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 726.000, Standard Value: 22.423, Min Value: 683.000, Max Value: 758.000
+   Avg Time: 18.749, Standard Time: 0.906, Min Time: 15.789, Max Time: 19.594
+0.318343 0.224505
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 725.500, Standard Value: 15.890, Min Value: 688.000, Max Value: 758.000
+   Avg Time: 6.732, Standard Time: 0.236, Min Time: 5.939, Max Time: 7.096
+0.17448 0.270189
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 760.000, Standard Value: 19.655, Min Value: 712.000, Max Value: 793.000
+   Avg Time: 1.806, Standard Time: 0.011, Min Time: 1.782, Max Time: 1.838
+0.011761 0.121613
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 713.000, Standard Value: 22.495, Min Value: 686.000, Max Value: 761.000
+   Avg Time: 11.700, Standard Time: 0.430, Min Time: 11.143, Max Time: 12.907
+0.241237 0.366634
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 750.500, Standard Value: 19.900, Min Value: 687.000, Max Value: 777.000
+   Avg Time: 19.217, Standard Time: 1.309, Min Time: 15.554, Max Time: 21.847
+0.334609 0.0235907
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 720.000, Standard Value: 15.566, Min Value: 687.000, Max Value: 753.000
+   Avg Time: 30.803, Standard Time: 1.537, Min Time: 27.977, Max Time: 34.169
+0.421296 0.31878
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 715.500, Standard Value: 20.931, Min Value: 684.000, Max Value: 755.000
+   Avg Time: 16.590, Standard Time: 0.586, Min Time: 15.346, Max Time: 18.142
+0.296308 0.491109
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 726.500, Standard Value: 21.631, Min Value: 683.000, Max Value: 763.000
+   Avg Time: 15.560, Standard Time: 0.535, Min Time: 14.650, Max Time: 17.028
+0.288416 0.335007
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 727.500, Standard Value: 20.928, Min Value: 685.000, Max Value: 754.000
+   Avg Time: 16.230, Standard Time: 0.712, Min Time: 14.815, Max Time: 17.677
+0.298052 0.187899
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 797.500, Standard Value: 12.120, Min Value: 758.000, Max Value: 826.000
+   Avg Time: 26.960, Standard Time: 1.044, Min Time: 23.731, Max Time: 28.450
+0.374629 0.00452966
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 712.000, Standard Value: 20.137, Min Value: 686.000, Max Value: 751.000
+   Avg Time: 5.494, Standard Time: 0.166, Min Time: 5.153, Max Time: 5.797
+0.147753 0.451644
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 725.000, Standard Value: 18.186, Min Value: 684.000, Max Value: 744.000
+   Avg Time: 31.907, Standard Time: 1.894, Min Time: 27.270, Max Time: 34.972
+0.427315 0.263297
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 732.000, Standard Value: 18.026, Min Value: 684.000, Max Value: 759.000
+   Avg Time: 2.369, Standard Time: 0.055, Min Time: 2.198, Max Time: 2.454
+0.0611451 0.413393
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 730.500, Standard Value: 21.190, Min Value: 686.000, Max Value: 767.000
+   Avg Time: 2.783, Standard Time: 0.048, Min Time: 2.711, Max Time: 2.926
+0.0786275 0.496081
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 718.000, Standard Value: 20.086, Min Value: 683.000, Max Value: 747.000
+   Avg Time: 15.143, Standard Time: 0.618, Min Time: 13.760, Max Time: 16.315
+0.28115 0.449172
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 735.000, Standard Value: 22.272, Min Value: 700.000, Max Value: 780.000
+   Avg Time: 1.937, Standard Time: 0.020, Min Time: 1.903, Max Time: 1.997
+0.0275404 0.36925
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 7143.500, Standard Value: 146.661, Min Value: 6734.000, Max Value: 7275.000
+   Avg Time: 3.557, Standard Time: 0.115, Min Time: 3.289, Max Time: 3.784
+0.0239882 0.0218942
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2956.000, Standard Value: 49.842, Min Value: 2851.000, Max Value: 3070.000
+   Avg Time: 23.222, Standard Time: 1.516, Min Time: 19.629, Max Time: 25.579
+0.127521 0.188673
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 125371.500, Standard Value: 2176.943, Min Value: 122057.000, Max Value: 130807.000
+   Avg Time: 36.586, Standard Time: 4.811, Min Time: 26.947, Max Time: 44.382
+0.351556 0.267426
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 62563.500, Standard Value: 1399.572, Min Value: 60327.000, Max Value: 65800.000
+   Avg Time: 39.105, Standard Time: 4.410, Min Time: 27.701, Max Time: 47.544
+0.358013 0.119087
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6773.500, Standard Value: 148.288, Min Value: 6504.000, Max Value: 7132.000
+   Avg Time: 11.747, Standard Time: 1.401, Min Time: 9.037, Max Time: 14.643
+0.171325 0.072545
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2974.000, Standard Value: 51.234, Min Value: 2886.000, Max Value: 3070.000
+   Avg Time: 27.498, Standard Time: 1.641, Min Time: 23.047, Max Time: 28.880
+0.142397 0.109133
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 128261.000, Standard Value: 2739.028, Min Value: 122989.000, Max Value: 134189.000
+   Avg Time: 49.004, Standard Time: 6.723, Min Time: 36.724, Max Time: 61.950
+0.41911 0.0707364
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 62877.500, Standard Value: 1501.440, Min Value: 60914.000, Max Value: 66189.000
+   Avg Time: 4.109, Standard Time: 0.113, Min Time: 3.860, Max Time: 4.234
+0.0697742 0.471844
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 7062.500, Standard Value: 134.188, Min Value: 6710.000, Max Value: 7348.000
+   Avg Time: 39.441, Standard Time: 4.041, Min Time: 27.089, Max Time: 44.504
+0.327458 0.0167507
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2987.000, Standard Value: 39.711, Min Value: 2921.000, Max Value: 3087.000
+   Avg Time: 11.711, Standard Time: 0.125, Min Time: 11.363, Max Time: 11.936
+0.0445185 0.390385
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 125516.500, Standard Value: 2254.543, Min Value: 122160.000, Max Value: 130121.000
+   Avg Time: 18.767, Standard Time: 2.477, Min Time: 11.242, Max Time: 22.826
+0.243769 0.288728
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 61516.000, Standard Value: 1205.203, Min Value: 59779.000, Max Value: 63935.000
+   Avg Time: 65.364, Standard Time: 5.082, Min Time: 47.371, Max Time: 72.932
+0.456474 0.34451
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6717.500, Standard Value: 130.800, Min Value: 6563.000, Max Value: 7137.000
+   Avg Time: 6.535, Standard Time: 0.176, Min Time: 6.187, Max Time: 7.011
+0.0759425 0.437709
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2878.500, Standard Value: 67.435, Min Value: 2713.000, Max Value: 3018.000
+   Avg Time: 122.864, Standard Time: 23.627, Min Time: 56.873, Max Time: 159.637
+0.39753 0.278462
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 134792.500, Standard Value: 3647.660, Min Value: 126593.000, Max Value: 140734.000
+   Avg Time: 2.943, Standard Time: 0.018, Min Time: 2.897, Max Time: 2.978
+0.0159625 0.384452
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 61418.500, Standard Value: 1324.261, Min Value: 59670.000, Max Value: 65766.000
+   Avg Time: 40.492, Standard Time: 2.869, Min Time: 35.813, Max Time: 46.922
+0.36322 0.220141
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6538.000, Standard Value: 103.674, Min Value: 6336.000, Max Value: 6791.000
+   Avg Time: 67.663, Standard Time: 9.871, Min Time: 47.104, Max Time: 86.675
+0.489064 0.44147
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2933.500, Standard Value: 68.497, Min Value: 2827.000, Max Value: 3108.000
+   Avg Time: 190.754, Standard Time: 28.613, Min Time: 132.576, Max Time: 237.725
+0.484627 0.150084
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 123805.000, Standard Value: 2311.719, Min Value: 120957.000, Max Value: 130371.000
+   Avg Time: 30.787, Standard Time: 4.154, Min Time: 18.460, Max Time: 35.692
+0.316458 0.439825
+
+Problem: ./data/medium/pr124.tsp
+   Avg Value: 61831.500, Standard Value: 1499.449, Min Value: 59628.000, Max Value: 66756.000
+   Avg Time: 56.526, Standard Time: 6.357, Min Time: 44.026, Max Time: 70.211
+0.434765 0.171491
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6589.500, Standard Value: 113.849, Min Value: 6431.000, Max Value: 6860.000
+   Avg Time: 11.273, Standard Time: 0.926, Min Time: 8.969, Max Time: 12.928
+0.156546 0.238391
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2990.000, Standard Value: 42.728, Min Value: 2975.000, Max Value: 3114.000
+   Avg Time: 8.346, Standard Time: 0.217, Min Time: 8.301, Max Time: 9.530
+0.00248388 0.244946
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 125585.000, Standard Value: 1957.863, Min Value: 120696.000, Max Value: 128208.000
+   Avg Time: 21.875, Standard Time: 2.974, Min Time: 13.314, Max Time: 25.848
+   
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1250.500, Standard Value: 14.137, Min Value: 1219.000, Max Value: 1283.000
+   Avg Time: 3.564, Standard Time: 0.126, Min Time: 3.373, Max Time: 3.882
+0.194897 0.1927
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1246.000, Standard Value: 12.119, Min Value: 1219.000, Max Value: 1258.000
+   Avg Time: 3.643, Standard Time: 0.150, Min Time: 3.435, Max Time: 4.051
+0.303837 0.25767
+
+Problem: ./data/easy/berlin52.tsp
+   Avg Value: 7542.000, Standard Value: 87.533, Min Value: 7542.000, Max Value: 7791.000
+   Avg Time: 1.755, Standard Time: 0.060, Min Time: 1.685, Max Time: 1.875
+0.3202 0.352899
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1240.000, Standard Value: 12.420, Min Value: 1221.000, Max Value: 1265.000
+   Avg Time: 3.147, Standard Time: 0.152, Min Time: 3.033, Max Time: 3.751
+0.379764 0.332963
+
+Problem: ./data/easy/st70.tsp
+   Avg Value: 685.000, Standard Value: 3.758, Min Value: 675.000, Max Value: 694.000
+   Avg Time: 2.242, Standard Time: 0.036, Min Time: 2.170, Max Time: 2.343
+0.140309 0.120649
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1242.500, Standard Value: 15.793, Min Value: 1213.000, Max Value: 1275.000
+   Avg Time: 3.431, Standard Time: 0.118, Min Time: 3.092, Max Time: 3.668
+0.0863586 0.186589
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1240.500, Standard Value: 14.900, Min Value: 1222.000, Max Value: 1274.000
+   Avg Time: 3.581, Standard Time: 0.107, Min Time: 3.423, Max Time: 3.792
+0.442162 0.286966
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1246.500, Standard Value: 16.371, Min Value: 1213.000, Max Value: 1275.000
+   Avg Time: 3.531, Standard Time: 0.094, Min Time: 3.386, Max Time: 3.763
+0.0362524 0.201492
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1243.500, Standard Value: 18.692, Min Value: 1212.000, Max Value: 1286.000
+   Avg Time: 3.537, Standard Time: 0.124, Min Time: 3.403, Max Time: 3.953
+0.352172 0.0924371
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1246.000, Standard Value: 11.239, Min Value: 1224.000, Max Value: 1272.000
+   Avg Time: 3.678, Standard Time: 0.099, Min Time: 3.399, Max Time: 3.900
+0.449123 0.219894
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1248.000, Standard Value: 14.934, Min Value: 1213.000, Max Value: 1268.000
+   Avg Time: 3.780, Standard Time: 0.098, Min Time: 3.651, Max Time: 4.047
+0.154935 0.41678
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1244.500, Standard Value: 15.415, Min Value: 1213.000, Max Value: 1264.000
+   Avg Time: 3.689, Standard Time: 0.166, Min Time: 3.275, Max Time: 3.973
+0.141293 0.149051
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1245.000, Standard Value: 15.597, Min Value: 1211.000, Max Value: 1273.000
+   Avg Time: 3.413, Standard Time: 0.115, Min Time: 3.254, Max Time: 3.809
+0.0437899 0.0293796
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6313.500, Standard Value: 60.527, Min Value: 6177.000, Max Value: 6413.000
+   Avg Time: 5.796, Standard Time: 0.207, Min Time: 5.473, Max Time: 6.283
+0.154682 0.29334
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2642.000, Standard Value: 26.150, Min Value: 2614.000, Max Value: 2718.000
+   Avg Time: 20.393, Standard Time: 0.893, Min Time: 18.880, Max Time: 22.807
+0.0182754 0.216733
+
+Problem: ./data/medium/ch130.tsp
+   Avg Value: 6282.500, Standard Value: 44.780, Min Value: 6194.000, Max Value: 6358.000
+   Avg Time: 11.095, Standard Time: 0.430, Min Time: 10.381, Max Time: 11.905
+0.322585 0.475473
+
+Problem: ./data/medium/a280.tsp
+   Avg Value: 2637.000, Standard Value: 34.908, Min Value: 2584.000, Max Value: 2706.000
+   Avg Time: 54.748, Standard Time: 2.601, Min Time: 50.014, Max Time: 61.071
+0.394672 0.439982
+
+Problem: ./data/medium/bier127.tsp
+   Avg Value: 119904.000, Standard Value: 986.905, Min Value: 118728.000, Max Value: 122305.000
+   Avg Time: 10.412, Standard Time: 0.814, Min Time: 9.269, Max Time: 12.919
+0.319853 0.142679
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1246.000, Standard Value: 17.971, Min Value: 1225.000, Max Value: 1291.000
+   Avg Time: 3.580, Standard Time: 0.119, Min Time: 3.273, Max Time: 3.733
+0.358194 0.341886
+
+Problem: ./data/easy/rat99.tsp
+   Avg Value: 1258.500, Standard Value: 19.768, Min Value: 1233.000, Max Value: 1319.000
+   Avg Time: 2.800, Standard Time: 0.101, Min Time: 2.651, Max Time: 3.077
+0.0680674 0.417055
 

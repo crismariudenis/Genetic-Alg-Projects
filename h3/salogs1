@@ -1,0 +1,8 @@
+SA Problem: ./data/hard/d18512.tsp
+   Avg Value: 2898515.000, Standard Value: 234024.000, Min Value: 2634013.000, Max Value: 3556463.000
+   Avg Time: 2008.954, Standard Time: 296.608, Min Time: 1281.298, Max Time: 2422.456
+
+SA Problem: ./data/hard/brd14051.tsp
+   Avg Value: 1850150.000, Standard Value: 114819.800, Min Value: 1661923.000, Max Value: 2063359.000
+   Avg Time: 1196.385, Standard Time: 177.722, Min Time: 907.365, Max Time: 1596.486
+

@@ -45,7 +45,7 @@ public:
             return nint(std::sqrt(xd * xd + yd * yd));
         }
     }
-    size_t size() const
+    size_t size()
     {
         return data.size();
     }
@@ -139,10 +139,19 @@ public:
 public:
     Graph graph;
     TSP() = default;
-    TSP(std::string file) : file(file)
+    void init(std::string file)
     {
+        this->file = file;
         fin = std::ifstream(file);
         parseHeader();
         parseGraph();
+        assert(graph.size() != 0);
+    }
+    ~TSP()
+    {
+        if (fin.is_open())
+        {
+            fin.close(); // Close the file explicitly
+        }
     }
 };

@@ -6,11 +6,12 @@
 #include <format>
 #include <assert.h>
 #include <unordered_map>
-#include "TSP_parse.h"
 #include <algorithm>
 #include <set>
 #include <unordered_set>
 #include <queue>
+#include "TSP_parse.h"
+#include <thread>
 class Timer
 {
 
@@ -45,10 +46,10 @@ class Population
     std::mt19937_64 gen;
     size_t bestIndiv = 0;
     double bestFitness;
-    double elitism = 0.1;
-    double greedyInit = 0.1;
+    double allTimeBestFitness = std::numeric_limits<double>::max();
     int crossoverPoints = 2;
     double mutationRate;
+    int nrThreads = 3;
 
     Graph &graph;
     std::vector<bool> genBin(size_t size)
@@ -70,6 +71,11 @@ class Population
     }
 
 public:
+    double initialMutationRate = 0.1;
+    double elitism = 0.1;
+    double greedyInit = 0.1;
+
+    int elitNr = 1;
     double eval(const Individual &b)
     {
         auto &path = b.path;
@@ -82,11 +88,14 @@ public:
     }
     Population(int popSize, Graph &graph) : popSize(popSize), graph(graph)
     {
+        pop.resize(popSize);
+    }
+    void init()
+    {
         std::random_device rd;
         gen.seed(rd());
-
-        mutationRate = 0.1;
-        pop.resize(popSize);
+        elitNr = elitism * popSize;
+        mutationRate = initialMutationRate;
         for (auto &x : pop)
         {
             x.path.resize(graph.size());
@@ -108,13 +117,15 @@ public:
     // https://www.enggjournals.com/ijet/docs/IJET17-09-02-188.pdf
     void greedyInitializtion(Individual &x)
     {
-        std::vector<bool> viz(graph.size(), 0);
+        std::vector<bool> viz(graph.size());
+        assert(viz.size() == graph.size());
         std::uniform_int_distribution<> dis(0, graph.size() - 1);
         std::uniform_real_distribution<> realDis(0.0, 1.0);
 
         int start = dis(gen);
         int begin = start;
         int indx = 0;
+        assert(start < viz.size());
         viz[start] = 1;
         x.path[indx++] = start;
         double totalCost = 0;
@@ -134,9 +145,12 @@ public:
 
             if (start == poz)
                 break;
+            assert(indx < viz.size());
             x.path[indx++] = poz;
+
             totalCost += graph.dist(start, poz);
             start = poz;
+            assert(poz < viz.size());
             viz[poz] = 1;
         }
         totalCost += graph.dist(begin, start);
@@ -169,6 +183,8 @@ public:
         maxConsecutiveBest = std::max(consecutiveBest, maxConsecutiveBest);
 
         bestFitness = minFitness;
+        allTimeBestFitness = std::min(bestFitness, allTimeBestFitness);
+
         double eps = 1e-9;
 
         double sum = 0;
@@ -188,9 +204,11 @@ public:
 
     void addElit(std::vector<Individual> &newPop)
     {
-        size_t size = pop.size() * elitism;
+        size_t size = elitNr;
 
         std::vector<std::pair<double, int>> fitnessIndices(pop.size());
+        assert(newPop.size() == pop.size());
+        newPop.resize(pop.size());
 
         for (int i = 0; i < pop.size(); i++)
             fitnessIndices[i] = {pop[i].fitness, i};
@@ -209,7 +227,6 @@ public:
 
         // exit(0);
     }
-
     double comparePaths(const std::vector<int> &p1, const std::vector<int> &p2)
     {
         typedef std::set<std::pair<int, int>> edge_set;
@@ -229,79 +246,172 @@ public:
         };
 
         auto s1 = getEdges(p1);
-        auto s2 = getEdges(p2);
+        int intersection_size = 0;
+        int union_size = s1.size();
 
-        edge_set intersection;
-        edge_set union_set = s1;
-
-        for (const auto &edge : s2)
+        for (int i = 0; i < p2.size() - 1; i++)
         {
-            union_set.insert(edge);
+            int a = std::min(p2[i], p2[i + 1]);
+            int b = std::max(p2[i], p2[i + 1]);
+            std::pair<int, int> edge = {a, b};
             if (s1.find(edge) != s1.end())
             {
-                intersection.insert(edge);
+                intersection_size++;
+            }
+            else
+            {
+                union_size++;
             }
         }
+        int a = std::min(p2[0], p2.back());
+        int b = std::max(p2[0], p2.back());
+        std::pair<int, int> edge = {a, b};
+        if (s1.find(edge) != s1.end())
+            intersection_size++;
+        else
+            union_size++;
 
         // Calculate similarity as the size of the intersection divided by the size of the union
-        double similarity = (double)(intersection.size()) / union_set.size();
+        double similarity = (double)intersection_size / union_size;
         return similarity;
     }
 
-    std::pair<double, double> run(int generations)
+    Individual getNeighbor(Individual &curr)
+    {
+        Individual neighbor = curr;
+        auto &path = neighbor.path;
+        std::uniform_int_distribution<> dis(0, 3);
+
+        int r = dis(gen);
+
+        std::uniform_int_distribution<> randIdx(0, path.size() - 1);
+        int idx1 = randIdx(gen);
+        int idx2 = randIdx(gen);
+
+        if (r == 0) // swap 2 cities
+        {
+            std::swap(path[idx1], path[idx2]);
+        }
+        else if (r == 1) // inversion mutation
+        {
+            std::swap(idx1, idx2);
+            std::reverse(path.begin() + idx1, path.begin() + idx2 + 1);
+        }
+        else if (r == 2) // scramble mutation
+        {
+            if (idx1 > idx2)
+                std::swap(idx1, idx2);
+            std::shuffle(path.begin() + idx1, path.begin() + idx2 + 1, gen);
+        }
+        else if (r == 3) // rotation mutation
+        {
+            if (idx1 > idx2)
+                std::swap(idx1, idx2);
+            std::rotate(path.begin() + idx1, path.begin() + idx1 + 1, path.begin() + idx2 + 1);
+        }
+
+        return neighbor;
+    }
+
+    Individual newSimulatedAnealing(double T, double alpha, Individual state)
+    {
+        double ans = std::numeric_limits<double>::max();
+        Individual curr = state;
+        curr.fitness = eval(curr);
+        Individual best = curr;
+        int samePath = 0;
+        int sameBest = 0;
+
+        while (samePath < std::min(5 * (int)graph.size(), 500) && sameBest < std::min(50 * (int)graph.size(), 1500))
+        {
+            Individual neighbor = getNeighbor(curr);
+            neighbor.fitness = eval(neighbor);
+
+            double delta = neighbor.fitness - curr.fitness;
+            if (delta < 0 || std::exp(-delta / T) > std::uniform_real_distribution<>(0.0, 1.0)(gen))
+            {
+                curr = neighbor;
+                samePath = 0;
+            }
+            else
+                samePath++;
+
+            if (curr.fitness < best.fitness)
+            {
+                best = curr;
+                sameBest = 0;
+            }
+            else
+            {
+                sameBest++;
+            }
+
+            T *= alpha;
+        }
+
+        ans = best.fitness;
+        return best;
+    }
+    std::pair<double, double>
+    run(int generations)
     {
         Timer t;
 
         double ans = std::numeric_limits<double>::max();
-        bool updatedMutation = false;
-        std::vector<Individual> newPop;
-        newPop.resize(popSize);
+        std::vector<Individual> newPop(pop.size());
+        for (auto &x : newPop)
+        {
+            x.path.resize(graph.size());
+        }
         for (int g = 0; g < generations; g++)
         {
             computeFitness();
             addElit(newPop);
-            for (int i = pop.size() * elitism; i < pop.size(); i += 2)
+            for (int i = elitNr; i < pop.size(); i += 2)
             {
                 size_t p1 = selectParent();
                 size_t p2 = p1;
                 while (p1 != p2)
                     p2 = selectParent();
                 // crossover(p1, p2, newPop[i], newPop[i + 1]);
-                pmxCrossover(p1, p2, newPop[i], newPop[i + 1]);
+                if (i + 1 < pop.size())
+                {
+                    pmxCrossover(p1, p2, newPop[i], newPop[i + 1]);
+                    mutate(newPop[i + 1]);
+                }
+                else
+                    crossover(p1, p2, newPop[i]); // handle the case when non elit are an even number
 
                 mutate(newPop[i]);
-                mutate(newPop[i + 1]);
             }
             for (int i = 0; i < pop.size(); i++)
                 pop[i] = newPop[i];
 
-            ans = std::min(bestFitness, ans);
+            ans = std::min(allTimeBestFitness, ans);
 
             if (consecutiveBest > 50)
-                mutationRate = 0.5;
+                mutationRate = std::min(1.0, 5 * initialMutationRate);
             else
-                mutationRate = 0.1;
+                mutationRate = initialMutationRate;
 
-            if (consecutiveBest > 100)
+            if (consecutiveBest % 50 == 0)
             {
-                for (size_t i = pop.size() * elitism; i < pop.size(); ++i)
-                {
-                    std::shuffle(pop[i].path.begin(), pop[i].path.end(), gen);
-                }
-                size_t size = pop.size() * elitism;
+                size_t size = elitNr;
 
+                // Apply SA to refine the population
+                auto r = genBin(size);
+                double T = 100;
+                double alpha = 0.9;
                 for (int i = 0; i < size; i++)
-                    for (int j = i + 1; j < size; j++)
-                    {
-                        double similarity = comparePaths(newPop[i].path, newPop[j].path) * 100;
-                        if (similarity == 100)
-                        {
-                            mutate(newPop[j]);
-                        }
-                    }
-
-                consecutiveBest = 0;
+                {
+                    if (r[i])
+                        pop[i] = newSimulatedAnealing(T, alpha, pop[i]);
+                }
+                // for (int i = size; i < pop.size(); i++)
+                //     std::shuffle(pop[i].path.begin(), pop[i].path.end(), gen);
             }
+
+            elitNr = std::clamp(elitNr, 1, (int)(elitism * popSize));
         }
         // std::cout << maxConsecutiveBest;
         return {ans, t.getTime()};
@@ -326,10 +436,23 @@ public:
     // https://itnext.io/the-genetic-algorithm-and-the-travelling-salesman-problem-tsp-31dfa57f3b62
     void pmxCrossover(int p1, int p2, Individual &ind1, Individual &ind2)
     {
-        ind1 = pop[p1];
-        ind2 = pop[p2];
+
+        if (p1 >= pop.size() || p2 >= pop.size())
+        {
+            std::cerr << "Parent index out of bounds: p1 = " << p1 << ", p2 = " << p2 << std::endl;
+            return;
+        }
         auto &parent1 = pop[p1].path;
         auto &parent2 = pop[p2].path;
+
+        // std::cout << ind1.path.size() << " " << ind2.path.size() << " " << pop[p1].path.size() << " " << pop[p1].path.size() << '\n';
+        ind1.path = pop[p1].path;
+        ind2.path = pop[p2].path;
+
+        if (parent1.size() != ind1.path.size())
+            std::cout << "pmxCrossover: p1 path size = " << pop[p1].path.size() << ", p2 path size = " << pop[p2].path.size() << std::endl;
+
+        assert(0 <= parent1.size() - 1 && "Invalid range for uniform_int_distribution");
 
         std::uniform_int_distribution<> dis(0, parent1.size() - 1);
         int start = dis(gen);
@@ -369,12 +492,12 @@ public:
         fillRemaining(parent2, ind2.path, start, end);
     }
 
-    void crossover(int p1, int p2, Individual &ind1, Individual &ind2)
+    void crossover(int p1, int p2, Individual &ind1)
     {
         ind1.path.resize(pop[p1].path.size());
-        ind2.path.resize(pop[p1].path.size());
 
-        std::uniform_int_distribution<> dis(0, pop[p1].path.size() - 1);
+        std::uniform_int_distribution<>
+            dis(0, pop[p1].path.size() - 1);
 
         std::vector<int> points(crossoverPoints + 1);
 
@@ -401,7 +524,6 @@ public:
                 for (int j = last_point; j <= point; j++)
                 {
                     ind1.path[j] = pop[p1].path[j];
-                    ind2.path[j] = pop[p2].path[j];
                 }
             }
             else
@@ -409,7 +531,6 @@ public:
                 for (int j = last_point; j <= point; j++)
                 {
                     ind1.path[j] = pop[p2].path[j];
-                    ind2.path[j] = pop[p1].path[j];
                 }
             }
 
@@ -422,8 +543,21 @@ public:
     void mutate(Individual &ind)
     {
         std::uniform_real_distribution<> realDis(0.0, 1.0);
+        double r = realDis(gen);
+        if (r < 0.5)
+        {
+            inversionMutation(ind);
+            return;
+        }
+        else if (false)
+        {
+            scrambleMutation(ind);
+            return;
+        }
         if (realDis(gen) < mutationRate)
         {
+            assert(0 <= ind.path.size() - 1 && "Invalid range for uniform_int_distribution");
+
             std::uniform_int_distribution<> dis(0, ind.path.size() - 1);
 
             // Generate two random indices
@@ -438,6 +572,44 @@ public:
             std::rotate(ind.path.begin() + idx1, ind.path.begin() + idx1 + 1, ind.path.begin() + idx2 + 1);
         }
     }
+    void inversionMutation(Individual &ind)
+    {
+        std::uniform_real_distribution<> realDis(0.0, 1.0);
+        if (realDis(gen) < mutationRate)
+        {
+            std::uniform_int_distribution<> dis(0, ind.path.size() - 1);
+
+            // Generate two random indices
+            int idx1 = dis(gen);
+            int idx2 = dis(gen);
+
+            // Ensure idx1 < idx2
+            if (idx1 > idx2)
+                std::swap(idx1, idx2);
+
+            // Reverse the subarray
+            std::reverse(ind.path.begin() + idx1, ind.path.begin() + idx2 + 1);
+        }
+    }
+    void scrambleMutation(Individual &ind)
+    {
+        std::uniform_real_distribution<> realDis(0.0, 1.0);
+        if (realDis(gen) < mutationRate)
+        {
+            std::uniform_int_distribution<> dis(0, ind.path.size() - 1);
+
+            // Generate two random indices
+            int idx1 = dis(gen);
+            int idx2 = dis(gen);
+
+            // Ensure idx1 < idx2
+            if (idx1 > idx2)
+                std::swap(idx1, idx2);
+
+            // Scramble the subarray
+            std::shuffle(ind.path.begin() + idx1, ind.path.begin() + idx2 + 1, gen);
+        }
+    }
 };
 
 class GeneticMain
@@ -449,7 +621,7 @@ public:
     std::string file;
     GeneticMain(std::string file, double trueValue = 0) : trueValue(trueValue), file(file)
     {
-        tsp = TSP{file};
+        tsp.init(this->file);
     }
     void benchmark(int nrSamples)
     {
@@ -457,15 +629,25 @@ public:
 
         double minT = std::numeric_limits<double>::max(), maxT = std::numeric_limits<double>::lowest();
         double minE = std::numeric_limits<double>::max(), maxE = std::numeric_limits<double>::lowest();
+
+        std::uniform_real_distribution<> realDis(0, 0.5);
+        std::mt19937_64 gen;
+
+        std::random_device rd;
+        gen.seed(rd());
+
+        double elit = realDis(gen), mutation = realDis(gen), greedy = realDis(gen);
         for (int i = 0; i < nrSamples; i++)
         {
             Population pop{200, tsp.graph};
+            pop.initialMutationRate = mutation;
+            pop.elitism = elit;
+            pop.init();
             auto [v, t] = pop.run(3000);
-
             errors[i] = v;
             times[i] = t;
-            minE = std::min(minE, errors[i]);
-            maxE = std::max(maxE, errors[i]);
+            minT = std::min(minT, times[i]);
+            maxT = std::max(maxT, times[i]);
         }
         std::sort(errors.begin(), errors.end());
         std::vector<double> temp(30);
@@ -474,13 +656,12 @@ public:
             temp[i] = errors[i];
         }
 
-
-        minT = *std::min_element(temp.begin(), temp.end());
-        maxT = *std::max_element(temp.begin(), temp.end());
-
+        minE = *std::min_element(temp.begin(), temp.end());
+        maxE = *std::max_element(temp.begin(), temp.end());
         std::cout << "Problem: " << file << '\n';
         std::cout << std::format("   Avg Value: {:.3f}, Standard Value: {:.3f}, Min Value: {:.3f}, Max Value: {:.3f}\n", median(temp), sd(temp), minE, maxE);
         std::cout << std::format("   Avg Time: {:.3f}, Standard Time: {:.3f}, Min Time: {:.3f}, Max Time: {:.3f}\n", median(times), sd(times), minT, maxT);
+        std::cout << elit << " " << mutation << '\n';
         std::cout << '\n';
     }
 };
