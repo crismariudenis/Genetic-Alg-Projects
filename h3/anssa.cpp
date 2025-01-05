@@ -104,6 +104,8 @@ int main()
             std::cout << std::fixed << std::setprecision(3);
             std::cout << "Avg Value: " << log.avgValue << ", Standard Value: " << log.stdValue
                       << ", Min Value: " << log.minValue << ", Max Value: " << log.maxValue << std::endl;
+            std::cout << "Avg Time: " << log.avgTime << ", Standard Time: " << log.stdTime
+                      << ", Min Time: " << log.minTime << ", Max Time: " << log.maxTime << std::endl;
 
             if (!log.additionalData.empty())
             {

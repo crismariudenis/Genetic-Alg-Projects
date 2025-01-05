@@ -11,12 +11,7 @@
 #include <unordered_set>
 #include <queue>
 #include "TSP_parse.h"
-#include <atomic>
-#include <mutex>
-#include <queue>
 #include <thread>
-#include <limits>
-#include <condition_variable>
 class Timer
 {
 
@@ -39,89 +34,6 @@ private:
     std::chrono::time_point<std::chrono::high_resolution_clock> startTime;
 };
 
-class ThreadPool
-{
-public:
-    ThreadPool(size_t nrThreads);
-    ~ThreadPool();
-    void enqueueTask(const std::function<void()> &task);
-    void waitForAll();
-
-private:
-    std::vector<std::thread> workers;
-    std::queue<std::function<void()>> tasks;
-    std::mutex queueMutex, mtx;
-    std::condition_variable condition;
-    std::atomic<bool> stop{false};
-    std::atomic<size_t> activeTasks{0};
-    std::condition_variable finished;
-};
-ThreadPool::ThreadPool(size_t nrThreads)
-{
-    for (size_t i = 0; i < nrThreads; ++i)
-    {
-        workers.emplace_back([this]()
-                             {
-            while (true) {
-                std::function<void()> task;
-                {
-                    std::unique_lock<std::mutex> lock(queueMutex);
-                    condition.wait(lock, [this]() {
-                        return stop || !tasks.empty();
-                    });
-                    if (stop && tasks.empty())
-                        return;
-                    task = std::move(tasks.front());
-                    tasks.pop();
-                    ++activeTasks;
-                }
-                task();
-                {
-                    std::lock_guard<std::mutex> lock(queueMutex); // Lock for updating activeTasks
-                    --activeTasks;                         // Decrement active tasks safely
-                }
-
-                // Notify the finished condition variable when all tasks are done
-                {
-                    std::lock_guard<std::mutex> lock(queueMutex);
-                    if (activeTasks == 0)
-                    {
-                        finished.notify_one(); // Notify that all tasks have finished
-                    }
-                }
-            } });
-    }
-}
-
-ThreadPool::~ThreadPool()
-{
-    {
-        std::unique_lock<std::mutex> lock(queueMutex);
-        stop = true;
-    }
-    condition.notify_all();
-    for (std::thread &worker : workers)
-    {
-        worker.join();
-    }
-}
-
-void ThreadPool::enqueueTask(const std::function<void()> &task)
-{
-    {
-        std::unique_lock<std::mutex> lock(queueMutex);
-        tasks.emplace(task);
-    }
-    condition.notify_one();
-}
-
-void ThreadPool::waitForAll()
-{
-    std::unique_lock<std::mutex> lock(queueMutex);
-    finished.wait(lock, [this]()
-                  { return tasks.empty() && activeTasks == 0; });
-}
-
 class Population
 {
     struct Individual
@@ -130,17 +42,14 @@ class Population
         std::vector<int> path;
     };
     int popSize;
-
-    std::vector<Individual>
-        pop;
+    std::vector<Individual> pop;
     std::mt19937_64 gen;
     size_t bestIndiv = 0;
     double bestFitness;
     double allTimeBestFitness = std::numeric_limits<double>::max();
     int crossoverPoints = 2;
     double mutationRate;
-    const size_t nrThreads = 5;
-    ThreadPool threadPool{nrThreads};
+    int nrThreads = 3;
 
     Graph &graph;
     std::vector<bool> genBin(size_t size)
@@ -165,6 +74,7 @@ public:
     double initialMutationRate = 0.1;
     double elitism = 0.1;
     double greedyInit = 0.1;
+
     int elitNr = 1;
     double eval(const Individual &b)
     {
@@ -259,29 +169,10 @@ public:
     int maxConsecutiveBest = 0;
     void computeFitness()
     {
-
-        size_t popSize = pop.size();
-        size_t chunkSize = (popSize + nrThreads - 1) / nrThreads;
-
-        for (int t = 0; t < nrThreads; ++t)
-        {
-            size_t start = t * chunkSize;
-            size_t end = std::min(start + chunkSize, popSize);
-            if (start < end)
-            {
-                threadPool.enqueueTask([this, start, end]()
-                                       {
-                    for (size_t i = start; i < end; ++i) {
-                        pop[i].fitness = eval(pop[i]);
-                    } });
-            }
-        }
-
-        threadPool.waitForAll();
-
         double minFitness = std::numeric_limits<double>::max(), maxFitness = std::numeric_limits<double>::lowest();
         for (int i = 0; i < pop.size(); i++)
         {
+            pop[i].fitness = eval(pop[i]);
             minFitness = std::min(pop[i].fitness, minFitness);
             maxFitness = std::max(pop[i].fitness, maxFitness);
         }
@@ -431,7 +322,7 @@ public:
         int samePath = 0;
         int sameBest = 0;
 
-        while (samePath < 500 && sameBest < 1500)
+        while (samePath < std::min(5 * (int)graph.size(), 500) && sameBest < std::min(50 * (int)graph.size(), 1500))
         {
             Individual neighbor = getNeighbor(curr);
             neighbor.fitness = eval(neighbor);
@@ -502,6 +393,7 @@ public:
                 mutationRate = std::min(1.0, 5 * initialMutationRate);
             else
                 mutationRate = initialMutationRate;
+
             if (false)
                 if (consecutiveBest % 50 == 0)
                 {
@@ -514,35 +406,10 @@ public:
                     for (int i = 0; i < size; i++)
                     {
                         if (r[i])
-                        {
-                            // threadPool.enqueueTask([this, T, alpha, i]()
-                            //                        {
                             pop[i] = newSimulatedAnealing(T, alpha, pop[i]);
-                            // });
-                        }
                     }
-                    // threadPool.waitForAll();
                     // for (int i = size; i < pop.size(); i++)
                     //     std::shuffle(pop[i].path.begin(), pop[i].path.end(), gen);
-                }
-            if (false)
-                if (consecutiveBest > 100)
-                {
-                    for (size_t i = pop.size() * elitism; i < pop.size(); ++i)
-                    {
-                        std::shuffle(pop[i].path.begin(), pop[i].path.end(), gen);
-                    }
-                    size_t size = pop.size() * elitism;
-
-                    for (int i = 0; i < size; i++)
-                        for (int j = i + 1; j < size; j++)
-                        {
-                            double similarity = comparePaths(newPop[i].path, newPop[j].path) * 100;
-                            if (similarity == 100)
-                            {
-                                mutate(newPop[j]);
-                            }
-                        }
                 }
 
             elitNr = std::clamp(elitNr, 1, (int)(elitism * popSize));
@@ -792,6 +659,7 @@ public:
             minT = std::min(minT, times[i]);
             maxT = std::max(maxT, times[i]);
         }
+
 
         minE = *std::min_element(errors.begin(), errors.end());
         maxE = *std::max_element(errors.begin(), errors.end());
