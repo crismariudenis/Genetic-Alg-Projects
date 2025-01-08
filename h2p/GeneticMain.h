@@ -298,8 +298,7 @@ public:
             {
                 Population pop{100, D * n, n, min, max, f};
                 auto [v, t] = pop.run(2000);
-                // errors[i] = std::abs(v - trueValues[d]);
-                errors[i] = v;
+                errors[i] = std::abs(v - trueValues[d]);
                 times[i] = t;
                 minE = std::min(minE, errors[i]);
                 maxE = std::max(maxE, errors[i]);

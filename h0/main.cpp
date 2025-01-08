@@ -69,7 +69,7 @@ class HillClimb
         return v;
     }
 
-    double inline eval(const std::vector<double> &v)
+    double eval(const std::vector<double> &v)
     {
         return f(v);
     }
@@ -134,13 +134,7 @@ public:
         }
         return {ans, t.getTime()};
     }
-    //Todo: abtract its own section but give number.
-    // Todo: dont talk aobut the algorithms that the class knows. maybe in the last paragraph
-    //Todo: stop copying and just cach bin value
-    //Todo: find more tricks to not create more binary vectors
-    //Todo: for D=2 9.66000 [de unde l-am luat]
-    // Todo: add standdard deviasion daca nu spatoiu remove min & max. Median,distante inte quartila. DO IT IN R. maybe add it to makefile
-    //Todo: change the title to numerical function
+
     std::pair<double, double> runFirstImprove(int epochs)
     {
         Timer t;
@@ -251,7 +245,7 @@ public:
     }
 };
 
-int epochs = 500;
+int epochs = 1000;
 void main_rast()
 {
     std::cout << "____________Rastrigin Function____________\n";
@@ -267,8 +261,8 @@ void main_rast()
     HillClimb hc{-5.12, 5.12, 5, f};
     std::cout << "Best Improvement:\n";
     hc.benchmark(30, epochs);
-    //std::cout << "First Improvement:\n";
-    //hc.benchmark2(30, epochs);
+    std::cout << "First Improvement:\n";
+    hc.benchmark2(30, epochs);
     std::cout << '\n';
 }
 
@@ -345,7 +339,7 @@ void main_griewank()
 int main()
 {
     main_rast();
-    //main_micha();
-   // main_dixon();
-    //main_griewank();
+    main_micha();
+    main_dixon();
+    main_griewank();
 }

@@ -374,7 +374,7 @@ void main_micha()
     // hc.benchmark(30, epochs, HillClimb::HC_TYPE::WORST);
 
     GeneticMain g{0, std::acos(-1), 5, f};
-    // g.trueValues = {-4.687658, -9.66015, -29.6308839}; // https://arxiv.org/pdf/2003.09867
+    g.trueValues = {-4.687658, -9.66015, -29.6308839}; // https://arxiv.org/pdf/2003.09867
     g.benchmark(30);
 
     std::cout << '\n';
@@ -437,6 +437,6 @@ int main()
 {
     // main_dejong();
     // main_rast();
-    main_micha();
-    // main_schwefel();
+    // main_micha();
+    main_schwefel();
 }
